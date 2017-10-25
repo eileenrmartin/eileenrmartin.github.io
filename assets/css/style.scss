@@ -1,9 +1,8 @@
 ---
 ---
 
-$background-image: url('https://eileenrmartin.github.io/img/waterfall.jpg');
 
 @import "{{ site.theme }}";
-header {
+.page-header {
   background-image: url('https://eileenrmartin.github.io/img/waterfall.jpg');
 }
