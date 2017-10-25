@@ -13,17 +13,17 @@
 
   * Y. Li, H. Yang, **E.R. Martin**, K.L. Ho, L. Ying, *Butterfly Factorization*, Multiscale Model. Simul., 13(2015), pp. 714-732. [arXiv:1502.01379v3](http://arxiv.org/pdf/1502.01379v3.pdf)
 
-D. Freeman, R. Hotovy, **E.R. Martin**, *Moving finite unit norm tight frames for* $S^n$, Illinois J. of Math, 58 (2014), pp. 311-322. [arXiv:1209.5495v1](http://arxiv.org/pdf/1209.5495.pdf)
+  * D. Freeman, R. Hotovy, **E.R. Martin**, *Moving finite unit norm tight frames for* $S^n$, Illinois J. of Math, 58 (2014), pp. 311-322. [arXiv:1209.5495v1](http://arxiv.org/pdf/1209.5495.pdf)
 
 
 ### Conference Papers
-  * **E.R. Martin**, B.L. Biondi, *Ambient noise interferometry across two-dimensional DAS arrays*, 2017, Expanded Abstracts of the 87th SEG Annual International Meeting, [doi: 10.1190/segam2017-17677759.1](https://doi.org/10.1190/segam2017-17677759.1" 
+  * **E.R. Martin**, B.L. Biondi, *Ambient noise interferometry across two-dimensional DAS arrays*, 2017, Expanded Abstracts of the 87th SEG Annual International Meeting, [doi: 10.1190/segam2017-17677759.1](https://doi.org/10.1190/segam2017-17677759.1)
 
   * B.L. Biondi, **E.R. Martin**, S. Cole, M. Karrenbach, N. Lindsey, *Earthquakes analysis using data recorded by the Stanford DAS array*, 2017, Expanded Abstracts of the 87th SEG Annual International Meeting, [doi: 10.1190/segam2017-177745041.1](https://doi.org/10.1190/segam2017-17745041.1)
 
   * F. Huot, Y. Ma, R. Cieplicki, **E. Martin**, B. Biondi, *Automatic noise exploration in urban areas*, 2017, Expanded Abstracts of the 87th SEG Annual International Meeting, [doi: 10.1190/segam2017-17774369.1](https://doi.org/10.1190/segam2017-17774369.1)
 
-  * J.B. Ajo-Franklin, S. Dou, N. Lindsey, T. Daley, B. Freifeld, **E. Martin**, M. Robertson, C. Ulrich, T. Wood, I. Eckblaw, A. Wagner, *Timelapse surface wave monitoring of permafrost thaw using distributed acoustic sensing and a permanent automated seismic source*, 2017, Expanded Abstracts of the 87th SEG Annual International Meeting, [doi: 10.1190/segam2017-17774027.1](https://doi.org/10.1190/segam2017-17774027.1)
+  * J.B. Ajo-Franklin, S. Dou, N. Lindsey, T. Daley, B. Freifeld, M. Robertson, C. Ulrich, T. Wood, I. Eckblaw, N. Lindsey, **E. Martin**, A. Wagner, *Timelapse surface wave monitoring of permafrost thaw using distributed acoustic sensing and a permanent automated seismic source*, 2017, Expanded Abstracts of the 87th SEG Annual International Meeting, [doi: 10.1190/segam2017-17774027.1](https://doi.org/10.1190/segam2017-17774027.1)
 
   * **E.R. Martin**, B.L. Biondi, M. Karrenbach, S. Cole, *Ambient noise interferometry from DAS array in underground telecommunications conduits*, 2017, EAGE Technical Programme Expanded Abstracts [doi: 10.3997/2214-4609.201700743](http://earthdoc.eage.org/publication/publicationdetails/?publication=88460) 
 
