@@ -4,7 +4,5 @@
 
 @import "{{ site.theme }}";
 .page-header {
-  background-image: url('https://eileenrmartin.github.io/img/waterfall.jpg') center;
-  background-size: 1600px 650px;
-  background-repeat: no-repeat;
+  background-image: url('https://eileenrmartin.github.io/img/waterfall.jpg') center no-repeat;
 }
