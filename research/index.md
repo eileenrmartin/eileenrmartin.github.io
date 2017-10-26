@@ -4,7 +4,7 @@
 
 
 
-![Stanford Distributed Acoustic Sensing Array: repurposing existing telecomm infrastructure as a seismic array](https://eileenrmartin.github.io/research/img/SDASA-map.jpg)
+![Stanford Distributed Acoustic Sensing Array: repurposing existing telecomm infrastructure as a seismic array](https://eileenrmartin.github.io/research/img/DAS-ambient-noise-theory.png)
 
 <p>
 	<img src="https://eileenrmartin.github.io/research/img/SDASA-map.jpg" alt="SDASA map" height=300>
