@@ -5,7 +5,7 @@
 @import "{{ site.theme }}";
 .page-header {
   background-image: url('https://eileenrmartin.github.io/img/waterfall.jpg');
-  background-size: cover 400px;
+  background-size: cover cover;
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
