@@ -2,9 +2,13 @@
 
 ## Current research
 
+
+
+![Stanford Distributed Acoustic Sensing Array: repurposing existing telecomm infrastructure as a seismic array](https://eileenrmartin.github.io/research/img/SDASA-map.jpg)
+
 <p>
 	<img src="https://eileenrmartin.github.io/research/img/SDASA-map.jpg" alt="SDASA map" height=300>
-	<em>Stanford Distributed Acoustic Sensing Array: repurposing existing telecomm infrastructure as seismic arrays</em>
+	<em>Stanford Distributed Acoustic Sensing Array: repurposing existing telecomm infrastructure as a seismic array</em>
 </p>
 
 
