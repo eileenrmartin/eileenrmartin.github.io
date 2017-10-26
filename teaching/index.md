@@ -1,4 +1,6 @@
-### [Publications](/publications)     [Projects](/research)      [CV](/docs/ermartin_CV.pdf)      [Home](https://eileenrmartin.github.io)
+### [Publications](/publications){: .btn}     [Projects](/research){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}      [Home](https://eileenrmartin.github.io){: .btn} [Teaching](/teaching){: .btn}
+
+## Teaching
 
 Winter 2015, [CME 193](http://www.stanford.edu/~ermartin/Teaching/CME193-Winter15/home.html): Introduction to Scientific Python (instructor)
 

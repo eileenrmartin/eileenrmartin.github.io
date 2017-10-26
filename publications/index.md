@@ -1,3 +1,5 @@
+### [Publications](/publications){: .btn}     [Projects](/research){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}      [Home](https://eileenrmartin.github.io){: .btn} [Teaching](/teaching){: .btn}
+
 ## Publications      
 
 ### Journals and Professional Magazines
