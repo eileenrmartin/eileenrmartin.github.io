@@ -1,4 +1,5 @@
-### [Publications](/publications)     [Projects](/research)      [CV](/docs/ermartin_CV.pdf)
+### [Publications,](/publications)     [Projects,](/research)      [CV](/docs/ermartin_CV.pdf)
+<button name="button" onclick=/publications>Publications</button>
 
 ## Bio
 
