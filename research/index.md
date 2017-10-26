@@ -19,7 +19,7 @@
 
 
 <p>
-    <img src="https://eileenrmartin.github.io/research/img/DAS-ambient-noise-theory.png" alt="Sensitivity" align="right" style="height=300px;"/>
+    <img src="https://eileenrmartin.github.io/research/img/DAS-ambient-noise-theory.jpg" alt="Sensitivity" align="right" style="height=300px;"/>
     <em>Ambient noise interferometry theory throughout fiber optic arrays</em>
 </p>
 
