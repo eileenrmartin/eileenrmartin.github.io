@@ -4,7 +4,7 @@
 
 
 <p>
-	<img src="https://eileenrmartin.github.io/research/img/SDASA-map.png" alt="SDASA map" align="right" width="200">
+	<https://eileenrmartin.github.io/research/img/SDASA-map.png" alt="SDASA map" align="right" width="300">
 	<em>Stanford Distributed Acoustic Sensing Array: repurposing existing telecomm infrastructure as a seismic array</em>
 </p>
 
@@ -13,8 +13,8 @@
 <br/>
 
 <p>
-	<img src="https://eileenrmartin.github.io/research/img/FBX-car-signal.png" alt="FBX car signal" align="right" width="200">
-	<em>SERDP Permafrost Thaw Monitoring Along Infrastructure</em>
+	<img src="https://eileenrmartin.github.io/research/img/FBX-car-signal.png" alt="FBX car signal" align="left" width="300">
+	<div style="text-align: right"> SERDP Permafrost Thaw Monitoring Along Infrastructure </div>
 </p>
 
 <br/>
@@ -23,8 +23,8 @@
 
 
 <p>
-    <img src="https://eileenrmartin.github.io/research/img/DAS-ambient-noise-theory.png" alt="Sensitivity" align="right" width="200">
-    <em>Ambient noise interferometry theory throughout fiber optic arrays</em>
+    <img src="https://eileenrmartin.github.io/research/img/DAS-ambient-noise-theory.png" alt="Sensitivity" align="left" width="300">
+    <div style="text-align: right">Ambient noise interferometry theory throughout fiber optic arrays</div>
 </p>
 
 <br/>
@@ -34,7 +34,8 @@
 ## Some past projects
 
 <p>
-	<em>Data compression for HPC applications</em>, internship project at Schlumberger (Menlo Park, CA)
+	<img src="https://eileenrmartin.github.io/research/img/compression.png" alt="Sensitivity" align="left" width="300">
+	<div style="text-align: right">Data compression for HPC applications, project at Schlumberger (Menlo Park, CA) </div>
 </p>
 
 
@@ -44,8 +45,8 @@
 
 
 <p>
-	<img src="https://eileenrmartin.github.io/research/img/LASSO-production-prediction.jpg" alt="prediction" align="right" width="200">
-	<em>Machine learning for production monitoring</em>, internship project at Shell (Houston, TX)
+	<img src="https://eileenrmartin.github.io/research/img/LASSO-production-prediction.jpg" alt="prediction" align="left" width="300">
+	<div style="text-align: right">Machine learning for production monitoring, project at Shell (Houston, TX) </div>
 </p>
 
 
@@ -55,7 +56,7 @@
 
 
 <p>
-	<img src="https://eileenrmartin.github.io/research/img/butterfly-factors.png" alt="Butterfly factoring" align="right" width="200">
-	<em>Butterfly Factorization</em>
+	<img src="https://eileenrmartin.github.io/research/img/butterfly-factors.png" alt="Butterfly factors" align="left" width="300">
+	<div style="text-align: right">Butterfly Factorization</div>
 </p>
 
