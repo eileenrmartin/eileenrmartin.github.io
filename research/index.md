@@ -5,7 +5,7 @@
 
 <p>
 	<img src="https://eileenrmartin.github.io/research/img/SDASA-map.png" alt="SDASA map" align="left" width="300">
-	<div style="text-align: right"><a href="/Stanford-DAS-Array/">Stanford Distributed Acoustic Sensing Array</a>: repurposing existing telecomm infrastructure as a seismic array</div>
+	<div style="text-align: right"><a href="https://eileenrmartin.github.io/research/Stanford-DAS-Array/">Stanford Distributed Acoustic Sensing Array</a>: repurposing existing telecomm infrastructure as a seismic array</div>
 </p>
 
 <br/>
@@ -18,7 +18,7 @@
 
 <p>
 	<img src="https://eileenrmartin.github.io/research/img/FBX-car-signal.png" alt="FBX car signal" align="left" width="300">
-	<div style="text-align: right"><a href="/SERDP-permafrost-thaw/">SERDP Permafrost Thaw Monitoring Along Infrastructure</a></div>
+	<div style="text-align: right"><a href="https://eileenrmartin.github.io/research/SERDP-permafrost-thaw/">SERDP Permafrost Thaw Monitoring Along Infrastructure</a></div>
 </p>
 
 <br/>
@@ -60,7 +60,7 @@
 
 <p>
 	<img src="https://eileenrmartin.github.io/research/img/LASSO-production-prediction.jpg" alt="prediction" align="left" width="300">
-	<div style="text-align: right"><a href="/ML-at-Shell/">Machine learning for production monitoring</a>, project at Shell (Houston, TX) </div>
+	<div style="text-align: right"><a href="https://eileenrmartin.github.io/research/ML-at-Shell/">Machine learning for production monitoring</a>, project at Shell (Houston, TX) </div>
 </p>
 
 
@@ -74,6 +74,6 @@
 
 <p>
 	<img src="https://eileenrmartin.github.io/research/img/butterfly-factors.png" alt="Butterfly factors" align="left" width="300">
-	<div style="text-align: right"><a href="/butterfly/">Butterfly Factorization</a></div>
+	<div style="text-align: right"><a href="https://eileenrmartin.github.io/research/butterfly/">Butterfly Factorization</a></div>
 </p>
 

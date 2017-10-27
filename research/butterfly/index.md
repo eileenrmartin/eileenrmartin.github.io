@@ -2,7 +2,7 @@
 
 ## Butterfly Factorization
 
-<img src="https://eileenrmartin.github.io/research/img/butterfly-factors.png" alt="Butterfly factors" align="left" width="300">
+<img src="https://eileenrmartin.github.io/research/img/butterfly-factors.png" alt="Butterfly factors" align="right" width="300">
 
 ### Publication
 
