@@ -9,3 +9,9 @@ I'm a PhD student in the Institute for Computational and Mathematical Engineerin
 Huang Engineering Center, Suite 060
 
 ermartin AT stanford DOT edu
+
+## Upcoming talks and papers
+
+* Biondo Biondi will deliver an [invited talk](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/212218) on our work on earthquake detection at the Stanford DAS Array at the AGU Fall Meeting in New Orleans Wed. Dec. 13 13:58-14:16, room 222
+
+* I will speak about seismic monitoring with fiber optics as part of the Heiland lecture series at Colorado School of Mines the 2nd week of January
