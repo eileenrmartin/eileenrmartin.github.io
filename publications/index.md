@@ -1,4 +1,4 @@
-### [Publications](/publications){: .btn}     [Projects](/research){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}      [Home](https://eileenrmartin.github.io){: .btn} [Teaching](/teaching){: .btn}
+### [Home](https://eileenrmartin.github.io){: .btn}   [Projects](/research){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}     [Teaching](/teaching){: .btn}
 
 ## Publications      
 
