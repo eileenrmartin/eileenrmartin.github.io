@@ -5,7 +5,7 @@
 
 <p>
 	<img src="https://eileenrmartin.github.io/research/img/SDASA-map.png" alt="SDASA map" align="left" width="300">
-	<div style="text-align: right">Stanford Distributed Acoustic Sensing Array: repurposing existing telecomm infrastructure as a seismic array</div>
+	<div style="text-align: right"><a href="research/Stanford-DAS-Array">Stanford Distributed Acoustic Sensing Array</a>: repurposing existing telecomm infrastructure as a seismic array</div>
 </p>
 
 <br/>
@@ -21,6 +21,8 @@
 	<div style="text-align: right"> SERDP Permafrost Thaw Monitoring Along Infrastructure </div>
 </p>
 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
