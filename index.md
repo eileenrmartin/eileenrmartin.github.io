@@ -14,6 +14,8 @@ ermartin AT stanford DOT edu
 
 * "Fiber-optic network observations of earthquake wavefields" was accepted to GRL and is now [available.](http://onlinelibrary.wiley.com/doi/10.1002/2017GL075722/full) 
 
+* An overview of our Stanford DAS Array experimental efforts is in the December issue of [The Leading Edge](https://library.seg.org/doi/10.1190/tle36121025.1)
+
 * Biondo Biondi will deliver an [invited talk](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/212218) on our work on earthquake detection at the Stanford DAS Array at the AGU Fall Meeting in New Orleans Wed. Dec. 13 13:58-14:16, room 222
 
 * I will speak about seismic monitoring with fiber optics as part of the Heiland lecture series at Colorado School of Mines the 2nd week of January
