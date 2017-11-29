@@ -4,12 +4,12 @@
 
 ### Journals and Professional Magazines
 
-  * **E.R. Martin**, C.M. Castillo, S. Cole, P.S. Sawasdee, S.Yuan, R. Clapp, M. Karrenbach, B.L. Biondi, *Seismic Monitoring Leveraging Existing Telecom Infrastructure at the Stanford Distributed Acoustic Sensing Array: Active, Passive and Ambient Noise Analysis*,
-  (accepted pending minor revisions to The Leading Edge). 
-
-  * N.J. Lindsey, **E.R. Martin**, D.S. Dreger, B. Freifeld, S. Cole, S.R. James, B.L. Biondi, J.B. Ajo-Franklin, *Fiber-optic network observations of earthquake wavefields*, (accepted pending minor revisions to Geophysical Research Letters). 
-
   * **E.R. Martin**, F. Huot, Y. Ma, R. Cieplicki, S. Cole, M. Karrenbach, B.L. Biondi, *Fiber optic seismic signal retrieval in an urban area with unsupervized learning for coherent noise removal*, (accepted pending minor revisions to IEEE Signal Processing Magazine).
+
+  * N.J. Lindsey, **E.R. Martin**, D.S. Dreger, B. Freifeld, S. Cole, S.R. James, B.L. Biondi, J.B. Ajo-Franklin, *Fiber-optic network observations of earthquake wavefields*, accepted to Geophysical Research Letters, [doi: 10.1002/2017GL075722](http://onlinelibrary.wiley.com/doi/10.1002/2017GL075722/full). 
+
+  * **E.R. Martin**, C.M. Castillo, S. Cole, P.S. Sawasdee, S.Yuan, R. Clapp, M. Karrenbach, B.L. Biondi, *Seismic Monitoring Leveraging Existing Telecom Infrastructure at the Stanford Distributed Acoustic Sensing Array: Active, Passive and Ambient Noise Analysis*,
+  The Leading Edge, 36(12), pp. 1025-1031, [doi: 10.1190/tle36121025.1](https://library.seg.org/doi/10.1190/tle36121025.1). 
 
   * S. Dou, N. Lindsey, A. Wagner, T. Daley, B. Freifeld, M. Robertson, J. Peterson, C. Ulrich, **E. Martin**, J. Ajo-Franklin, *Distributed Acoustic Sensing for Seismic Monitoring of the Near Surface: A Traffic-Noise Interferometry Example*, 2017, Scientific Reports, 7, article 11620, [doi:10.1038/s41598-017-11986-4](https://www.nature.com/articles/s41598-017-11986-4)
 
