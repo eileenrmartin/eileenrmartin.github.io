@@ -10,12 +10,11 @@ I work with my advisor, Biondo Biondi, and OptaSense to run a fiber optic distri
 
 ### Publications and Conference Papers
  
-  * **E.R. Martin**, C.M. Castillo, S. Cole, P.S. Sawasdee, S.Yuan, R. Clapp, M. Karrenbach, B.L. Biondi, *Seismic Monitoring Leveraging Existing Telecom Infrastructure at the Stanford Distributed Acoustic Sensing Array: Active, Passive and Ambient Noise Analysis*,
-  (accepted pending minor revisions to The Leading Edge). 
+  * **E.R. Martin**, C.M. Castillo, S. Cole, P.S. Sawasdee, S.Yuan, R. Clapp, M. Karrenbach, B.L. Biondi, *Seismic Monitoring Leveraging Existing Telecom Infrastructure at the Stanford Distributed Acoustic Sensing Array: Active, Passive and Ambient Noise Analysis*, The Leading Edge, 36(12), pp. 1025-1031. 
 
-  * N.J. Lindsey, **E.R. Martin**, D.S. Dreger, B. Freifeld, S. Cole, S.R. James, B.L. Biondi, J.B. Ajo-Franklin, *Fiber-optic network observations of earthquake wavefields*, (accepted pending minor revisions to Geophysical Research Letters). 
+  * N.J. Lindsey, **E.R. Martin**, D.S. Dreger, B. Freifeld, S. Cole, S.R. James, B.L. Biondi, J.B. Ajo-Franklin, *Fiber-optic network observations of earthquake wavefields*, accepted to Geophysical Research Letters, DOI: 10.1002/2017GL075722. 
 
-  * **E.R. Martin**, F. Huot, Y. Ma, R. Cieplicki, S. Cole, M. Karrenbach, B.L. Biondi, *Fiber optic seismic signal retrieval in an urban area with unsupervized learning for coherent noise removal*, (accepted pending minor revisions to IEEE Signal Processing Magazine).
+  * **E.R. Martin**, F. Huot, Y. Ma, R. Cieplicki, S. Cole, M. Karrenbach, B.L. Biondi, *Fiber optic seismic signal retrieval in an urban area with unsupervized learning for coherent noise removal*, accepted to IEEE Signal Processing Magazine, to appear Jan. 2018.
 
   * **E.R. Martin**, B.L. Biondi, *Ambient noise interferometry across two-dimensional DAS arrays*, 2017, Expanded Abstracts of the 87th SEG Annual International Meeting, [doi: 10.1190/segam2017-17677759.1](https://doi.org/10.1190/segam2017-17677759.1)
 
