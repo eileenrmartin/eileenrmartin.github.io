@@ -24,4 +24,4 @@ ermartin AT stanford DOT edu
 
 ## Computational Geoscience Seminar Announcement
 
-* I'm happy to be co-organizing this seminar series in winter quarter, Fridays 12:30-1:30 in Mitchell 350. Talks will highlight numerical methods for applications in Earth sciences, and should be interesting to both Earth scientists and the broader community of computational scientists. If you'd like credit (1 hr. pass/fail) register for EARTH 310, which counts for a seminar requirement for CompGeo ICME MS students. 
+* I'm happy to be co-organizing this seminar series in winter quarter, Fridays 12:30-1:30 in Mitchell 350. Talks will highlight numerical methods for applications in Earth sciences, and should be interesting to both Earth scientists and the broader community of computational scientists. If you'd like credit (1 hr. pass/fail) register for EARTH 310, which counts for a seminar requirement for CompGeo ICME MS students. More info [here.](https://pangea.stanford.edu/programs/compgeo/computational-geosciences-seminar-earth-310)
