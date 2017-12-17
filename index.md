@@ -12,8 +12,6 @@ ermartin AT stanford DOT edu
 
 ## Upcoming talks and papers
 
-* Biondo Biondi will deliver an [invited talk](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/212218) on our work on earthquake detection at the Stanford DAS Array at the AGU Fall Meeting in New Orleans Wed. Dec. 13 13:58-14:16, room 222
-
 * I will speak about seismic monitoring with fiber optics as part of the Heiland lecture series at Colorado School of Mines the 2nd week of January
 
 * "Fiber optic seismic signal retrieval in an urban area with unsupervised learning for coherent noise removal" was accepted to IEEE Signal Processing Magazine and will appear in the Jan. 2018 special issue on subsurface exploration. 
