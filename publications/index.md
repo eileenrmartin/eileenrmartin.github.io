@@ -4,7 +4,7 @@
 
 ### Journals and Professional Magazines
 
-  * **E.R. Martin**, F. Huot, Y. Ma, R. Cieplicki, S. Cole, M. Karrenbach, B.L. Biondi, *Fiber optic seismic signal retrieval in an urban area with unsupervized learning for coherent noise removal*, accepted to IEEE Signal Processing Magazine, to appear Jan. 2018.
+  * **E.R. Martin**, F. Huot, Y. Ma, R. Cieplicki, S. Cole, M. Karrenbach, B.L. Biondi, *Fiber optic seismic signal retrieval in an urban area with unsupervized learning for coherent noise removal*, accepted to IEEE Signal Processing Magazine, to appear Mar. 2018.
 
   * N.J. Lindsey, **E.R. Martin**, D.S. Dreger, B. Freifeld, S. Cole, S.R. James, B.L. Biondi, J.B. Ajo-Franklin, *Fiber-optic network observations of earthquake wavefields*, accepted to Geophysical Research Letters, [doi: 10.1002/2017GL075722](http://onlinelibrary.wiley.com/doi/10.1002/2017GL075722/full). 
 
