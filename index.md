@@ -16,9 +16,10 @@ ermartin AT stanford DOT edu
 
 * "Fiber optic seismic signal retrieval in an urban area with unsupervised learning for coherent noise removal" was accepted to IEEE Signal Processing Magazine and will appear in the Mar. 2018 special issue on subsurface exploration. 
 
-* "Fiber-optic network observations of earthquake wavefields" was accepted to GRL and is now [available.](http://onlinelibrary.wiley.com/doi/10.1002/2017GL075722/full) 
+* ["Fiber-optic network observations of earthquake wavefields"](http://onlinelibrary.wiley.com/doi/10.1002/2017GL075722/full) is on the cover of [the Dec. 2017 issue of GRL](http://agupubs.onlinelibrary.wiley.com/hub/issue/10.1002/grl.v44.23/). <img src="https://eileenrmartin.github.io/img/GRL-cover-Dec2017.jpg" alt="GRL cover" align="right" style="width: 200px;"/>
 
-* An overview of our Stanford DAS Array experimental efforts is in the December issue of [The Leading Edge](https://library.seg.org/doi/10.1190/tle36121025.1)
+
+
 
 ## Computational Geoscience Seminar Announcement
 
