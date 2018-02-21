@@ -12,11 +12,11 @@ ermartin AT stanford DOT edu
 
 ## Upcoming talks and papers
 
-* I will speak about seismic monitoring with fiber optics as part of the Heiland lecture series at Colorado School of Mines the 2nd week of January
-
 * "Fiber optic seismic signal retrieval in an urban area with unsupervised learning for coherent noise removal" was accepted to IEEE Signal Processing Magazine and will appear in the Mar. 2018 special issue on subsurface exploration. 
 
 * ["Fiber-optic network observations of earthquake wavefields"](http://onlinelibrary.wiley.com/doi/10.1002/2017GL075722/full) is on the cover of [the Dec. 2017 issue of GRL](http://agupubs.onlinelibrary.wiley.com/hub/issue/10.1002/grl.v44.23/). <img src="https://eileenrmartin.github.io/img/GRL-cover-Dec2017.jpg" alt="GRL cover" align="right" style="width: 200px;"/>
+
+* If you are interested in submitting a manuscript to the special section of *Interpretation* on 'Distributed acoustic sensing and its oilfield potential' (submission deadline May 1, 2018) please get in touch with me. 
 
 
 
