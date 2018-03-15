@@ -4,9 +4,9 @@
 
 ### Journals and Professional Magazines
 
-  * **E.R. Martin**, F. Huot, Y. Ma, R. Cieplicki, S. Cole, M. Karrenbach, B.L. Biondi, *Fiber optic seismic signal retrieval in an urban area with unsupervized learning for coherent noise removal*, accepted to IEEE Signal Processing Magazine, to appear Mar. 2018.
+  * **E.R. Martin**, F. Huot, Y. Ma, R. Cieplicki, S. Cole, M. Karrenbach, B.L. Biondi, *A Seismic Shift in Scalable Acquisition Demands New Processing: Fiber-Optic Seismic Signal Retrieval in Urban Areas with Unsupervized Learning for Coherent Noise Removal*, 2018, IEEE Signal Processing Magazine, **35**(2), pp. 31-40, [doi: 10.1109/MSP.2017.2783381](http://ieeexplore.ieee.org/document/8310692/).
 
-  * N.J. Lindsey, **E.R. Martin**, D.S. Dreger, B. Freifeld, S. Cole, S.R. James, B.L. Biondi, J.B. Ajo-Franklin, *Fiber-optic network observations of earthquake wavefields*, accepted to Geophysical Research Letters, [doi: 10.1002/2017GL075722](http://onlinelibrary.wiley.com/doi/10.1002/2017GL075722/full). 
+  * N.J. Lindsey, **E.R. Martin**, D.S. Dreger, B. Freifeld, S. Cole, S.R. James, B.L. Biondi, J.B. Ajo-Franklin, *Fiber-optic network observations of earthquake wavefields*, 2017, Geophysical Research Letters, **44**(23), pp. 11792-11799, [doi: 10.1002/2017GL075722](http://onlinelibrary.wiley.com/doi/10.1002/2017GL075722/full). 
 
   * **E.R. Martin**, C.M. Castillo, S. Cole, P.S. Sawasdee, S.Yuan, R. Clapp, M. Karrenbach, B.L. Biondi, *Seismic Monitoring Leveraging Existing Telecom Infrastructure at the Stanford Distributed Acoustic Sensing Array: Active, Passive and Ambient Noise Analysis*,
   The Leading Edge, 36(12), pp. 1025-1031, [doi: 10.1190/tle36121025.1](https://library.seg.org/doi/10.1190/tle36121025.1). 

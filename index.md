@@ -12,7 +12,7 @@ ermartin AT stanford DOT edu
 
 ## Upcoming talks and papers
 
-* "Fiber optic seismic signal retrieval in an urban area with unsupervised learning for coherent noise removal" was accepted to IEEE Signal Processing Magazine and will appear in the Mar. 2018 special issue on subsurface exploration. 
+* ["A Seismic Shift in Scalable Acquisition Demands New Processing: Fiber-Optic Seismic Signal Retrieval in Urban Areas with Unsupervised Learning for Coherent Noise Removal"](http://ieeexplore.ieee.org/document/8310692/) was published in the Mar. 2018 IEEE Signal Processing Magazine special issue on subsurface exploration. 
 
 * ["Fiber-optic network observations of earthquake wavefields"](http://onlinelibrary.wiley.com/doi/10.1002/2017GL075722/full) is on the cover of [the Dec. 2017 issue of GRL](http://agupubs.onlinelibrary.wiley.com/hub/issue/10.1002/grl.v44.23/). <img src="https://eileenrmartin.github.io/img/GRL-cover-Dec2017.jpg" alt="GRL cover" align="right" style="width: 200px;"/>
 
@@ -23,4 +23,4 @@ ermartin AT stanford DOT edu
 
 ## Computational Geoscience Seminar Announcement
 
-* I'm happy to be co-organizing this seminar series in winter quarter, Fridays 12:30-1:30 in Mitchell 350. Talks will highlight numerical methods for applications in Earth sciences, and should be interesting to both Earth scientists and the broader community of computational scientists. If you'd like credit (1 hr. pass/fail) register for EARTH 310, which counts for a seminar requirement for CompGeo ICME MS students. More info [here.](https://pangea.stanford.edu/programs/compgeo/computational-geosciences-seminar-earth-310)
+* We've wrapped up the winter quarter CompGeo seminar series. Thanks to everyone who participated! Let me know if you'd like to help organize this seminar series in the future. The 2018 speaker list can be found [here.](https://pangea.stanford.edu/programs/compgeo/computational-geosciences-seminar-earth-310)
