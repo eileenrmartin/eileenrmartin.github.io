@@ -12,6 +12,8 @@ ermartin AT stanford DOT edu
 
 ## Upcoming talks and papers
 
+* I'm looking forward to the upcoming [IRIS Workshop: Foundations, Frontiers, and Future Facilities for Seismology](https://www.iris.edu/hq/workshops/2018/06/iris_workshop_2018), where I'll speak on June 14 about our emerging understanding of fiber optics for earthquake detection and ambient noise imaging.
+
 * ["A Seismic Shift in Scalable Acquisition Demands New Processing: Fiber-Optic Seismic Signal Retrieval in Urban Areas with Unsupervised Learning for Coherent Noise Removal"](http://ieeexplore.ieee.org/document/8310692/) was published in the Mar. 2018 IEEE Signal Processing Magazine special issue on subsurface exploration. 
 
 * ["Fiber-optic network observations of earthquake wavefields"](http://onlinelibrary.wiley.com/doi/10.1002/2017GL075722/full) is on the cover of [the Dec. 2017 issue of GRL](http://agupubs.onlinelibrary.wiley.com/hub/issue/10.1002/grl.v44.23/). <img src="https://eileenrmartin.github.io/img/GRL-cover-Dec2017.jpg" alt="GRL cover" align="right" style="width: 200px;"/>
