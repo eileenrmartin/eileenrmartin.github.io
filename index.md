@@ -10,7 +10,9 @@ Huang Engineering Center, Suite 060
 
 ermartin AT stanford DOT edu
 
-## Upcoming talks and papers
+## Announcements, upcoming talks and papers
+
+* ["Automatic noise exploration in urban areas"](https://library.seg.org/doi/abs/10.1190/segam2017-17774369.1), led by Fantine Huot, has been selected for the Award of Merit for Best Student Poster Paper Presented at the 2017 SEG Annual Meeting. 
 
 * I'm looking forward to the upcoming [IRIS Workshop: Foundations, Frontiers, and Future Facilities for Seismology](https://www.iris.edu/hq/workshops/2018/06/iris_workshop_2018), where I'll speak on June 14 about our emerging understanding of fiber optics for earthquake detection and ambient noise imaging.
 
