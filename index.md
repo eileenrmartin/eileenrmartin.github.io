@@ -16,16 +16,10 @@ ermartin AT stanford DOT edu
 
 * I'm looking forward to the upcoming [IRIS Workshop: Foundations, Frontiers, and Future Facilities for Seismology](https://www.iris.edu/hq/workshops/2018/06/iris_workshop_2018), where I'll speak on June 14 about fiber optics for earthquake detection and ambient noise imaging.
 
+* I was awarded the 2018 Gene Golub Dissertation Award by Stanford's Institute for Computational and Mathematical Engineering. 
+
 * ["Automatic noise exploration in urban areas"](https://library.seg.org/doi/abs/10.1190/segam2017-17774369.1), led by Fantine Huot, has been selected for the Award of Merit for Best Student Poster Paper Presented at the 2017 SEG Annual Meeting. 
 
 * ["A Seismic Shift in Scalable Acquisition Demands New Processing: Fiber-Optic Seismic Signal Retrieval in Urban Areas with Unsupervised Learning for Coherent Noise Removal"](http://ieeexplore.ieee.org/document/8310692/) was published in the Mar. 2018 IEEE Signal Processing Magazine special issue on subsurface exploration. 
 
 * ["Fiber-optic network observations of earthquake wavefields"](http://onlinelibrary.wiley.com/doi/10.1002/2017GL075722/full) is on the cover of [the Dec. 2017 issue of GRL](http://agupubs.onlinelibrary.wiley.com/hub/issue/10.1002/grl.v44.23/). <img src="https://eileenrmartin.github.io/img/GRL-cover-Dec2017.jpg" alt="GRL cover" align="right" style="width: 200px;"/>
-
-
-
-
-
-## Computational Geoscience Seminar Announcement
-
-* We've wrapped up the winter quarter CompGeo seminar series. Thanks to everyone who participated! Let me know if you'd like to help organize this seminar series in the future. The 2018 speaker list can be found [here.](https://pangea.stanford.edu/programs/compgeo/computational-geosciences-seminar-earth-310)
