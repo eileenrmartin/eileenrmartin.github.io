@@ -16,7 +16,7 @@ ermartin AT stanford DOT edu
 
 * I'm looking forward to the upcoming [IRIS Workshop: Foundations, Frontiers, and Future Facilities for Seismology](https://www.iris.edu/hq/workshops/2018/06/iris_workshop_2018), where I'll speak on June 14 about fiber optics for earthquake detection and ambient noise imaging.
 
-* I was awarded the 2018 Gene Golub Dissertation Award by Stanford's Institute for Computational and Mathematical Engineering. 
+* I was awarded the 2018 Gene Golub Dissertation Award by Stanford's Institute for Computational and Mathematical Engineering. A copy of my dissertation can be found [here](http://sepwww.stanford.edu/data/media/public/docs/sep173/dissertation.pdf). 
 
 * ["Automatic noise exploration in urban areas"](https://library.seg.org/doi/abs/10.1190/segam2017-17774369.1), led by Fantine Huot, has been selected for the Award of Merit for Best Student Poster Paper Presented at the 2017 SEG Annual Meeting. 
 
