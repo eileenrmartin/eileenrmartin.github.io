@@ -3,18 +3,15 @@
 ## Bio
 
 <img src="https://eileenrmartin.github.io/img/eileen.jpg" alt="photo of Eileen" align="right" style="width: 250px;"/>
-I'm a PhD student in the Institute for Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu)) at Stanford. I've been a member of the Stanford Exploration Project ([SEP](http://sepwww.stanford.edu)) seismic imaging group since summer 2013, and am a student affiliate in the geophysics department at Lawrence Berkeley National Lab. I hold an MS in geophysics from Stanford, and a BS with a double-major in math and computational physics from UT-Austin.
+I recently earned my PhD from the Institute for Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu)) at Stanford, where I was a member of the Stanford Exploration Project ([SEP](http://sepwww.stanford.edu)) seismic imaging group. I am an affiliate in the geophysics department at Lawrence Berkeley National Lab. I hold an MS in geophysics from Stanford, and a BS with a double-major in math and computational physics from UT-Austin. This fall, I'll move to Virginia Tech to work as an assistant professor in the ([math department](https://www.math.vt.edu)) and program in computational modeling and data analytics (([CMDA](https://www.ais.science.vt.edu/programs/cmda.html))). 
 
 ## Contact
-Huang Engineering Center, Suite 060
 
-ermartin AT stanford DOT edu
+eileenrmartin AT vt DOT edu
 
 ## Announcements, upcoming talks and papers
 
 * I will speak at the SIAM Annual Meeting in the [Imaging Session](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=65245) on July 9 about "Green's function estimation and correction from strain rate measurements of random seismic noise."
-
-* I'm looking forward to the upcoming [IRIS Workshop: Foundations, Frontiers, and Future Facilities for Seismology](https://www.iris.edu/hq/workshops/2018/06/iris_workshop_2018), where I'll speak on June 14 about fiber optics for earthquake detection and ambient noise imaging.
 
 * I was awarded the 2018 Gene Golub Dissertation Award by Stanford's Institute for Computational and Mathematical Engineering. A copy of my dissertation can be found [here](http://sepwww.stanford.edu/data/media/public/docs/sep173/dissertation.pdf). 
 
