@@ -3,17 +3,15 @@
 ## Bio
 
 <img src="https://eileenrmartin.github.io/img/eileen.jpg" alt="photo of Eileen" align="right" style="width: 250px;"/>
-I recently earned my PhD from the Institute for Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu)) at Stanford, where I was a member of the Stanford Exploration Project ([SEP](http://sepwww.stanford.edu)) seismic imaging group. I am an affiliate in the geophysics department at Lawrence Berkeley National Lab. I hold an MS in geophysics from Stanford, and a BS with a double-major in math and computational physics from UT-Austin. This fall, I'll move to Virginia Tech to work as an assistant professor in the [math department](https://www.math.vt.edu) and program in computational modeling and data analytics ([CMDA](https://www.ais.science.vt.edu/programs/cmda.html)). 
+I am an assistant professor at Virginia Tech in the [math department](https://www.math.vt.edu) and program in computational modeling and data analytics ([CMDA](https://www.ais.science.vt.edu/programs/cmda.html)). I recently earned my PhD from the Institute for Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu)) at Stanford, where I was a member of the Stanford Exploration Project ([SEP](http://sepwww.stanford.edu)) seismic imaging group. I am an affiliate in the geophysics department at Lawrence Berkeley National Lab. I hold an MS in geophysics from Stanford, and a BS with a double-major in math and computational physics from UT-Austin.  
 
 ## Contact
 
 eileenrmartin AT vt DOT edu
 
-Note: I may be slow to reply until early August.
 
 ## Announcements, upcoming talks and papers
 
-* I will speak at the SIAM Annual Meeting in the [Imaging Session](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=65245) on July 9 about "Green's function estimation and correction from strain rate measurements of random seismic noise."
 
 * I was awarded the 2018 Gene Golub Dissertation Award by Stanford's Institute for Computational and Mathematical Engineering. A copy of my dissertation can be found [here](http://sepwww.stanford.edu/data/media/public/docs/sep173/dissertation.pdf). 
 
