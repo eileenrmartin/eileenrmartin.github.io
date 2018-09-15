@@ -21,10 +21,13 @@ eileenrmartin AT vt DOT edu
     ** Fantine Huot (PhD student of B. Biondi) will present a talk on Oct. 18 on "Automated ambient noise processing applied to fiber-optic acquisition (DAS)"
     ** Gang Fang (postdoc with Y.E. Li) will present a talk on Oct. 18 on "Near-surface monitoring enabled by distributed acoustic sensing: an example of the Stanford Array Data" which investigate detecting subsurface changes with mine blasts as sources
 
+
+
 * At the AGU Fall Meeting in D.C.:
   - I will give an invited talk on "Continuous near-surface imaging with a fiber-optic array beneath Stanford University" in the session on Waveform and Tomographic Inversion for Natural and Induced Seismic Events
   - Nate Lindsey and I will give a tutorial on "Distributed Fiber-Optic Seismology in Theory and Practice"
   - Nate Lindsey will present on "Time-lapse imaging of a controlled permafrost thaw experiment with strongly non-stationary vehicle noise and a 4,000 component distributed acoustic sensing (DAS) array"
+
 
 
 * I was awarded the 2018 Gene Golub Dissertation Award by Stanford's Institute for Computational and Mathematical Engineering. A copy of my dissertation can be found [here](http://sepwww.stanford.edu/data/media/public/docs/sep173/dissertation.pdf). 
