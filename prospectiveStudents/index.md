@@ -15,8 +15,7 @@ Virginia Tech's math department includes a vibrant community of computational an
 More details about our graduate program can be found [here](https://secure.graduateschool.vt.edu/graduate_catalog/program.htm?programID=002d14431ce38e83011ce38e94040020&nocache=1536867097477), and about the application process can be found [here](https://graduateschool.vt.edu/admissions/how-to-apply.html). Our department's deadline is January 15.
 
 
-<img src="https://eileenrmartin.github.io/prospectiveStudents/img/DOE_CSGF_logo.png" alt="DOE_CSGF_logo" align="right" width="200">
-	<div style="text-align: left"> For US citizens and permanent residents entering graduate school, I recommend applying for the [DOE CSGF](https://www.krellinst.org/csgf/about-doe-csgf), a graduate fellowship that provides fantastic computational science resources and training. </div>
+<img src="https://eileenrmartin.github.io/prospectiveStudents/img/DOE_CSGF_logo.png" alt="DOE_CSGF_logo" align="right" width="200"> <div style="text-align: left"> For US citizens and permanent residents entering graduate school, I recommend applying for the [DOE CSGF](https://www.krellinst.org/csgf/about-doe-csgf), a graduate fellowship that provides fantastic computational science resources and training. </div>
 
 
 
