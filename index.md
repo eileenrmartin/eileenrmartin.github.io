@@ -12,10 +12,22 @@ eileenrmartin AT vt DOT edu
 
 ## Announcements, upcoming talks and papers
 
+* At the upcoming SEG Annual Meeting in Anaheim, I'll give two talks:
+  - "Eighteen months of continuous near-surface monitoring with DAS data collected under Stanford University" in the session on VSP, Advanced Processing, and Imaging Approaches for DAS on Oct. 17
+  - "Beyond cosine squared: understanding trends in passive DAS data" in the DAS post-convention workshop on Oct. 19
+  And several of my collaborators will present: 
+  - Siyuan Yuan (PhD student of B. Biondi) will present a poster about his work monitoring two years of earthquakes recorded by the Stanford Fiber Optic Seismic Observatory in the DAS post-convention workshop on Oct. 19
+  - Fantine Huot (PhD student of B. Biondi) will present a talk on Oct. 18 on "Automated ambient noise processing applied to fiber-optic acquisition (DAS)"
+  - Gang Fang (postdoc with Y.E. Li) will present a talk on Oct. 18 on "Near-surface monitoring enabled by distributed acoustic sensing: an example of the Stanford Array Data" which investigate detecting subsurface changes with mine blasts as sources
+
+* At the AGU Fall Meeting in D.C. I'll give two talks:
+  - I will give an invited talk on "Continuous near-surface imaging with a fiber-optic array beneath Stanford University" in the session on Waveform and Tomographic Inversion for Natural and Induced Seismic Events
+  - Nate Lindsey and I will give a tutorial talk on "Distributed Fiber-Optic Seismology in Theory and Practice"
+  And my collaborator Nate Lindsey will present on "Time-lapse imaging of a controlled permafrost thaw experiment with strongly non-stationary vehicle noise and a 4,000 component distributed acoustic sensing (DAS) array"
+
 
 * I was awarded the 2018 Gene Golub Dissertation Award by Stanford's Institute for Computational and Mathematical Engineering. A copy of my dissertation can be found [here](http://sepwww.stanford.edu/data/media/public/docs/sep173/dissertation.pdf). 
 
-* ["Automatic noise exploration in urban areas"](https://library.seg.org/doi/abs/10.1190/segam2017-17774369.1), led by Fantine Huot, has been selected for the Award of Merit for Best Student Poster Paper Presented at the 2017 SEG Annual Meeting. 
 
 * ["A Seismic Shift in Scalable Acquisition Demands New Processing: Fiber-Optic Seismic Signal Retrieval in Urban Areas with Unsupervised Learning for Coherent Noise Removal"](http://ieeexplore.ieee.org/document/8310692/) was published in the Mar. 2018 IEEE Signal Processing Magazine special issue on subsurface exploration. 
 

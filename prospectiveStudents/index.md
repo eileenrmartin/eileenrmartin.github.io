@@ -8,7 +8,8 @@ Email me if you're a highly motivated undergrad or prospective graduate student 
 * inverse problems 
 * computational science 
 * seismic imaging and source detection
-* working with large streaming data sets 
+* working with large streaming data sets
+* signal processing 
 
 Virginia Tech's math department includes a vibrant community of computational and applied mathematicians. For current students, the department's weekly numerical analysis seminar is a great opportunity to show off your research and find out about other projects currently happening in the department focused on inverse problems, imaging science, numerical PDEs, optimization, numerical linear algebra, dynamical systems, and reduced order models. 
 
