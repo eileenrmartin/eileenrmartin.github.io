@@ -1,4 +1,4 @@
-### [Home](https://eileenrmartin.github.io){: .btn}     [Publications](/publications){: .btn}       [CV](/docs/ermartin_CV.pdf){: .btn}       [Teaching](/teaching){: .btn}
+### [Home](https://eileenrmartin.github.io){: .btn}     [Publications](/publications){: .btn}       [CV](/docs/ermartin_CV.pdf){: .btn}       [Teaching](/teaching){: .btn}	 [Prospective Students](/prospectiveStudents){: .btn}
 
 ## Current research
 

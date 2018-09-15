@@ -1,4 +1,4 @@
-### [Publications](/publications){: .btn}     [Research](/research){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}       [Teaching](/teaching){: .btn}
+### [Publications](/publications){: .btn}     [Research](/research){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}       [Teaching](/teaching){: .btn} 	[Prospective Students](/prospectiveStudents){: .btn}
 
 ## Bio
 
