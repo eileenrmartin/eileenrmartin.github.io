@@ -14,12 +14,12 @@ eileenrmartin AT vt DOT edu
 
 * At the upcoming SEG Annual Meeting in Anaheim:
   - I'll give two talks:
-    -- "Eighteen months of continuous near-surface monitoring with DAS data collected under Stanford University" in the session on VSP, Advanced Processing, and Imaging Approaches for DAS on Oct. 17
-    -- "Beyond cosine squared: understanding trends in passive DAS data" in the DAS post-convention workshop on Oct. 19
+    ** "Eighteen months of continuous near-surface monitoring with DAS data collected under Stanford University" in the session on VSP, Advanced Processing, and Imaging Approaches for DAS on Oct. 17
+    ** "Beyond cosine squared: understanding trends in passive DAS data" in the DAS post-convention workshop on Oct. 19
   - And several of my collaborators will present: 
-    -- Siyuan Yuan (PhD student of B. Biondi) will present a poster about his work monitoring two years of earthquakes recorded by the Stanford Fiber Optic Seismic Observatory in the DAS post-convention workshop on Oct. 19
-    -- Fantine Huot (PhD student of B. Biondi) will present a talk on Oct. 18 on "Automated ambient noise processing applied to fiber-optic acquisition (DAS)"
-    -- Gang Fang (postdoc with Y.E. Li) will present a talk on Oct. 18 on "Near-surface monitoring enabled by distributed acoustic sensing: an example of the Stanford Array Data" which investigate detecting subsurface changes with mine blasts as sources
+    ** Siyuan Yuan (PhD student of B. Biondi) will present a poster about his work monitoring two years of earthquakes recorded by the Stanford Fiber Optic Seismic Observatory in the DAS post-convention workshop on Oct. 19
+    ** Fantine Huot (PhD student of B. Biondi) will present a talk on Oct. 18 on "Automated ambient noise processing applied to fiber-optic acquisition (DAS)"
+    ** Gang Fang (postdoc with Y.E. Li) will present a talk on Oct. 18 on "Near-surface monitoring enabled by distributed acoustic sensing: an example of the Stanford Array Data" which investigate detecting subsurface changes with mine blasts as sources
 
 * At the AGU Fall Meeting in D.C.:
   - I will give an invited talk on "Continuous near-surface imaging with a fiber-optic array beneath Stanford University" in the session on Waveform and Tomographic Inversion for Natural and Induced Seismic Events
