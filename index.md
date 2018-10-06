@@ -24,7 +24,7 @@ eileenrmartin AT vt DOT edu
 
 
 * At the AGU Fall Meeting in D.C.:
-  * I will give an invited talk on "Continuous near-surface imaging with a fiber-optic array beneath Stanford University" in the session on Waveform and Tomographic Inversion for Natural and Induced Seismic Events
+  * I will present on "Continuous near-surface imaging with a fiber-optic array beneath Stanford University"
   * Nate Lindsey and I will give a tutorial on "Distributed Fiber-Optic Seismology in Theory and Practice"
   * Nate Lindsey will present on "Time-lapse imaging of a controlled permafrost thaw experiment with strongly non-stationary vehicle noise and a 4,000 component distributed acoustic sensing (DAS) array"
 
