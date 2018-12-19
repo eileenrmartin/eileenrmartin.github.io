@@ -13,11 +13,9 @@ eileenrmartin AT vt DOT edu
 ## Announcements, upcoming talks and papers
 
 
-* At the AGU Fall Meeting in D.C.:
-  * I will present on "Continuous near-surface imaging with a fiber-optic array beneath Stanford University"
-  * Nate Lindsey and I will give a tutorial on "Distributed Fiber-Optic Seismology in Theory and Practice"
-  * Nate Lindsey will present on "Time-lapse imaging of a controlled permafrost thaw experiment with strongly non-stationary vehicle noise and a 4,000 component distributed acoustic sensing (DAS) array"
+* At the AGU Fall meeting in December, Nate Lindsey and I presented a tutorial on "Distributed Fiber-Optic Seismology in Theory and Practice," and we've turned that material into a [YouTube video](https://youtu.be/LAcQ44YRMuM) so it's easy to watch at your own pace. We also include many references at the end if you would like to find out more about some of the recent advances in this area.
 
+* E. Martin, N. Lindsey, J. Ajo-Franklin, B. Biondi, "Introduction to Interferometry of Fiber Optic Strain Measurements," [preprint on EarthArXiV](https://eartharxiv.org/s2tjd/). 
 
 
 * I was awarded the 2018 Gene Golub Dissertation Award by Stanford's Institute for Computational and Mathematical Engineering. A copy of my dissertation can be found [here](http://sepwww.stanford.edu/data/media/public/docs/sep173/dissertation.pdf). 
