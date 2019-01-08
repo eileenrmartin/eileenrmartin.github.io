@@ -7,7 +7,9 @@ I am an assistant professor at Virginia Tech in the [math department](https://ww
 
 ## Contact
 
-eileenrmartin AT vt DOT edu
+Email: eileenrmartin AT vt DOT edu
+Office: McBryde 474
+Office phone: 540-231-6397
 
 
 ## Announcements, upcoming talks and papers
