@@ -12,7 +12,7 @@ eileenrmartin AT vt DOT edu
 
 ## Announcements, upcoming talks and papers
 
-* Congratulations to Tarun Nadipalli on earning a Hamlet Undergraduate Research Fellowship in VT's Academy of Integrated Sciences! Tarun will use the fellowship to work on efficiently managing data from next-generation seismic sensor networks.
+* Congratulations to Tarun Nadipalli on earning a Hamlett Undergraduate Research Fellowship in VT's Academy of Integrated Sciences! Tarun will use the fellowship to work on efficiently managing data from next-generation seismic sensor networks.
 
 * Feb. 25 I will speak at SIAM CS&E on "Fast Radon Transforms for Ambient Noise Interferometry" and am organizing a minisymposium on Computational Advances for Large-scale Geophysical Data
 
