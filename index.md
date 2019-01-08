@@ -12,6 +12,9 @@ eileenrmartin AT vt DOT edu
 
 ## Announcements, upcoming talks and papers
 
+* Congratulations to Tarun Nadipalli on earning a Hamlet Undergraduate Research Fellowship in VT's Academy of Integrated Sciences! Tarun will use the fellowship to work on efficiently managing data from next-generation seismic sensor networks.
+
+* Feb. 25 I will speak at SIAM CS&E on "Fast Radon Transforms for Ambient Noise Interferometry" and am organizing a minisymposium on Computational Advances for Large-scale Geophysical Data
 
 * At the AGU Fall meeting in December, Nate Lindsey and I presented a tutorial on "Distributed Fiber-Optic Seismology in Theory and Practice," and we've turned that material into a [YouTube video](https://youtu.be/LAcQ44YRMuM) so it's easy to watch at your own pace. We also include many references at the end if you would like to find out more about some of the recent advances in this area.
 
@@ -23,4 +26,3 @@ eileenrmartin AT vt DOT edu
 
 * ["A Seismic Shift in Scalable Acquisition Demands New Processing: Fiber-Optic Seismic Signal Retrieval in Urban Areas with Unsupervised Learning for Coherent Noise Removal"](http://ieeexplore.ieee.org/document/8310692/) was published in the Mar. 2018 IEEE Signal Processing Magazine special issue on subsurface exploration. 
 
-* ["Fiber-optic network observations of earthquake wavefields"](http://onlinelibrary.wiley.com/doi/10.1002/2017GL075722/full) is on the cover of [the Dec. 2017 issue of GRL](http://agupubs.onlinelibrary.wiley.com/hub/issue/10.1002/grl.v44.23/). <img src="https://eileenrmartin.github.io/img/GRL-cover-Dec2017.jpg" alt="GRL cover" align="right" style="width: 200px;"/>
