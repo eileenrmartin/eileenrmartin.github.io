@@ -1,9 +1,10 @@
-### [Home](https://eileenrmartin.github.io){: .btn}     [Publications](/publications){: .btn}     [Research](/research){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}    [Teaching](/teaching){: .btn}  
+### [Home](https://eileenrmartin.github.io){: .btn}     [Publications](/publications){: .btn}     [Research](/research){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}    [Teaching](/teaching){: .btn}     [Outreach](/outreach){: .btn}
 
 ## Prospective Students
 
+I am currently looking to hire a graduate research assistant for Summer and Fall 2019 to work on the project "Advanced Computational Methods towards High-Resolution Fiber Optic Distributed Acoustic Sensing,"  a collaboration with [Luna](https://lunainc.com/) funded through a Phase I STTR from DOE Geothermal Technologies Office.
 
-Email me if you're a highly motivated undergrad or prospective graduate student interested in doing research on: 
+Email me if you're a highly motivated prospective graduate student or undergrad interested in doing research on: 
 * imaging science 
 * inverse problems 
 * computational science 

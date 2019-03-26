@@ -1,4 +1,4 @@
-### [Publications](/publications){: .btn}     [Research](/research){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}       [Teaching](/teaching){: .btn} 	[Prospective Students](/prospectiveStudents){: .btn}
+### [Publications](/publications){: .btn}     [Research](/research){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}       [Teaching](/teaching){: .btn} 	[Prospective Students](/prospectiveStudents){: .btn}	[Outreach](/outreach){: .btn}
 
 ## Bio
 
@@ -16,17 +16,16 @@ Office phone: 540-231-6397
 
 ## Announcements, upcoming talks and papers
 
-* Congratulations to Tarun Nadipalli on earning a Hamlett Undergraduate Research Fellowship in VT's Academy of Integrated Sciences! Tarun will use the fellowship to work on efficiently managing data from next-generation seismic sensor networks.
+* Upcoming talks: April 11 Virginia Tech Undergraduate Math Club, and May 10 Princeton Solid Earth Brownbag Seminar
 
-* Feb. 25 I will speak at SIAM CS&E on "Fast Radon Transforms for Ambient Noise Interferometry" and am organizing a minisymposium on Computational Advances for Large-scale Geophysical Data
+* I recently began the project "Advanced Computational Methods towards High-Resolution Fiber Optic Distributed Acoustic Sensing,"  a collaboration with [Luna](https://lunainc.com/) funded through a Phase I STTR from DOE Geothermal Technologies Office. I am looking to hire a graduate research assistant on this project for summer and fall 2019, so contact me if you are interested.
+
+* Please get in touch with me if you're an undergrad woman at VT interested in being part of the [SURE](/docs/SURE-poster.pdf): Speakers and Undergraduate Research Engagement program in the 2019-2020 school year. 
+
+* Congratulations to Tarun Nadipalli on earning a Hamlett Undergraduate Research Fellowship in VT's Academy of Integrated Sciences! Tarun will use the fellowship to work on efficiently managing data from next-generation seismic sensor networks.
 
 * At the AGU Fall meeting in December, Nate Lindsey and I presented a tutorial on "Distributed Fiber-Optic Seismology in Theory and Practice," and we've turned that material into a [YouTube video](https://youtu.be/LAcQ44YRMuM) so it's easy to watch at your own pace. We also include many references at the end if you would like to find out more about some of the recent advances in this area.
 
-* E. Martin, N. Lindsey, J. Ajo-Franklin, B. Biondi, "Introduction to Interferometry of Fiber Optic Strain Measurements," [preprint on EarthArXiV](https://eartharxiv.org/s2tjd/). 
-
+* E. Martin, N. Lindsey, J. Ajo-Franklin, B. Biondi, "Introduction to Interferometry of Fiber Optic Strain Measurements," accepted pending minor revisions [preprint on EarthArXiV](https://eartharxiv.org/s2tjd/). 
 
 * I was awarded the 2018 Gene Golub Dissertation Award by Stanford's Institute for Computational and Mathematical Engineering. A copy of my dissertation can be found [here](http://sepwww.stanford.edu/data/media/public/docs/sep173/dissertation.pdf). 
-
-
-* ["A Seismic Shift in Scalable Acquisition Demands New Processing: Fiber-Optic Seismic Signal Retrieval in Urban Areas with Unsupervised Learning for Coherent Noise Removal"](http://ieeexplore.ieee.org/document/8310692/) was published in the Mar. 2018 IEEE Signal Processing Magazine special issue on subsurface exploration. 
-
