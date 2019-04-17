@@ -21,6 +21,7 @@ Office phone: 540-231-6397
     * May 10 Princeton Solid Earth Brownbag Seminar
     * May 15 Harvard BiSEPPS Seminar
 
+
 * This new [preprint on EarthArXiV](https://eartharxiv.org/sx9zt/) describes "A Scalable Algorithm for Cross-correlations of Compressed Ambient Seismic Noise." I developed this in the context of ambient seismic noise interferometry, but it can be used to speed up the calculations of cross-correlations throughout any data set with many sensors recording long time series data. Ping me if you have another application that can use this!  
 
 
