@@ -38,3 +38,4 @@
   * **E.R. Martin**, J. Ajo-Franklin, N. Lindsey, T.M. Daley, B. Freifeld, M. Robertson, C. Ulrich, S. Dou, A. Wagner, *Interferometry of ambient noise from a trenched distributed acoustic sensing array*, Expanded Abstracts of the 2015 SEG Ann. Internat. Mtg. [doi: 10.1190/segam2015-5902207.1](http://library.seg.org/doi/pdf/10.1190/segam2015-5902207.1)
 
   * J. Ajo-Franklin, N. Lindsey, T.M. Daley, B. Freifeld, **E.R. Martin**, M. Robertson, C. Ulrich, A. Wagner, *A field test of distributed acoustic sensing for ambient noise recording*, Expanded Abstracts of the 2015 SEG Ann. Internat. Mtg. [doi: 10.1190/segam2015-5926936.1](http://library.seg.org/doi/pdf/10.1190/segam2015-5926936.1)
+  
