@@ -15,7 +15,7 @@ Office phone: 540-231-6397
 
 ## Announcements, upcoming talks and papers
 
-* Upcoming invited talk: "Scalable Seismic Acquisition and Algorithms for Next-Generation Engineering Geophysics," [International Conference on Engineering Geophysics, Al Ain, United Arab Emirates, 9-12 Oct. 2019]{https://seg.org/Events/ICEG19} (conference paper to appear)
+* Upcoming invited talk: "Scalable Seismic Acquisition and Algorithms for Next-Generation Engineering Geophysics," [International Conference on Engineering Geophysics, Al Ain, United Arab Emirates, 9-12 Oct. 2019](https://seg.org/Events/ICEG19) (conference paper to appear)
 
 * This new [preprint on EarthArXiV](https://eartharxiv.org/sx9zt/) describes "A Scalable Algorithm for Cross-correlations of Compressed Ambient Seismic Noise," and has been accepted to appear in the 2019 SEG Annual Meeting Expanded Abstracts. 
 
