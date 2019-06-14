@@ -13,23 +13,17 @@ Office: McBryde 474
 
 Office phone: 540-231-6397   
 
-
 ## Announcements, upcoming talks and papers
 
-* Upcoming talks: 
-    * April 18 Virginia Tech Undergraduate Math Club
-    * May 10 Princeton Solid Earth Brownbag Seminar
-    * May 15 Harvard BiSEPPS Seminar
+* Upcoming invited talk: "Scalable Seismic Acquisition and Algorithms for Next-Generation Engineering Geophysics," [International Conference on Engineering Geophysics, Al Ain, United Arab Emirates, 9-12 Oct. 2019]{https://seg.org/Events/ICEG19} (conference paper to appear)
 
+* This new [preprint on EarthArXiV](https://eartharxiv.org/sx9zt/) describes "A Scalable Algorithm for Cross-correlations of Compressed Ambient Seismic Noise," and has been accepted to appear in the 2019 SEG Annual Meeting Expanded Abstracts. 
 
-* This new [preprint on EarthArXiV](https://eartharxiv.org/sx9zt/) describes "A Scalable Algorithm for Cross-correlations of Compressed Ambient Seismic Noise." I developed this in the context of ambient seismic noise interferometry, but it can be used to speed up the calculations of cross-correlations throughout any data set with many sensors recording long time series data. Ping me if you have another application that can use this!  
-
-
-* E. Martin, N. Lindsey, J. Ajo-Franklin, B. Biondi, "Introduction to Interferometry of Fiber Optic Strain Measurements," accepted pending minor revisions [preprint on EarthArXiV](https://eartharxiv.org/s2tjd/). 
+* E. Martin, N. Lindsey, J. Ajo-Franklin, B. Biondi, "Introduction to Interferometry of Fiber Optic Strain Measurements," accepted pending minor revisions, [preprint on EarthArXiV](https://eartharxiv.org/s2tjd/). 
 
 * B. Biondi, S. Yuan, E.R. Martin, F. Huot, R.G. Clapp, "Using telecommunication fiber infrastructure for earthquake monitoring and near-surface characterization," accepted pending minor revisions.
 
-* I recently began the project "Advanced Computational Methods towards High-Resolution Fiber Optic Distributed Acoustic Sensing,"  a collaboration with [Luna](https://lunainc.com/) funded through a Phase I STTR from DOE Geothermal Technologies Office. 
+* I recently began the project "Advanced Computational Methods towards High-Resolution Fiber Optic Distributed Acoustic Sensing,"  a collaboration with [Luna](https://lunainc.com/) funded through a Phase I STTR from DOE Geothermal Technologies Office.  
 
 * Please get in touch with me if you're an undergrad woman at VT interested in being part of the [SURE](/docs/SURE-poster.pdf): Speakers and Undergraduate Research Engagement program in the 2019-2020 school year. 
 
