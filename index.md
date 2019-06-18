@@ -17,6 +17,10 @@ Office phone: 540-231-6397
 
 * Upcoming invited talk: "Scalable Seismic Acquisition and Algorithms for Next-Generation Engineering Geophysics," [International Conference on Engineering Geophysics, Al Ain, United Arab Emirates, 9-12 Oct. 2019](https://seg.org/Events/ICEG19) (conference paper to appear)
 
+* Teaching this fall:
+  * [Extreme-scale Inverse Problems](https://sites.google.com/vt.edu/extreme) (graduate topics course, Math 5984, co-teaching with Russell Hewett)
+  * Integrated Quantitative Modeling I (undergrad CMDA-majors course, CMDA 2005, co-teaching with Morgan Russell)
+
 * This new [preprint on EarthArXiV](https://eartharxiv.org/sx9zt/) describes "A Scalable Algorithm for Cross-correlations of Compressed Ambient Seismic Noise," and has been accepted to appear in the 2019 SEG Annual Meeting Expanded Abstracts. 
 
 * E. Martin, N. Lindsey, J. Ajo-Franklin, B. Biondi, "Introduction to Interferometry of Fiber Optic Strain Measurements," accepted pending minor revisions, [preprint on EarthArXiV](https://eartharxiv.org/s2tjd/). 
