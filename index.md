@@ -21,13 +21,14 @@ Office phone: 540-231-6397
   * [Extreme-scale Inverse Problems](https://sites.google.com/vt.edu/extreme) (graduate topics course, Math 5984, co-teaching with Russell Hewett)
   * Integrated Quantitative Modeling I (undergrad CMDA-majors course, CMDA 2005, co-teaching with Morgan Russell)
 
-* This new [preprint on EarthArXiV](https://eartharxiv.org/sx9zt/) describes "A Scalable Algorithm for Cross-correlations of Compressed Ambient Seismic Noise," and has been accepted to appear in the 2019 SEG Annual Meeting Expanded Abstracts. 
+* Recent preprints and publications:
+  * This new [preprint on EarthArXiV](https://eartharxiv.org/sx9zt/) describes "A Scalable Algorithm for Cross-correlations of Compressed Ambient Seismic Noise," and has been accepted to appear in the 2019 SEG Annual Meeting Expanded Abstracts. 
+  * E. Martin, N. Lindsey, J. Ajo-Franklin, B. Biondi, "Introduction to Interferometry of Fiber Optic Strain Measurements," accepted pending minor revisions, [preprint on EarthArXiV](https://eartharxiv.org/s2tjd/). 
+  * B. Biondi, S. Yuan, E.R. Martin, F. Huot, R.G. Clapp, "Using telecommunication fiber infrastructure for earthquake monitoring and near-surface characterization," accepted pending minor revisions.
 
-* E. Martin, N. Lindsey, J. Ajo-Franklin, B. Biondi, "Introduction to Interferometry of Fiber Optic Strain Measurements," accepted pending minor revisions, [preprint on EarthArXiV](https://eartharxiv.org/s2tjd/). 
-
-* B. Biondi, S. Yuan, E.R. Martin, F. Huot, R.G. Clapp, "Using telecommunication fiber infrastructure for earthquake monitoring and near-surface characterization," accepted pending minor revisions.
-
-* I recently began the project "Advanced Computational Methods towards High-Resolution Fiber Optic Distributed Acoustic Sensing,"  a collaboration with [Luna](https://lunainc.com/) funded through a Phase I STTR from DOE Geothermal Technologies Office.  
+* Recent research funding:
+  * The project "Fully Distributed Acoustic and Magnetic Field Monitoring via a Single Fiber Line for Optimized Production of Unconventional Resource Plays," was [recently selected for funding by the DOE Office of Fossil Energy](https://www.energy.gov/fe/project-selections-advanced-technologies-recovery-unconventional-oil-gas-resources). This will be a collaboration with Virginia Tech's [Center for Photonics Technology](https://photonics.ece.vt.edu/) and [Sentek Instrument LLC](http://www.sentekinstrument.com/).
+  * We are currently working on "Advanced Computational Methods towards High-Resolution Fiber Optic Distributed Acoustic Sensing,"  a collaboration with [Luna](https://lunainc.com/) funded through a Phase I STTR from DOE Geothermal Technologies Office
 
 * Please get in touch with me if you're an undergrad woman at VT interested in being part of the [SURE](/docs/SURE-poster.pdf): Speakers and Undergraduate Research Engagement program in the 2019-2020 school year. 
 
