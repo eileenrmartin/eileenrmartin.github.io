@@ -2,7 +2,9 @@
 
 ## Prospective Students
 
-I am currently looking to hire a graduate research assistant for Summer and Fall 2019 to work on the project "Advanced Computational Methods towards High-Resolution Fiber Optic Distributed Acoustic Sensing,"  a collaboration with [Luna](https://lunainc.com/) funded through a Phase I STTR from DOE Geothermal Technologies Office.
+I am specifically looking to hire graduate research assistants in:
+* sparsity-promoting optimization with applications to earthquake engineering (starting spring 2020)
+* signal processing, imaging or event localization with large-scale multiphysics (seismic + electromagnetic) data (starting summer 2020)
 
 Email me if you're a highly motivated prospective graduate student or undergrad interested in doing research on: 
 * imaging science 
