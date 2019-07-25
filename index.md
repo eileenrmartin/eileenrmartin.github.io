@@ -25,7 +25,7 @@ Office phone: 540-231-6397
 
 
 * Recent research funding:
-  * The project "Exploration of an Interdisciplinary Approach to Resolving a Critical Issue in Evaluating Liquefaction Hazard of Challenging Soil Sites" with A. Yerro Colom and R. Green (Virginia Tech Civil & Environmental Engineering) was recently selected for funding by the NSF Engineering for Civil Infrastructure program.
+  * The project "EAGER: Exploration of an Interdisciplinary Approach to Resolving a Critical Issue in Evaluating Liquefaction Hazard of Challenging Soil Sites" with A. Yerro Colom and R. Green (Virginia Tech Civil & Environmental Engineering) was recently selected for funding by the NSF Engineering for Civil Infrastructure program.
   * The project "Fully Distributed Acoustic and Magnetic Field Monitoring via a Single Fiber Line for Optimized Production of Unconventional Resource Plays," was [recently selected for funding by the DOE Office of Fossil Energy](https://www.energy.gov/fe/project-selections-advanced-technologies-recovery-unconventional-oil-gas-resources). This will be a collaboration with Virginia Tech's [Center for Photonics Technology](https://photonics.ece.vt.edu/) and [Sentek Instrument LLC](http://www.sentekinstrument.com/).
   * We are currently working on "Advanced Computational Methods towards High-Resolution Fiber Optic Distributed Acoustic Sensing,"  a collaboration with [Luna](https://lunainc.com/) funded through a Phase I STTR from DOE Geothermal Technologies Office
   
