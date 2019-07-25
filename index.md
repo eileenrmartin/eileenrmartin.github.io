@@ -3,7 +3,7 @@
 ## Bio
 
 <img src="https://eileenrmartin.github.io/img/eileen.jpg" alt="photo of Eileen" align="right" style="width: 250px;"/>
-I am an assistant professor at Virginia Tech in the [math department](https://www.math.vt.edu) and program in computational modeling and data analytics ([CMDA](https://www.ais.science.vt.edu/programs/cmda.html)). I recently earned my PhD from the Institute for Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu)) at Stanford, where I was a member of the Stanford Exploration Project ([SEP](http://sepwww.stanford.edu)) seismic imaging group. I am an affiliate in the geophysics department at Lawrence Berkeley National Lab. I hold an MS in geophysics from Stanford, and a BS with a double-major in math and computational physics from UT-Austin.  
+I am an assistant professor at Virginia Tech in the [math department](https://www.math.vt.edu) and program in computational modeling and data analytics ([CMDA](https://www.ais.science.vt.edu/programs/cmda.html)). I earned my PhD from the Institute for Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu)) at Stanford in 2018, where I was a member of the Stanford Exploration Project ([SEP](http://sepwww.stanford.edu)) seismic imaging group. I am an affiliate in the geophysics department at Lawrence Berkeley National Lab. I hold an MS in geophysics from Stanford, and a BS with a double-major in math and computational physics from UT-Austin.  
 
 ## Contact
 
@@ -15,15 +15,17 @@ Office phone: 540-231-6397
 
 ## Announcements, upcoming talks and papers
 
-* Upcoming invited talk: "Scalable Seismic Acquisition and Algorithms for Next-Generation Engineering Geophysics," [International Conference on Engineering Geophysics, Al Ain, United Arab Emirates, 9-12 Oct. 2019](https://seg.org/Events/ICEG19) (conference paper to appear)
+* Upcoming invited talk: "Scalable Seismic Acquisition and Algorithms for Next-Generation Engineering Geophysics," [International Conference on Engineering Geophysics, Al Ain, United Arab Emirates, 21-24 Oct. 2019](https://seg.org/Events/ICEG19) (conference paper to appear)
 
 * Recent preprints and publications:
-  * This new [preprint on EarthArXiV](https://eartharxiv.org/sx9zt/) describes "A Scalable Algorithm for Cross-correlations of Compressed Ambient Seismic Noise," and has been accepted to appear in the 2019 SEG Annual Meeting Expanded Abstracts. 
+  * New [preprint on EarthArXiV](https://eartharxiv.org/j8vn9/): Z. Spica, M. Perton, E.R. Martin, B. Biondi, G. Beroza, "Urban Seismic Site Characterization by Fiber-Optic Seismology"
+  * This [preprint on EarthArXiV](https://eartharxiv.org/sx9zt/) describes "A Scalable Algorithm for Cross-correlations of Compressed Ambient Seismic Noise," and has been accepted to appear in the 2019 SEG Annual Meeting Expanded Abstracts. 
   * E. Martin, N. Lindsey, J. Ajo-Franklin, B. Biondi, "Introduction to Interferometry of Fiber Optic Strain Measurements," accepted pending minor revisions, [preprint on EarthArXiV](https://eartharxiv.org/s2tjd/). 
   * B. Biondi, S. Yuan, E.R. Martin, F. Huot, R.G. Clapp, "Using telecommunication fiber infrastructure for earthquake monitoring and near-surface characterization," accepted pending minor revisions.
 
 
 * Recent research funding:
+  * The project "Exploration of an Interdisciplinary Approach to Resolving a Critical Issue in Evaluating Liquefaction Hazard of Challenging Soil Sites" with A. Yerro Colom and R. Green (Virginia Tech Civil & Environmental Engineering) was recently selected for funding by the NSF Engineering for Civil Infrastructure program.
   * The project "Fully Distributed Acoustic and Magnetic Field Monitoring via a Single Fiber Line for Optimized Production of Unconventional Resource Plays," was [recently selected for funding by the DOE Office of Fossil Energy](https://www.energy.gov/fe/project-selections-advanced-technologies-recovery-unconventional-oil-gas-resources). This will be a collaboration with Virginia Tech's [Center for Photonics Technology](https://photonics.ece.vt.edu/) and [Sentek Instrument LLC](http://www.sentekinstrument.com/).
   * We are currently working on "Advanced Computational Methods towards High-Resolution Fiber Optic Distributed Acoustic Sensing,"  a collaboration with [Luna](https://lunainc.com/) funded through a Phase I STTR from DOE Geothermal Technologies Office
   
