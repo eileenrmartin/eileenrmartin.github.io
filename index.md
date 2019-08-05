@@ -15,6 +15,8 @@ Office phone: 540-231-6397
 
 ## Announcements, upcoming talks and papers
 
+* Upcoming workshop: Please join us at the SEG post-convention workshop on "Real-time Processing for Large-scale Streaming Seismic Data." [More info and schedule here.](/docs/realtimeseismicWSSchedule.md)
+
 * Upcoming invited talk: "Scalable Seismic Acquisition and Algorithms for Next-Generation Engineering Geophysics," [International Conference on Engineering Geophysics, Al Ain, United Arab Emirates, 21-24 Oct. 2019](https://seg.org/Events/ICEG19) (conference paper to appear)
 
 * Recent preprints and publications:
