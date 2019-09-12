@@ -25,7 +25,7 @@ Organizers: Eileen Martin (Virginia Tech) and Biondo Biondi (Stanford University
 |           **Marine Seismic**                                      |
 |10:55-11:05| Andrew Long, PGS	          | The digitalization path to cycle time reduction      |
 |11:07-11:17| Alexander Goertz, Octio	  | Real-time passive monitoring of offshore drilling operations with large-aperture ocean-bottom cables  |
-|11:19-11:29| Dave Nichols, Schlumberger  |TBD (related to cloud computing) |
+|11:19-11:29| Dave Nichols, Schlumberger  |Computation and decisions: at the edge, in town, and in the cloud |
 |11:31-12	| Moderator: E. Martin   | Discussion and Q&A with all marine seismic speakers    |
 
 
