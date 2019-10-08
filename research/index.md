@@ -1,6 +1,20 @@
 ### [Home](https://eileenrmartin.github.io){: .btn}     [Publications](/publications){: .btn}       [CV](/docs/ermartin_CV.pdf){: .btn}       [Teaching](/teaching){: .btn}	 [Prospective Students](/prospectiveStudents){: .btn} [Outreach](/outreach){: .btn}
 
-## Current research
+## Current and recent research
+
+<p>
+	<img src="https://eileenrmartin.github.io/research/img/FORESEE_music.png" alt="FORESEE map" align="left" width="300">
+	<div style="text-align: right"><a href="https://eileenrmartin.github.io/research/FORESEE/">The Fiber-Optic foR Environmental SEnsEing (FORESEE) project</a>: dark fiber to study urban hydrology and geohazards underneath Penn State</div>
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 
 <p>
@@ -44,7 +58,6 @@
 <br/>
 <br/>
 
-## Some past projects
 
 <p>
 	<img src="https://eileenrmartin.github.io/research/img/compression.png" alt="Sensitivity" align="left" width="300">
