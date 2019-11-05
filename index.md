@@ -13,14 +13,13 @@ Office: McBryde 474
 
 Office phone: 540-231-6397   
 
-## Announcements, upcoming talks and papers
+## Announcements
 
 
-* Upcoming invited talks: 
-  * "Scalable Seismic Acquisition and Algorithms for Next-Generation Engineering Geophysics," [International Conference on Engineering Geophysics, Al Ain, United Arab Emirates, 21-24 Oct. 2019](https://seg.org/Events/ICEG19) (conference paper to appear)
-  * "High-throughput seismology: new sensors, new signals, new algorithms," [Women in Data Science @ Stanford Earth, 1 Nov. 2019](http://events.r20.constantcontact.com/register/event?llr=bqkmklvab&oeidk=a07egkwq1hm69a69fc9&oseq=)
+* Upcoming talk: "New Signals in Massive Data Acquired by Fiber Optic Seismic Monitoring Under Pennsylvania State University," Work with Tieyuan Zhu and Junzhu Shen, at SEG/EAGE Workshop on Geophysical Aspects of Smart Cities, Singapore, Dec. 10-12.
 
 * Recent preprints and publications:
+  * Recently submitted: G. Fang, Y.E. Li, Y. Zhao, E.R. Martin, "Urban Near-surface Seismic Monitoring Using Distributed Acoustic Sensing"
   * New [conference paper preprint](https://sites.psu.edu/tzhu/files/2019/08/ZhuMartinShen2019_fiber.pdf): T. Zhu, E.R. Martin, J. Shen, "New Signals in Massive Data Acquired by Fiber Optic Seismic Monitoring Under Pennsylvania State University"
   * New [preprint on EarthArXiV](https://eartharxiv.org/j8vn9/): Z. Spica, M. Perton, E.R. Martin, B. Biondi, G. Beroza, "Urban Seismic Site Characterization by Fiber-Optic Seismology"
   * This [preprint on EarthArXiV](https://eartharxiv.org/sx9zt/) describes "A Scalable Algorithm for Cross-correlations of Compressed Ambient Seismic Noise," was recently in the 2019 SEG Annual Meeting Expanded Abstracts. 
