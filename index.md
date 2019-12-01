@@ -19,10 +19,10 @@ Office phone: 540-231-6397
 * Upcoming talk: "New Signals in Massive Data Acquired by Fiber Optic Seismic Monitoring Under Pennsylvania State University," Work with Tieyuan Zhu and Junzhu Shen, at SEG/EAGE Workshop on Geophysical Aspects of Smart Cities, Singapore, Dec. 10-12.
 
 * Recent preprints and publications:
-  * Recently submitted: G. Fang, Y.E. Li, Y. Zhao, E.R. Martin, "Urban Near-surface Seismic Monitoring Using Distributed Acoustic Sensing"
+  * Recently submitted [preprint on EarthArXiv](https://eartharxiv.org/7n6ub/): G. Fang, Y.E. Li, Y. Zhao, E.R. Martin, "Urban Near-surface Seismic Monitoring Using Distributed Acoustic Sensing"
   * New [conference paper preprint](https://sites.psu.edu/tzhu/files/2019/08/ZhuMartinShen2019_fiber.pdf): T. Zhu, E.R. Martin, J. Shen, "New Signals in Massive Data Acquired by Fiber Optic Seismic Monitoring Under Pennsylvania State University"
-  * New [preprint on EarthArXiV](https://eartharxiv.org/j8vn9/): Z. Spica, M. Perton, E.R. Martin, B. Biondi, G. Beroza, "Urban Seismic Site Characterization by Fiber-Optic Seismology"
-  * This [preprint on EarthArXiV](https://eartharxiv.org/sx9zt/) describes "A Scalable Algorithm for Cross-correlations of Compressed Ambient Seismic Noise," was recently in the 2019 SEG Annual Meeting Expanded Abstracts. 
+  * This [preprint on EarthArXiV](https://eartharxiv.org/j8vn9/): Z. Spica, M. Perton, E.R. Martin, B. Biondi, G. Beroza, "Urban Seismic Site Characterization by Fiber-Optic Seismology"
+  * This [preprint on EarthArXiv](https://eartharxiv.org/sx9zt/) describes "A Scalable Algorithm for Cross-correlations of Compressed Ambient Seismic Noise," was recently in the 2019 SEG Annual Meeting Expanded Abstracts. 
   * E. Martin, N. Lindsey, J. Ajo-Franklin, B. Biondi, "Introduction to Interferometry of Fiber Optic Strain Measurements," accepted pending minor revisions, [preprint on EarthArXiV](https://eartharxiv.org/s2tjd/). 
   * B. Biondi, S. Yuan, E.R. Martin, F. Huot, R.G. Clapp, "Using telecommunication fiber infrastructure for earthquake monitoring and near-surface characterization," accepted pending minor revisions.
 
