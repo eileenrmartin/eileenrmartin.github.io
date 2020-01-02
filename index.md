@@ -16,21 +16,22 @@ Office phone: 540-231-6397
 ## Announcements
 
 
-* Upcoming talk: "New Signals in Massive Data Acquired by Fiber Optic Seismic Monitoring Under Pennsylvania State University," Work with Tieyuan Zhu and Junzhu Shen, at SEG/EAGE Workshop on Geophysical Aspects of Smart Cities, Singapore, Dec. 10-12.
 
 * Recent preprints and publications:
-  * Recently submitted [preprint on EarthArXiv](https://eartharxiv.org/7n6ub/): G. Fang, Y.E. Li, Y. Zhao, E.R. Martin, "Urban Near-surface Seismic Monitoring Using Distributed Acoustic Sensing"
-  * New [conference paper preprint](https://sites.psu.edu/tzhu/files/2019/08/ZhuMartinShen2019_fiber.pdf): T. Zhu, E.R. Martin, J. Shen, "New Signals in Massive Data Acquired by Fiber Optic Seismic Monitoring Under Pennsylvania State University"
+  * [Preprint on VTechWorks](https://vtechworks.lib.vt.edu/handle/10919/96246): E.R. Martin, "A Linear Algorithm for Ambient Seismic Noise Double Beamforming Without Crosscorrelations"
+  * [Preprint on EarthArXiv](https://eartharxiv.org/7n6ub/): G. Fang, Y.E. Li, Y. Zhao, E.R. Martin, "Urban Near-surface Seismic Monitoring Using Distributed Acoustic Sensing"
+  * [Conference paper preprint](https://sites.psu.edu/tzhu/files/2019/08/ZhuMartinShen2019_fiber.pdf): T. Zhu, E.R. Martin, J. Shen, "New Signals in Massive Data Acquired by Fiber Optic Seismic Monitoring Under Pennsylvania State University"
   * This [preprint on EarthArXiV](https://eartharxiv.org/j8vn9/): Z. Spica, M. Perton, E.R. Martin, B. Biondi, G. Beroza, "Urban Seismic Site Characterization by Fiber-Optic Seismology"
   * This [preprint on EarthArXiv](https://eartharxiv.org/sx9zt/) describes "A Scalable Algorithm for Cross-correlations of Compressed Ambient Seismic Noise," was recently in the 2019 SEG Annual Meeting Expanded Abstracts. 
   * E. Martin, N. Lindsey, J. Ajo-Franklin, B. Biondi, "Introduction to Interferometry of Fiber Optic Strain Measurements," accepted pending minor revisions, [preprint on EarthArXiV](https://eartharxiv.org/s2tjd/). 
-  * B. Biondi, S. Yuan, E.R. Martin, F. Huot, R.G. Clapp, "Using telecommunication fiber infrastructure for earthquake monitoring and near-surface characterization," accepted pending minor revisions.
+  * B. Biondi, S. Yuan, E.R. Martin, F. Huot, R.G. Clapp, "Using telecommunication fiber infrastructure for earthquake monitoring and near-surface characterization," chapter accepted to the upcoming AGU book on DAS.
 
 
 * Recent research funding:
+  * The project "Fast Comparative Algorithms for Sensor Array Summaries" was recently selected for funding through a subcontract with UT-Batelle, LLC (operating Oak Ridge National Laboratory)
   * The project "EAGER: Exploration of an Interdisciplinary Approach to Resolving a Critical Issue in Evaluating Liquefaction Hazard of Challenging Soil Sites" with A. Yerro Colom and R. Green (Virginia Tech Civil & Environmental Engineering) was recently selected for funding by the NSF Engineering for Civil Infrastructure program.
   * The project "Fully Distributed Acoustic and Magnetic Field Monitoring via a Single Fiber Line for Optimized Production of Unconventional Resource Plays," was [recently selected for funding by the DOE Office of Fossil Energy](https://www.energy.gov/fe/project-selections-advanced-technologies-recovery-unconventional-oil-gas-resources). This will be a collaboration with Virginia Tech's [Center for Photonics Technology](https://photonics.ece.vt.edu/) and [Sentek Instrument LLC](http://www.sentekinstrument.com/).
-  * We are currently working on "Advanced Computational Methods towards High-Resolution Fiber Optic Distributed Acoustic Sensing,"  a collaboration with [Luna](https://lunainc.com/) funded through a Phase I STTR from DOE Geothermal Technologies Office
+  * We recently wrapped up Phase I of "Advanced Computational Methods towards High-Resolution Fiber Optic Distributed Acoustic Sensing,"  a collaboration with [Luna](https://lunainc.com/) funded through a Phase I STTR from DOE Geothermal Technologies Office. 
   
   
 * Teaching this fall:
@@ -43,4 +44,3 @@ Office phone: 540-231-6397
 
 * At the AGU Fall meeting in December, Nate Lindsey and I presented a tutorial on "Distributed Fiber-Optic Seismology in Theory and Practice," and we've turned that material into a [YouTube video](https://youtu.be/LAcQ44YRMuM) so it's easy to watch at your own pace. We also include many references at the end if you would like to find out more about some of the recent advances in this area.
 
-* I was awarded the 2018 Gene Golub Dissertation Award by Stanford's Institute for Computational and Mathematical Engineering. A copy of my dissertation can be found [here](http://sepwww.stanford.edu/data/media/public/docs/sep173/dissertation.pdf). 
