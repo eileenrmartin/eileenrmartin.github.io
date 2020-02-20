@@ -18,10 +18,10 @@ Office phone: 540-231-6397
 
 
 * Recent preprints and publications:
+  * Paper recently accepted to Journal of Geophysical Research Solid Earth: Z. Spica, M. Perton, E.R. Martin, B. Biondi, G. Beroza, "Urban Seismic Site Characterization by Fiber-Optic Seismology," doi:10.1029/2019JB018656, [version on JGR](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JB018656), [preprint on EarthArXiV](https://eartharxiv.org/j8vn9/)
   * [Preprint on VTechWorks](https://vtechworks.lib.vt.edu/handle/10919/96246): E.R. Martin, "A Linear Algorithm for Ambient Seismic Noise Double Beamforming Without Crosscorrelations"
   * [Preprint on EarthArXiv](https://eartharxiv.org/7n6ub/): G. Fang, Y.E. Li, Y. Zhao, E.R. Martin, "Urban Near-surface Seismic Monitoring Using Distributed Acoustic Sensing"
   * [Conference paper preprint](https://sites.psu.edu/tzhu/files/2019/08/ZhuMartinShen2019_fiber.pdf): T. Zhu, E.R. Martin, J. Shen, "New Signals in Massive Data Acquired by Fiber Optic Seismic Monitoring Under Pennsylvania State University"
-  * This [preprint on EarthArXiV](https://eartharxiv.org/j8vn9/): Z. Spica, M. Perton, E.R. Martin, B. Biondi, G. Beroza, "Urban Seismic Site Characterization by Fiber-Optic Seismology"
   * This [preprint on EarthArXiv](https://eartharxiv.org/sx9zt/) describes "A Scalable Algorithm for Cross-correlations of Compressed Ambient Seismic Noise," was recently in the 2019 SEG Annual Meeting Expanded Abstracts. 
   * E. Martin, N. Lindsey, J. Ajo-Franklin, B. Biondi, "Introduction to Interferometry of Fiber Optic Strain Measurements," accepted pending minor revisions, [preprint on EarthArXiV](https://eartharxiv.org/s2tjd/). 
   * B. Biondi, S. Yuan, E.R. Martin, F. Huot, R.G. Clapp, "Using telecommunication fiber infrastructure for earthquake monitoring and near-surface characterization," chapter accepted to the upcoming AGU book on DAS.
