@@ -8,6 +8,12 @@ Winter 2016, CME 108/MATH 114 Introduction to Scientific Computing (course assis
 
 Winter 2018, EARTH 310 Computational Geosciences Seminar (co-organizer)
 
-Fall 2018, CMDA 2005 Integrated Quantitative Sciences
+Fall 2018, CMDA 2005 Integrated Quantitative Modeling I, co-teaching with Christian Lucero
 
 Spring 2019, CMDA 3634 CS Foundations for CMDA
+
+Fall 2019, MATH 5984, [Extreme-scale Inverse Problems](https://sites.google.com/vt.edu/extreme), one-credit graduate topics course,  co-teaching with Russell Hewett
+
+Fall 2019, CMDA 2005, Integrated Quantitative Modeling I, co-teaching with Morgan Russell
+
+Spring 2020, CMDA 3634 CS Foundations for CMDA
