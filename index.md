@@ -15,7 +15,7 @@ Office phone (won't answer during social distancing): 540-231-6397
 
 ## Announcements
 
-
+* Women in Data Science Blacksburg at Virginia Tech is coming up April 2, [more info and registration here](https://sites.google.com/vt.edu/wids-bburg-vt-2020)
 
 * Recent preprints and publications:
   * [New preprint on ArXiV](https://arxiv.org/abs/2003.02256): J. Kump and E.R. Martin, "Multichannel Analysis of Surface Waves Accelerated (MASWAccelerate): Software for Efficient Surface Wave Inversion Using MPI and GPUs" 
