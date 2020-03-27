@@ -18,8 +18,8 @@ Office phone (won't answer during social distancing): 540-231-6397
 
 
 * Recent preprints and publications:
-  * [Preprint on ArXiV](https://arxiv.org/abs/2003.02256) J. Kump and E.R. Martin, "Multichannel Analysis of Surface Waves Accelerated (MASWAccelerate): Software for Efficient Surface Wave Inversion Using MPI and GPUs" 
-  * Paper recently accepted to Geophysical Research Letters: G. Fang, Y.E. Li, Y. Zhao, E.R. Martin, "Urban Near-surface Seismic Monitoring Using Distributed Acoustic Sensing, "Preprint on EarthArXiv](https://eartharxiv.org/7n6ub/)
+  * [New preprint on ArXiV](https://arxiv.org/abs/2003.02256): J. Kump and E.R. Martin, "Multichannel Analysis of Surface Waves Accelerated (MASWAccelerate): Software for Efficient Surface Wave Inversion Using MPI and GPUs" 
+  * Paper recently accepted to Geophysical Research Letters: G. Fang, Y.E. Li, Y. Zhao, E.R. Martin, "Urban Near-surface Seismic Monitoring Using Distributed Acoustic Sensing," [Preprint on EarthArXiv](https://eartharxiv.org/7n6ub/)
   * Paper recently accepted to Journal of Geophysical Research Solid Earth: Z. Spica, M. Perton, E.R. Martin, B. Biondi, G. Beroza, "Urban Seismic Site Characterization by Fiber-Optic Seismology," doi:10.1029/2019JB018656, [version on JGR](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JB018656), [preprint on EarthArXiV](https://eartharxiv.org/j8vn9/)
   * [Preprint on VTechWorks](https://vtechworks.lib.vt.edu/handle/10919/96246): E.R. Martin, "A Linear Algorithm for Ambient Seismic Noise Double Beamforming Without Crosscorrelations"
   * [Conference paper preprint](https://sites.psu.edu/tzhu/files/2019/08/ZhuMartinShen2019_fiber.pdf): T. Zhu, E.R. Martin, J. Shen, "New Signals in Massive Data Acquired by Fiber Optic Seismic Monitoring Under Pennsylvania State University"
