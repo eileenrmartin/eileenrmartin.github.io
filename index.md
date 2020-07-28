@@ -19,7 +19,7 @@ Office phone (won't answer during social distancing): 540-231-6397
   * Seminar July 29 for Argonne National Laboratory, "Scalable algorithms for signal processing and imaging with vibration data"
   * Seminar August 5 for Applied Geophysics Research Seminar at ExxonMobil, "Passive seismic processing with scalable algorithms and artificial intelligence"
 
-* Upcoming virtual workshop and tutorial August 10, 12 and 17 (co-led by Eileen Martin and Nate Lindsey, along with Scott Tyler, Dante Fratta, Herb Wang, Kasey Aderhold and Bob Woodward), [registration and info](https://www.iris.edu/hq/event/2020_DAS_Workshop)
+* Upcoming Virtual DAS Workshop and Tutorial August 10, 12 and 17 is being co-led by Eileen Martin and Nate Lindsey, along with Scott Tyler, Dante Fratta, Herb Wang, Kasey Aderhold and Bob Woodward. [Registration and more information](https://www.iris.edu/hq/event/2020_DAS_Workshop)
 
 * Teaching in '20-'21:
   * Fall 2020, CMDA 3634 (2 sections, online)
