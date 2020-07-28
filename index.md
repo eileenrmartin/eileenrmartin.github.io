@@ -15,22 +15,33 @@ Office phone (won't answer during social distancing): 540-231-6397
 
 ## Announcements
 
-* New hands-on introductory math research course in Fall 2020 "BEPUR: Broadening Engagement and Participation in Undergraduate Research" [more info](https://eileenrmartin.github.io/docs/BEPUR-poster.pdf) 
+* Upcoming presentations:
+  * Seminar July 29 for Argonne National Laboratory, "Scalable algorithms for signal processing and imaging with vibration data"
+  * Seminar August 5 for Applied Geophysics Research Seminar at ExxonMobil, "Passive seismic processing with scalable algorithms and artificial intelligence"
+
+* Upcoming virtual workshop and tutorial August 10, 12 and 17 (co-led by Eileen Martin and Nate Lindsey, along with Scott Tyler, Dante Fratta, Herb Wang, Kasey Aderhold and Bob Woodward), [registration and info](https://www.iris.edu/hq/event/2020_DAS_Workshop)
+
+* Teaching in '20-'21:
+  * Fall 2020, CMDA 3634 (2 sections, online)
+  * New hands-on introductory math research course, MATH 2984, in Spring 2021 "BEPUR: Broadening Engagement and Participation in Undergraduate Research" is being supported in part by a MAA Tensor Women and Mathematics Grant. [More info on course website.](https://sites.google.com/vt.edu/bepur-math-2984/home)
 
 * Recent preprints and publications:
-  * [New preprint on ArXiV](https://arxiv.org/abs/2003.02256): J. Kump and E.R. Martin, "Multichannel Analysis of Surface Waves Accelerated (MASWAccelerate): Software for Efficient Surface Wave Inversion Using MPI and GPUs" 
+  * (Submitted, preprint available soon): N.J. Lindsey and E.R. Martin, "Fiber-optic Seismology"
+  * Paper recently accepted: S. Jakkampudi, J. Shen, W. Li, A. Dev, T. Zhu and E.R. Martin, "Footstep Detection in Urban Seismic Data with a Convolutional Neural Network", to appear in The Leading Edge in Sep. 2020
+  * [Preprint on EarthArxiv](https://eartharxiv.org/rswb3/): T. Zhu, J. Shen and E.R. Martin, "Sensing earth and environment dynamics by telecommunication fiber-optic sensors: An urban experiment in Pennsylvania USA", under open review in Solid Earth
+  * [Preprint on ArXiV](https://arxiv.org/abs/2003.02256): J. Kump and E.R. Martin, "Multichannel Analysis of Surface Waves Accelerated (MASWAccelerate): Software for Efficient Surface Wave Inversion Using MPI and GPUs" 
   * Paper recently accepted to Geophysical Research Letters: G. Fang, Y.E. Li, Y. Zhao, E.R. Martin, "Urban Near-surface Seismic Monitoring Using Distributed Acoustic Sensing," [Preprint on EarthArXiv](https://eartharxiv.org/7n6ub/)
   * Paper recently accepted to Journal of Geophysical Research Solid Earth: Z. Spica, M. Perton, E.R. Martin, B. Biondi, G. Beroza, "Urban Seismic Site Characterization by Fiber-Optic Seismology," doi:10.1029/2019JB018656, [version on JGR](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JB018656), [preprint on EarthArXiV](https://eartharxiv.org/j8vn9/)
   * [Preprint on VTechWorks](https://vtechworks.lib.vt.edu/handle/10919/96246): E.R. Martin, "A Linear Algorithm for Ambient Seismic Noise Double Beamforming Without Crosscorrelations"
   * [Conference paper preprint](https://sites.psu.edu/tzhu/files/2019/08/ZhuMartinShen2019_fiber.pdf): T. Zhu, E.R. Martin, J. Shen, "New Signals in Massive Data Acquired by Fiber Optic Seismic Monitoring Under Pennsylvania State University"
-  * This [preprint on EarthArXiv](https://eartharxiv.org/sx9zt/) describes "A Scalable Algorithm for Cross-correlations of Compressed Ambient Seismic Noise," was recently in the 2019 SEG Annual Meeting Expanded Abstracts. 
-  * E. Martin, N. Lindsey, J. Ajo-Franklin, B. Biondi, "Introduction to Interferometry of Fiber Optic Strain Measurements," accepted pending minor revisions, [preprint on EarthArXiV](https://eartharxiv.org/s2tjd/). 
+  * This [preprint on EarthArXiv](https://eartharxiv.org/sx9zt/) describes "A Scalable Algorithm for Cross-correlations of Compressed Ambient Seismic Noise," was in the 2019 SEG Annual Meeting Expanded Abstracts. 
+  * E. Martin, N. Lindsey, J. Ajo-Franklin, B. Biondi, "Introduction to Interferometry of Fiber Optic Strain Measurements," chapter accepted to the upcoming AGU book on DAS, [preprint on EarthArXiV](https://eartharxiv.org/s2tjd/). 
   * B. Biondi, S. Yuan, E.R. Martin, F. Huot, R.G. Clapp, "Using telecommunication fiber infrastructure for earthquake monitoring and near-surface characterization," chapter accepted to the upcoming AGU book on DAS.
 
 
 * Recent research funding:
-  * The project "Fast Comparative Algorithms for Sensor Array Summaries" was recently selected for funding through a subcontract with UT-Batelle, LLC (operating Oak Ridge National Laboratory)
-  * The project "EAGER: Exploration of an Interdisciplinary Approach to Resolving a Critical Issue in Evaluating Liquefaction Hazard of Challenging Soil Sites" with A. Yerro Colom and R. Green (Virginia Tech Civil & Environmental Engineering) was recently selected for funding by the NSF Engineering for Civil Infrastructure program.
+  * The project "Fast Comparative Algorithms for Sensor Array Summaries" is being funded through a subcontract with UT-Batelle, LLC (operating Oak Ridge National Laboratory)
+  * The project "EAGER: Exploration of an Interdisciplinary Approach to Resolving a Critical Issue in Evaluating Liquefaction Hazard of Challenging Soil Sites" with A. Yerro Colom and R. Green (Virginia Tech Civil & Environmental Engineering) is being funded by the NSF Engineering for Civil Infrastructure program.
   * The project "Fully Distributed Acoustic and Magnetic Field Monitoring via a Single Fiber Line for Optimized Production of Unconventional Resource Plays," was [recently selected for funding by the DOE Office of Fossil Energy](https://www.energy.gov/fe/project-selections-advanced-technologies-recovery-unconventional-oil-gas-resources). This will be a collaboration with Virginia Tech's [Center for Photonics Technology](https://photonics.ece.vt.edu/) and [Sentek Instrument LLC](http://www.sentekinstrument.com/).
   * We recently wrapped up Phase I of "Advanced Computational Methods towards High-Resolution Fiber Optic Distributed Acoustic Sensing,"  a collaboration with [Luna](https://lunainc.com/) funded through a Phase I STTR from DOE Geothermal Technologies Office. 
   
