@@ -27,6 +27,7 @@ Office phone (won't answer during social distancing): 540-231-6397
 
 * Recent preprints and publications:
   * (Submitted, preprint available soon): N.J. Lindsey and E.R. Martin, "Fiber-optic Seismology"
+  * [Brief review](https://library.seg.org/doi/epub/10.1190/tle39060437.1) of recent advances in DAS for urban geophysics in The Leading Edge June 2020 issue, "Research Committee Update: Shining a light on cities with seismic data"
   * Paper recently accepted: S. Jakkampudi, J. Shen, W. Li, A. Dev, T. Zhu and E.R. Martin, "Footstep Detection in Urban Seismic Data with a Convolutional Neural Network", to appear in The Leading Edge in Sep. 2020
   * [Preprint on EarthArxiv](https://eartharxiv.org/rswb3/): T. Zhu, J. Shen and E.R. Martin, "Sensing earth and environment dynamics by telecommunication fiber-optic sensors: An urban experiment in Pennsylvania USA", under open review in Solid Earth
   * [Preprint on ArXiV](https://arxiv.org/abs/2003.02256): J. Kump and E.R. Martin, "Multichannel Analysis of Surface Waves Accelerated (MASWAccelerate): Software for Efficient Surface Wave Inversion Using MPI and GPUs" 
