@@ -7,48 +7,38 @@ I am an assistant professor at Virginia Tech in the [math department](https://ww
 
 ## Contact
 
-Email (preferred): eileenrmartin AT vt DOT edu   
+Email (preferred contact method during social distancing): eileenrmartin AT vt DOT edu   
 
-Office (won't be there during social distancing): McBryde 474   
+Office: McBryde 474   
 
-Office phone (won't answer during social distancing): 540-231-6397 
+Office phone: 540-231-6397 
 
 ## Announcements
 
-* Upcoming presentations:
-  * Seminar July 29 for Argonne National Laboratory, "Scalable algorithms for signal processing and imaging with vibration data"
-  * Seminar August 5 for Applied Geophysics Research Seminar at ExxonMobil, "Passive seismic processing with scalable algorithms and artificial intelligence"
+* Recent and upcoming presentations:
+  * Dec. 8, 2020, "Understanding sensitivity of distributed acoustic sensing integrated with velocity data" invited talk in AGU session on Observation of Rotation, Strain and Translation in Seismology - Applications, Instrumentation and Theory 
+  * Feb. 4, 2021, Heiland Lecture in Department of Geophysics at Colorado School of Mines
 
-* Upcoming Virtual DAS Workshop and Tutorial August 10, 12 and 17 is being co-led by Eileen Martin and Nate Lindsey, along with Scott Tyler, Dante Fratta, Herb Wang, Kasey Aderhold and Bob Woodward. [Registration and more information](https://www.iris.edu/hq/event/2020_DAS_Workshop)
+* See materials from the DAS Workshop and Tutorial August 10, 12 and 17 which was co-led by Eileen Martin and Nate Lindsey, along with Scott Tyler, Dante Fratta, Herb Wang, Kasey Aderhold and Bob Woodward. [More information here.](https://www.iris.edu/hq/event/2020_DAS_Workshop)
 
 * Teaching in '20-'21:
   * Fall 2020, CMDA 3634 (2 sections, online)
   * New hands-on introductory math research course, MATH 2984, in Spring 2021 "BEPUR: Broadening Engagement and Participation in Undergraduate Research" is being supported in part by a MAA Tensor Women and Mathematics Grant. [More info on course website.](https://sites.google.com/vt.edu/bepur-math-2984/home)
 
-* Recent preprints and publications:
-  * (Submitted, preprint available soon): N.J. Lindsey and E.R. Martin, "Fiber-optic Seismology"
+* Recent papers:
+  * Recently submitted: J. Cooper, E.R. Martin, K.M. Yost, A. Yerro, R.A. Green, 2020, "Robust identification and characterization of thin soil layers in cone penetration data by piecewise layer optimization," under review, [code available.](https://github.com/jonc7/Soil-Layer-Optimization)
+  * Recently accepted: N.J. Lindsey and E.R. Martin, 2020, "Fiber-optic Seismology," to appear in Annual Reviews of Earth and Planetary Sciences, [preprint available.](https://vtechworks.lib.vt.edu/handle/10919/99469)
+  * Recently accepted: T. Zhu, J. Shen and E.R. Martin, 2020, "Sensing earth and environment dynamics by telecommunication fiber-optic sensors: An urban experiment in Pennsylvania USA", accepted to Solid Earth, [paper.](https://se.copernicus.org/preprints/se-2020-103/)
+  * Recently accepted: E.R. Martin, 2020, "A Linear Algorithm for Ambient Seismic Noise Double Beamforming Without Explicit Crosscorrelations," Geophysics, [preprint on VTechWorks.](https://vtechworks.lib.vt.edu/handle/10919/96246)
+  * Recently  published: S. Jakkampudi, J. Shen, W. Li, A. Dev, T. Zhu, E.R. Martin, 2020, "Footstep Detection in Urban Seismic Data with a Convolutional Neural Network," The Leading Edge, 39(9), pp. 654-660, [link.](https://library.seg.org/doi/10.1190/tle39090654.1)
   * [Brief review](https://library.seg.org/doi/epub/10.1190/tle39060437.1) of recent advances in DAS for urban geophysics in The Leading Edge June 2020 issue, "Research Committee Update: Shining a light on cities with seismic data"
-  * Paper recently accepted: S. Jakkampudi, J. Shen, W. Li, A. Dev, T. Zhu and E.R. Martin, "Footstep Detection in Urban Seismic Data with a Convolutional Neural Network", to appear in The Leading Edge in Sep. 2020
-  * [Preprint on EarthArxiv](https://eartharxiv.org/rswb3/): T. Zhu, J. Shen and E.R. Martin, "Sensing earth and environment dynamics by telecommunication fiber-optic sensors: An urban experiment in Pennsylvania USA", under open review in Solid Earth
-  * [Preprint on ArXiV](https://arxiv.org/abs/2003.02256): J. Kump and E.R. Martin, "Multichannel Analysis of Surface Waves Accelerated (MASWAccelerate): Software for Efficient Surface Wave Inversion Using MPI and GPUs" 
-  * Paper recently accepted to Geophysical Research Letters: G. Fang, Y.E. Li, Y. Zhao, E.R. Martin, "Urban Near-surface Seismic Monitoring Using Distributed Acoustic Sensing," [Preprint on EarthArXiv](https://eartharxiv.org/7n6ub/)
-  * Paper recently accepted to Journal of Geophysical Research Solid Earth: Z. Spica, M. Perton, E.R. Martin, B. Biondi, G. Beroza, "Urban Seismic Site Characterization by Fiber-Optic Seismology," doi:10.1029/2019JB018656, [version on JGR](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JB018656), [preprint on EarthArXiV](https://eartharxiv.org/j8vn9/)
-  * [Preprint on VTechWorks](https://vtechworks.lib.vt.edu/handle/10919/96246): E.R. Martin, "A Linear Algorithm for Ambient Seismic Noise Double Beamforming Without Crosscorrelations"
-  * [Conference paper preprint](https://sites.psu.edu/tzhu/files/2019/08/ZhuMartinShen2019_fiber.pdf): T. Zhu, E.R. Martin, J. Shen, "New Signals in Massive Data Acquired by Fiber Optic Seismic Monitoring Under Pennsylvania State University"
-  * This [preprint on EarthArXiv](https://eartharxiv.org/sx9zt/) describes "A Scalable Algorithm for Cross-correlations of Compressed Ambient Seismic Noise," was in the 2019 SEG Annual Meeting Expanded Abstracts. 
-  * E. Martin, N. Lindsey, J. Ajo-Franklin, B. Biondi, "Introduction to Interferometry of Fiber Optic Strain Measurements," chapter accepted to the upcoming AGU book on DAS, [preprint on EarthArXiV](https://eartharxiv.org/s2tjd/). 
-  * B. Biondi, S. Yuan, E.R. Martin, F. Huot, R.G. Clapp, "Using telecommunication fiber infrastructure for earthquake monitoring and near-surface characterization," chapter accepted to the upcoming AGU book on DAS.
-
+  * Under review: J. Kump and E.R. Martin, "Multichannel Analysis of Surface Waves Accelerated (MASWAccelerate): Software for Efficient Surface Wave Inversion Using MPI and GPUs," [preprint on ArXiV.](https://arxiv.org/abs/2003.02256) 
 
 * Recent research funding:
-  * The project "Fast Comparative Algorithms for Sensor Array Summaries" is being funded through a subcontract with UT-Batelle, LLC (operating Oak Ridge National Laboratory)
+  * The project "SitS: Collaborative Research: Understand and Forecast Long-term Variations of In-situ Geophysical and Geomechanical Characteristics of Degrading Permafrost in the Arctic" will begin in January 2021 with M. Xiao and T. Zhu (Penn State), D. Nicolsky and A. Jensen (University of Alaska Fairbanks), funded by the NSF Signals in the Soil program.
+  * The project "Fast Comparative Algorithms for Sensor Array Summaries" is funded through a subcontract with UT-Batelle, LLC (operating Oak Ridge National Laboratory)
   * The project "EAGER: Exploration of an Interdisciplinary Approach to Resolving a Critical Issue in Evaluating Liquefaction Hazard of Challenging Soil Sites" with A. Yerro Colom and R. Green (Virginia Tech Civil & Environmental Engineering) is being funded by the NSF Engineering for Civil Infrastructure program.
-  * The project "Fully Distributed Acoustic and Magnetic Field Monitoring via a Single Fiber Line for Optimized Production of Unconventional Resource Plays," was [recently selected for funding by the DOE Office of Fossil Energy](https://www.energy.gov/fe/project-selections-advanced-technologies-recovery-unconventional-oil-gas-resources). This will be a collaboration with Virginia Tech's [Center for Photonics Technology](https://photonics.ece.vt.edu/) and [Sentek Instrument LLC](http://www.sentekinstrument.com/).
+  * The project "Fully Distributed Acoustic and Magnetic Field Monitoring via a Single Fiber Line for Optimized Production of Unconventional Resource Plays," is ongoing, [funded by the DOE Office of Fossil Energy](https://www.energy.gov/fe/project-selections-advanced-technologies-recovery-unconventional-oil-gas-resources). This is a collaboration with Virginia Tech's [Center for Photonics Technology](https://photonics.ece.vt.edu/) and [Sentek Instrument LLC](http://www.sentekinstrument.com/).
   * We recently wrapped up Phase I of "Advanced Computational Methods towards High-Resolution Fiber Optic Distributed Acoustic Sensing,"  a collaboration with [Luna](https://lunainc.com/) funded through a Phase I STTR from DOE Geothermal Technologies Office. 
   
-
-
-
-
-* At the AGU Fall meeting in December, Nate Lindsey and I presented a tutorial on "Distributed Fiber-Optic Seismology in Theory and Practice," and we've turned that material into a [YouTube video](https://youtu.be/LAcQ44YRMuM) so it's easy to watch at your own pace. We also include many references at the end if you would like to find out more about some of the recent advances in this area.
 

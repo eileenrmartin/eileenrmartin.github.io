@@ -2,11 +2,9 @@
 
 ## Prospective Students
 
-I am specifically looking to hire graduate research assistants in:
-* sparsity-promoting optimization with applications to earthquake engineering (starting spring 2020)
-* signal processing, imaging or event localization with large-scale multiphysics (seismic + electromagnetic) data (starting summer 2020)
+I am currentlylooking to hire a graduate research assistant focused on data compression and efficient analysis for large-scale seismic imaging with permafrost monitoring applications (Spring/Summer 2021),  and an undergraduate research assistant working on high-throughput computational science in cloud computing environments (starting January 2021).
 
-Email me if you're a highly motivated prospective graduate student or undergrad interested in doing research on: 
+Email me if you're a motivated, curious prospective graduate student or undergrad interested in doing research on: 
 * imaging science 
 * inverse problems 
 * computational science 
