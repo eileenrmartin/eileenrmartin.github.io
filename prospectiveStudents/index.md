@@ -2,7 +2,9 @@
 
 ## Prospective Students
 
-I am currentlylooking to hire a graduate research assistant focused on data compression and efficient analysis for large-scale seismic imaging with permafrost monitoring applications (Spring/Summer 2021),  and an undergraduate research assistant working on high-throughput computational science in cloud computing environments (starting January 2021).
+I am currentlylooking to hire a graduate research assistant focused on data compression and efficient analysis for large-scale seismic imaging with permafrost monitoring applications (Spring/Summer 2021),  and two undergraduate research assistants working on high-throughput computational science in HPC and cloud computing environments with applications in permafrost and glacier monitoring (starting January 2021).
+
+To apply for the undergraduate positions, please email your resume (including details of HPC and/or cloud computing experience) to Eileen Martin by Mon. Jan. 4, 2021. 
 
 Email me if you're a motivated, curious prospective graduate student or undergrad interested in doing research on: 
 * imaging science 

@@ -15,6 +15,8 @@ Office phone: 540-231-6397
 
 ## Announcements
 
+* Visit the [prospective students page](https://eileenrmartin.github.io/prospectiveStudents/) for information on being a graduate or undergraduate researcher with me
+
 * Recent and upcoming presentations:
   * Dec. 8, 2020, "Understanding sensitivity of distributed acoustic sensing integrated with velocity data" invited talk in AGU session on Observation of Rotation, Strain and Translation in Seismology - Applications, Instrumentation and Theory 
   * Feb. 4, 2021, Heiland Lecture in Department of Geophysics at Colorado School of Mines
