@@ -28,7 +28,8 @@ Office phone: 540-231-6397
   * New hands-on introductory math research course, MATH 2984, in Spring 2021 "BEPUR: Broadening Engagement and Participation in Undergraduate Research" is being supported in part by a MAA Tensor Women and Mathematics Grant. [More info on course website.](https://sites.google.com/vt.edu/bepur-math-2984/home)
 
 * Recent papers:
-  * Recently submitted: J. Cooper, E.R. Martin, K.M. Yost, A. Yerro, R.A. Green, 2020, "Robust identification and characterization of thin soil layers in cone penetration data by piecewise layer optimization," under review, [code available.](https://github.com/jonc7/Soil-Layer-Optimization)
+  * Recently submitted: K.M. Yost, R.A. Green, S. Upadhyaya, B.W. Maurerr, A. Yerro-Colom, E.R. Martin, J. Cooper, 2020, "Assessment of the Efficacies of Correction Procedures for Multiple Thin Layer Effects on Cone Penetration Tests," under review.
+  * Recently submitted: J. Cooper, E.R. Martin, K.M. Yost, A. Yerro-Colom, R.A. Green, 2020, "Robust identification and characterization of thin soil layers in cone penetration data by piecewise layer optimization," under review, [code available.](https://github.com/jonc7/Soil-Layer-Optimization)
   * Recently accepted: N.J. Lindsey and E.R. Martin, 2020, "Fiber-optic Seismology," to appear in Annual Reviews of Earth and Planetary Sciences, [preprint available.](https://vtechworks.lib.vt.edu/handle/10919/99469)
   * Recently accepted: T. Zhu, J. Shen and E.R. Martin, 2020, "Sensing earth and environment dynamics by telecommunication fiber-optic sensors: An urban experiment in Pennsylvania USA", accepted to Solid Earth, [paper.](https://se.copernicus.org/preprints/se-2020-103/)
   * Recently accepted: E.R. Martin, 2020, "A Linear Algorithm for Ambient Seismic Noise Double Beamforming Without Explicit Crosscorrelations," Geophysics, [preprint on VTechWorks.](https://vtechworks.lib.vt.edu/handle/10919/96246)
