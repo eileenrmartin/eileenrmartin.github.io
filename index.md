@@ -20,6 +20,7 @@ Office phone: 540-231-6397
 * Recent and upcoming presentations:
   * Dec. 8, 2020, "Understanding sensitivity of distributed acoustic sensing integrated with velocity data" invited talk in AGU session on Observation of Rotation, Strain and Translation in Seismology - Applications, Instrumentation and Theory 
   * Feb. 4, 2021, Heiland Lecture in Department of Geophysics at Colorado School of Mines
+  * Apr. 16, 2021, Seismo Lab Seminar in Division of Geological and Planetary Sciences at Caltech
 
 * See materials from the DAS Workshop and Tutorial August 10, 12 and 17 which was co-led by Eileen Martin and Nate Lindsey, along with Scott Tyler, Dante Fratta, Herb Wang, Kasey Aderhold and Bob Woodward. [More information here.](https://www.iris.edu/hq/event/2020_DAS_Workshop)
 
