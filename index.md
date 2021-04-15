@@ -3,7 +3,7 @@
 ## Bio
 
 <img src="https://eileenrmartin.github.io/img/eileen.jpg" alt="photo of Eileen" align="right" style="width: 250px;"/>
-I am an assistant professor at Virginia Tech in the [math department](https://www.math.vt.edu) and program in computational modeling and data analytics ([CMDA](https://www.ais.science.vt.edu/programs/cmda.html)), and a Luther and Alice Hamlett Junior Faculty Fellow in Virginia Tech's Academy of Integrated Science. I earned my PhD from the Institute for Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu)) at Stanford in 2018, where I was a member of the Stanford Exploration Project ([SEP](http://sepwww.stanford.edu)) seismic imaging group. I am an affiliate in the geophysics department at Lawrence Berkeley National Lab. I hold an MS in geophysics from Stanford, and a BS with a double-major in math and computational physics from UT-Austin.  
+I am an assistant professor at Virginia Tech in the [math department](https://www.math.vt.edu) and program in computational modeling and data analytics ([CMDA](https://www.ais.science.vt.edu/programs/cmda.html)), and a Luther and Alice Hamlett Junior Faculty Fellow in Virginia Tech's Academy of Integrated Science. I earned my PhD from the Institute for Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu)) at Stanford in 2018, where I was a member of the Stanford Exploration Project ([SEP](http://sepwww.stanford.edu)) seismic imaging group and an affiliate in the geophysics department at Lawrence Berkeley National Lab (through 2020). I hold an MS in geophysics from Stanford, and a BS with a double-major in math and computational physics from UT-Austin.  
 
 ## Contact
 
@@ -15,22 +15,25 @@ Office phone: 540-231-6397
 
 ## Announcements
 
-* Visit the [prospective students page](https://eileenrmartin.github.io/prospectiveStudents/) for information on being a graduate or undergraduate researcher with me
+* Visit the [prospective students page](https://eileenrmartin.github.io/prospectiveStudents/) for information on being a postdoctoral, graduate or undergraduate researcher with me
 
 * Recent and upcoming presentations:
-  * Dec. 8, 2020, "Understanding sensitivity of distributed acoustic sensing integrated with velocity data" invited talk in AGU session on Observation of Rotation, Strain and Translation in Seismology - Applications, Instrumentation and Theory 
   * Feb. 4, 2021, Heiland Lecture in Department of Geophysics at Colorado School of Mines
   * Apr. 16, 2021, Seismo Lab Seminar in Division of Geological and Planetary Sciences at Caltech
+  * Apr. 20, 2021, SSA Annual Meeting
+  * Aug. 2021, GAGE/SAGE Science Workshop
 
 * See materials from the DAS Workshop and Tutorial August 10, 12 and 17 which was co-led by Eileen Martin and Nate Lindsey, along with Scott Tyler, Dante Fratta, Herb Wang, Kasey Aderhold and Bob Woodward. [More information here.](https://www.iris.edu/hq/event/2020_DAS_Workshop)
 
 * Teaching in '20-'21:
   * Fall 2020, CMDA 3634 (2 sections, online)
   * New hands-on introductory math research course, MATH 2984, in Spring 2021 "BEPUR: Broadening Engagement and Participation in Undergraduate Research" is being supported in part by a MAA Tensor Women and Mathematics Grant. [More info on course website.](https://sites.google.com/vt.edu/bepur-math-2984/home)
+  * Note: BEPUR will be offered again in Fall 2022!
 
 * Recent papers:
-  * Recently submitted: K.M. Yost, R.A. Green, S. Upadhyaya, B.W. Maurerr, A. Yerro-Colom, E.R. Martin, J. Cooper, 2020, "Assessment of the Efficacies of Correction Procedures for Multiple Thin Layer Effects on Cone Penetration Tests," under review.
+  * Recently submitted: K. Yost, A. Yerro, R.A. Green, E.R. Martin, J. Cooper, 2021, "MPM Modeling of Cone Penetrometer Testing for Multiple Thin-Layer Effects in Complex Soil Stratigraphy," under review.
   * Recently submitted: J. Cooper, E.R. Martin, K.M. Yost, A. Yerro-Colom, R.A. Green, 2020, "Robust identification and characterization of thin soil layers in cone penetration data by piecewise layer optimization," under review, [code available.](https://github.com/jonc7/Soil-Layer-Optimization)
+  * Recently accepted: K.M. Yost, R.A. Green, S. Upadhyaya, B.W. Maurerr, A. Yerro-Colom, E.R. Martin, J. Cooper, 2020, "Assessment of the Efficacies of Correction Procedures for Multiple Thin Layer Effects on Cone Penetration Tests," Soil Dynamics and Earthquake Engineering, 144, article no. 106677.
   * Recently accepted: N.J. Lindsey and E.R. Martin, 2020, "Fiber-optic Seismology," to appear in Annual Reviews of Earth and Planetary Sciences, [preprint available.](https://vtechworks.lib.vt.edu/handle/10919/99469)
   * Recently accepted: T. Zhu, J. Shen and E.R. Martin, 2020, "Sensing earth and environment dynamics by telecommunication fiber-optic sensors: An urban experiment in Pennsylvania USA", accepted to Solid Earth, [paper.](https://se.copernicus.org/preprints/se-2020-103/)
   * Recently accepted: E.R. Martin, 2020, "A Linear Algorithm for Ambient Seismic Noise Double Beamforming Without Explicit Crosscorrelations," Geophysics, [preprint on VTechWorks.](https://vtechworks.lib.vt.edu/handle/10919/96246)
