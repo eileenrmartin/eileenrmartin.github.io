@@ -27,7 +27,6 @@ More details about our graduate program can be found [here](https://secure.gradu
 ## Current Students in Research Group
 
 #### Graduate Students
-* Joseph Kump, Mathematics M.S. Student, Summer '19-present
 * Sarah Morgan, Mathematics M.S. student, Fall '20-present
 * Julius Grimm, Applied Geophysics M.S. student in IDEA League (co-advised), Fall '20-present
 
@@ -35,13 +34,16 @@ More details about our graduate program can be found [here](https://secure.gradu
 * Samantha Paulus, CMDA and Nanoscience major, Spring '21-present
 * Firaol Woldemariam, CMDA major, Spring '21-present
 * Tony Artis, CMDA major, Spring '20-present
-* Anu Trivedi, Mathematics major, Fall '19-present
 
 
 ## Alumni of Research Group
 
+#### Graduate Students
+* Joseph Kump, Mathematics M.S. Student, Summer '19-Spring '21, next position: CSEM Ph.D. student at UT Austin's Oden Institute
+
 #### Undergraduates
-* Sarah Morgan, Mathematics major, Fall '19-Spring '20, next position: M.S. student at Virginia Tech
+* Anu Trivedi, Mathematics major, Fall '19-Spring '21, next position: Biomedical Engineering Ph.D. student at Georgia Tech
+* Sarah Morgan, Mathematics major, Fall '19-Spring '20, next position: Mathematics M.S. student at Virginia Tech
 * Srikanth Jakkampudi, Mathematics and CMDA major, Fall '19-Spring '20, next position: Expedition Technology, Inc.
 * Tarun Nadipalli, CMDA major, Spring '19
 
