@@ -39,7 +39,7 @@ More details about our graduate program can be found [here](https://secure.gradu
 ## Alumni of Research Group
 
 #### Graduate Students
-* Joseph Kump, Mathematics M.S. Student, Summer '19-Spring '21, next position: CSEM Ph.D. student at UT Austin's Oden Institute
+* Joseph Kump, Mathematics M.S. Student, Summer '19-Summer '21, next position: CSEM Ph.D. student at UT Austin's Oden Institute
 
 #### Undergraduates
 * Anu Trivedi, Mathematics major, Fall '19-Spring '21, next position: Biomedical Engineering Ph.D. student at Georgia Tech
