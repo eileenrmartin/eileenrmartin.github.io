@@ -1,6 +1,6 @@
 ### [Home](https://eileenrmartin.github.io){: .btn}     [Publications](/publications){: .btn}     [Research](/research){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}    [Teaching](/teaching){: .btn}     [Outreach](/outreach){: .btn}
 
-## Prospective Students
+## Prospective Students, Postdocs
 
 Our group regularly has funded research projects going on that can support research assistants. Email me if you're a motivated, curious prospective postdoctoral researcher, graduate student or undergrad interested in doing research on: 
 * imaging science 
@@ -12,17 +12,28 @@ Our group regularly has funded research projects going on that can support resea
 * fiber-optic sensing (or other large-scale geophysical sensing methods)
 * signal processing
 
-In January 2022 I will be moving to Colorado School of Mines in Golden Colorado, and will be an assistant professor in the Department of Geophysics (60%) and Applied Mathematics and Statistics (40%). Students who wish to pursue their Ph.D. with me can apply through either department depending on their background and goals. More details about Mines' Geophysics graduate programs can be found [here](https://geophysics.mines.edu/graduate-program/), and about Mines' AMS graduate programs can be found [here](https://ams.mines.edu/graduate-programs/). Please check back here soon for a postdoctoral position. 
+In January 2022 I will be moving to Colorado School of Mines in Golden Colorado, to work as an assistant professor in the Department of Geophysics (60%) and Applied Mathematics and Statistics (40%). Students who wish to pursue their Ph.D. with me can apply through either department depending on their background and goals. More details about Mines' Geophysics graduate programs can be found [here](https://geophysics.mines.edu/graduate-program/), and about Mines' AMS graduate programs can be found [here](https://ams.mines.edu/graduate-programs/). In addition to the specific openings currently listed below, I often recruit students for upcoming projects that are not yet listed below. 
+
+### Specific Openings Currently
+
+* I am looking to recruit a graduate student research assistant interested in large-scale fiber optic vibration data analysis, both for seismology and industrial monitoring. This student will collaborate with multiple leading research universities and national labs. This is basic science research (i.e. students can discuss, present, and publish their research), but the funding source is restricted to supporting US citizens only. This position is preferred to begin in Spring 2022, but will remain posted until filled. The students' home department can be in either geophysics or AMS at Colorado School of Mines.
+
+* Please check back here soon for a postdoctoral position beginning in January 2022. A second postdoctoral position will likely be posted to begin in summer/fall 2022 funded by [NSF grant 2046387](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2046387). 
+
+
+### Graduate and Postdoctoral Fellowships
+
+For US citizens and permanent residents entering graduate school, I encourage you to apply for:
+* [DOE CSGF](https://www.krellinst.org/csgf/about-doe-csgf)
+* [NSF GRFP](https://www.nsfgrfp.org/)
 
 I also encourage prospective postdocs who are interested in applying for a grant together, or for a postdoctoral fellowship to contact me. Here are just a couple of opportunities:
-* [Link to the NSF MPS-Ascend Posdoctoral Fellowship](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505879)
-* [Link to NSF EAR Postdoctoral Fellowship](https://nsf.gov/funding/pgm_summ.jsp?pims_id=503144&org=OMA)
+* [NSF MPS-Ascend Posdoctoral Fellowship](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505879)
+* [NSF EAR Postdoctoral Fellowship](https://nsf.gov/funding/pgm_summ.jsp?pims_id=503144&org=OMA)
 
 
-For US citizens and permanent residents entering graduate school, I recommend applying for the [DOE CSGF](https://www.krellinst.org/csgf/about-doe-csgf), a graduate fellowship that provides fantastic computational science resources and training.
 
-
-## Current Students in Research Group
+## Current Members of Research Group
 
 #### Graduate Students
 * Sarah Morgan, Mathematics M.S. student (Virginia Tech), Fall '20-present

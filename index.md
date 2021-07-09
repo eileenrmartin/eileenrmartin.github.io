@@ -3,11 +3,11 @@
 ## Bio
 
 <img src="https://eileenrmartin.github.io/img/eileen.jpg" alt="photo of Eileen" align="right" style="width: 250px;"/>
-I am an assistant professor at Virginia Tech in the [math department](https://www.math.vt.edu) and program in computational modeling and data analytics ([CMDA](https://www.ais.science.vt.edu/programs/cmda.html)), and a Luther and Alice Hamlett Junior Faculty Fellow in Virginia Tech's Academy of Integrated Science. I earned my PhD from the Institute for Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu)) at Stanford in 2018, where I was a member of the Stanford Exploration Project ([SEP](http://sepwww.stanford.edu)) seismic imaging group and an affiliate in the geophysics department at Lawrence Berkeley National Lab (through 2020). I hold an MS in geophysics from Stanford, and a BS with a double-major in math and computational physics from UT-Austin.  
+I am an assistant professor at Virginia Tech in the [math department](https://www.math.vt.edu) and program in computational modeling and data analytics ([CMDA](https://www.ais.science.vt.edu/programs/cmda.html)), and a Luther and Alice Hamlett Junior Faculty Fellow in Virginia Tech's Academy of Integrated Science. I earned my PhD from the Institute for Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu)) at Stanford in 2018, where I was a member of the Stanford Exploration Project ([SEP](http://sepwww.stanford.edu)) seismic imaging group and an affiliate in the geophysics department at Lawrence Berkeley National Lab (through 2020). I hold an MS in geophysics from Stanford, and a BS with a double-major in math and computational physics from UT-Austin. Beginning in January 2022 I will work as an assistant professor at Colorado School of Mines with joint appointments in the [Department of Geophysics](https://geophysics.mines.edu/) (60%) and the [Applied Mathematics and Statistics Department](https://ams.mines.edu/) (40%).
 
 ## Contact
 
-Email (preferred contact method during social distancing): eileenrmartin AT vt DOT edu   
+Emails: eileenrmartin AT vt DOT edu (for Virginia Tech), eileenrmartin AT mines DOT edu (for Colorado School of Mines)
 
 Office: McBryde 474   
 
@@ -18,17 +18,14 @@ Office phone: 540-231-6397
 * Visit the [prospective students page](https://eileenrmartin.github.io/prospectiveStudents/) for information on being a postdoctoral, graduate or undergraduate researcher with me
 
 * Recent and upcoming presentations:
-  * Feb. 4, 2021, Heiland Lecture in Department of Geophysics at Colorado School of Mines
-  * Apr. 16, 2021, Seismo Lab Seminar in Division of Geological and Planetary Sciences at Caltech
   * Apr. 20, 2021, SSA Annual Meeting
   * Aug. 2021, GAGE/SAGE Science Workshop
 
 * See materials from the DAS Workshop and Tutorial August 10, 12 and 17 which was co-led by Eileen Martin and Nate Lindsey, along with Scott Tyler, Dante Fratta, Herb Wang, Kasey Aderhold and Bob Woodward. [More information here.](https://www.iris.edu/hq/event/2020_DAS_Workshop)
 
-* Teaching in '20-'21:
-  * Fall 2020, CMDA 3634 (2 sections, online)
-  * New hands-on introductory math research course, MATH 2984, in Spring 2021 "BEPUR: Broadening Engagement and Participation in Undergraduate Research" is being supported in part by a MAA Tensor Women and Mathematics Grant. [More info on course website.](https://sites.google.com/vt.edu/bepur-math-2984/home)
-  * Note: BEPUR will be offered again in Fall 2022!
+* Teaching in '21:
+  * New hands-on introductory math research course, MATH 2984, offered for the first time in Spring 2021 "BEPUR: Broadening Engagement and Participation in Undergraduate Research" is being supported in part by a MAA Tensor Women and Mathematics Grant. [More info on course website.](https://sites.google.com/vt.edu/bepur-math-2984/home)
+  * BEPUR will be offered again in Fall 2021 and we have a few open spots!
 
 * Recent papers:
   * Recently submitted: K. Yost, A. Yerro, R.A. Green, E.R. Martin, J. Cooper, 2021, "MPM Modeling of Cone Penetrometer Testing for Multiple Thin-Layer Effects in Complex Soil Stratigraphy," under review.
@@ -42,9 +39,10 @@ Office phone: 540-231-6397
   * Under review: J. Kump and E.R. Martin, "Multichannel Analysis of Surface Waves Accelerated (MASWAccelerate): Software for Efficient Surface Wave Inversion Using MPI and GPUs," [preprint on ArXiV.](https://arxiv.org/abs/2003.02256) 
 
 * Recent research funding:
+  * The project "CAREER: Scalable Computational Seismology for All" was recently awarded funding by the NSF Office of Advanced Cyberinfrastructure.
   * The project "SitS: Collaborative Research: Understand and Forecast Long-term Variations of In-situ Geophysical and Geomechanical Characteristics of Degrading Permafrost in the Arctic" will begin in January 2021 with M. Xiao and T. Zhu (Penn State), D. Nicolsky and A. Jensen (University of Alaska Fairbanks), funded by the NSF Signals in the Soil program.
   * The project "Fast Comparative Algorithms for Sensor Array Summaries" is funded through a subcontract with UT-Batelle, LLC (operating Oak Ridge National Laboratory)
-  * The project "EAGER: Exploration of an Interdisciplinary Approach to Resolving a Critical Issue in Evaluating Liquefaction Hazard of Challenging Soil Sites" with A. Yerro Colom and R. Green (Virginia Tech Civil & Environmental Engineering) is being funded by the NSF Engineering for Civil Infrastructure program.
+  * The project "EAGER: Exploration of an Interdisciplinary Approach to Resolving a Critical Issue in Evaluating Liquefaction Hazard of Challenging Soil Sites" with A. Yerro Colom and R. Green (Virginia Tech Civil & Environmental Engineering) is ongoing, funded by the NSF Engineering for Civil Infrastructure program.
   * The project "Fully Distributed Acoustic and Magnetic Field Monitoring via a Single Fiber Line for Optimized Production of Unconventional Resource Plays," is ongoing, [funded by the DOE Office of Fossil Energy](https://www.energy.gov/fe/project-selections-advanced-technologies-recovery-unconventional-oil-gas-resources). This is a collaboration with Virginia Tech's [Center for Photonics Technology](https://photonics.ece.vt.edu/) and [Sentek Instrument LLC](http://www.sentekinstrument.com/).
   * We recently wrapped up Phase I of "Advanced Computational Methods towards High-Resolution Fiber Optic Distributed Acoustic Sensing,"  a collaboration with [Luna](https://lunainc.com/) funded through a Phase I STTR from DOE Geothermal Technologies Office. 
   
