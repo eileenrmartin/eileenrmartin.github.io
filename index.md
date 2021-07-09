@@ -15,28 +15,14 @@ Office phone: 540-231-6397
 
 ## Announcements
 
-* Visit the [prospective students page](https://eileenrmartin.github.io/prospectiveStudents/) for information on being a postdoctoral, graduate or undergraduate researcher with me
-
 * Recent and upcoming presentations:
   * Apr. 20, 2021, SSA Annual Meeting
+  * July 13, 2021, ROSES instructor for lesson on DAS
   * Aug. 2021, GAGE/SAGE Science Workshop
 
 * See materials from the DAS Workshop and Tutorial August 10, 12 and 17 which was co-led by Eileen Martin and Nate Lindsey, along with Scott Tyler, Dante Fratta, Herb Wang, Kasey Aderhold and Bob Woodward. [More information here.](https://www.iris.edu/hq/event/2020_DAS_Workshop)
 
-* Teaching in '21:
-  * New hands-on introductory math research course, MATH 2984, offered for the first time in Spring 2021 "BEPUR: Broadening Engagement and Participation in Undergraduate Research" is being supported in part by a MAA Tensor Women and Mathematics Grant. [More info on course website.](https://sites.google.com/vt.edu/bepur-math-2984/home)
-  * BEPUR will be offered again in Fall 2021 and we have a few open spots!
 
-* Recent papers:
-  * Recently submitted: K. Yost, A. Yerro, R.A. Green, E.R. Martin, J. Cooper, 2021, "MPM Modeling of Cone Penetrometer Testing for Multiple Thin-Layer Effects in Complex Soil Stratigraphy," under review.
-  * Recently submitted: J. Cooper, E.R. Martin, K.M. Yost, A. Yerro-Colom, R.A. Green, 2020, "Robust identification and characterization of thin soil layers in cone penetration data by piecewise layer optimization," under review, [code available.](https://github.com/jonc7/Soil-Layer-Optimization)
-  * Recently accepted: K.M. Yost, R.A. Green, S. Upadhyaya, B.W. Maurerr, A. Yerro-Colom, E.R. Martin, J. Cooper, 2020, "Assessment of the Efficacies of Correction Procedures for Multiple Thin Layer Effects on Cone Penetration Tests," Soil Dynamics and Earthquake Engineering, 144, article no. 106677.
-  * Recently accepted: N.J. Lindsey and E.R. Martin, 2020, "Fiber-optic Seismology," to appear in Annual Reviews of Earth and Planetary Sciences, [preprint available.](https://vtechworks.lib.vt.edu/handle/10919/99469)
-  * Recently accepted: T. Zhu, J. Shen and E.R. Martin, 2020, "Sensing earth and environment dynamics by telecommunication fiber-optic sensors: An urban experiment in Pennsylvania USA", accepted to Solid Earth, [paper.](https://se.copernicus.org/preprints/se-2020-103/)
-  * Recently accepted: E.R. Martin, 2020, "A Linear Algorithm for Ambient Seismic Noise Double Beamforming Without Explicit Crosscorrelations," Geophysics, [preprint on VTechWorks.](https://vtechworks.lib.vt.edu/handle/10919/96246)
-  * Recently  published: S. Jakkampudi, J. Shen, W. Li, A. Dev, T. Zhu, E.R. Martin, 2020, "Footstep Detection in Urban Seismic Data with a Convolutional Neural Network," The Leading Edge, 39(9), pp. 654-660, [link.](https://library.seg.org/doi/10.1190/tle39090654.1)
-  * [Brief review](https://library.seg.org/doi/epub/10.1190/tle39060437.1) of recent advances in DAS for urban geophysics in The Leading Edge June 2020 issue, "Research Committee Update: Shining a light on cities with seismic data"
-  * Under review: J. Kump and E.R. Martin, "Multichannel Analysis of Surface Waves Accelerated (MASWAccelerate): Software for Efficient Surface Wave Inversion Using MPI and GPUs," [preprint on ArXiV.](https://arxiv.org/abs/2003.02256) 
 
 * Recent research funding:
   * The project "CAREER: Scalable Computational Seismology for All" was recently awarded funding by the NSF Office of Advanced Cyberinfrastructure.

@@ -38,6 +38,7 @@ I also encourage prospective postdocs who are interested in applying for a grant
 #### Graduate Students
 * Sarah Morgan, Mathematics M.S. student (Virginia Tech), Fall '20-present
 * Julius Grimm, Applied Geophysics M.S. student (IDEA League at ETH Zurich, co-advised), Fall '20-present
+* Brandon Pearl, Computer Science M.Eng. student (Virginia Tech), Summer '21-present
 
 #### Undergraduates
 * Samantha Paulus, CMDA and Nanoscience major (Virginia Tech), Spring '21-present
@@ -48,7 +49,8 @@ I also encourage prospective postdocs who are interested in applying for a grant
 ## Alumni of Research Group
 
 #### Graduate Students
-* Joseph Kump, Mathematics M.S. Student (Virginia Tech), Summer '19-Summer '21, next position: CSEM Ph.D. student at UT Austin's Oden Institute
+* Joseph Kump, Mathematics M.S. Student (Virginia Tech), Summer '19-Summer '21, [link to thesis](https://vtechworks.lib.vt.edu/handle/10919/103864), next position: CSEM Ph.D. student at UT Austin's Oden Institute
+* Jon Cooper, Mathematics M.S. Student (Virginia Tech, was GRA in group while doing thesis with M. Chung and S. Gugercin), Jan. '20-Dec. '20, next position: NSA
 
 #### Undergraduates
 * Anu Trivedi, Mathematics major (Virginia Tech), Fall '19-Spring '21, next position: Biomedical Engineering Ph.D. student at Georgia Tech

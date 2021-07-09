@@ -2,9 +2,9 @@
 
 ## Teaching
 
-Fall 2021, MATH 2984, [BEPUR: Broadening Engagement and Participation in Undergraduate Research](https://sites.google.com/vt.edu/bepur-math-2984) (lead instructor, team taught)
+Fall 2021, MATH 2984, [BEPUR: Broadening Engagement and Participation in Undergraduate Research](https://sites.google.com/vt.edu/bepur-math-2984) (lead instructor, team taught, supported by MAA Tensor Women and Mathematics Grant)
 
-Spring 2021, MATH 2984, [BEPUR: Broadening Engagement and Participation in Undergraduate Research](https://sites.google.com/vt.edu/bepur-math-2984) (lead instructor, team taught)
+Spring 2021, MATH 2984, [BEPUR: Broadening Engagement and Participation in Undergraduate Research](https://sites.google.com/vt.edu/bepur-math-2984) (lead instructor, team taught, supported by MAA Tensor Women and Mathematics Grant)
 
 Fall 2020, CMDA 3634, CS Foundations for CMDA (2 sections)
 
