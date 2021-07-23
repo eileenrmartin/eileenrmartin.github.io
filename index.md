@@ -15,6 +15,9 @@ Office phone: 540-231-6397
 
 ## Announcements
 
+* I am hiring a postdoctoral research associate: computational scientist focused on environmental and engineering geophysics to begin as soon as January 2022. Application review begins Aug. 31. More info at: [https://jobs.mines.edu/en-us/job/495095/postdoctoral-fellow-computational-environmental-and-engineering-geophysics](https://jobs.mines.edu/en-us/job/495095/postdoctoral-fellow-computational-environmental-and-engineering-geophysics)
+
+
 * Recent and upcoming presentations:
   * Apr. 20, 2021, SSA Annual Meeting
   * July 13, 2021, ROSES instructor for lesson on DAS
