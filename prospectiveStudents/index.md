@@ -18,7 +18,7 @@ In January 2022 I will be moving to Colorado School of Mines in Golden Colorado,
 
 * I am looking to recruit a graduate student research assistant interested in large-scale fiber optic vibration data analysis, both for seismology and industrial monitoring. This student will collaborate with multiple leading research universities and national labs. This is basic science research (i.e. students can discuss, present, and publish their research), but the funding source is restricted to supporting US citizens only. This position is preferred to begin in Spring 2022, but will remain posted until filled. The students' home department can be in either geophysics or AMS at Colorado School of Mines.
 
-* Postdoctoral research associate: computational scientist focused on environmental and engineering geophysics to begin as soon as January 2022. More info at: [https://jobs.mines.edu/en-us/job/495095/postdoctoral-fellow-computational-environmental-and-engineering-geophysics](https://jobs.mines.edu/en-us/job/495095/postdoctoral-fellow-computational-environmental-and-engineering-geophysics)
+* Postdoctoral research associate: computational scientist focused on environmental and engineering geophysics to begin as soon as January 2022. More info at: [here](https://jobs.mines.edu/en-us/job/495095/postdoctoral-fellow-computational-environmental-and-engineering-geophysics)
 
 * A second postdoctoral position will likely be posted to begin in summer/fall 2022 funded by [NSF CAREER grant 2046387](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2046387). 
 
