@@ -1,4 +1,6 @@
-### [Publications](/publications){: .btn}     [Research](/research){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}       [Teaching](/teaching){: .btn} 	[Prospective Students](/prospectiveStudents){: .btn}	[Outreach](/outreach){: .btn}
+---
+layout: default
+---
 
 ## Bio
 
@@ -19,7 +21,6 @@ Office phone: 540-231-6397
 
 
 * Recent and upcoming presentations:
-  * Apr. 20, 2021, SSA Annual Meeting
   * July 13, 2021, ROSES instructor for lesson on DAS
   * Aug. 2021, GAGE/SAGE Science Workshop
 
