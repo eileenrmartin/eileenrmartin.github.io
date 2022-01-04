@@ -15,11 +15,13 @@ Our group regularly has funded research projects going on that can support resea
 * fiber-optic sensing (or other large-scale geophysical sensing methods)
 * signal processing
 
-In January 2022 I will be moving to Colorado School of Mines in Golden Colorado, to work as an assistant professor in the Department of Geophysics (60%) and Applied Mathematics and Statistics (40%). Students who wish to pursue their Ph.D. with me can apply through either department depending on their background and goals. More details about Mines' Geophysics graduate programs can be found [here](https://geophysics.mines.edu/graduate-program/), and about Mines' AMS graduate programs can be found [here](https://ams.mines.edu/graduate-programs/). In addition to the specific openings currently listed below, I often recruit students for upcoming projects that are not yet listed below. 
+I am currently recruiting graduate students at Colorado School of Mines in the Department of Geophysics (60%) and Applied Mathematics and Statistics (40%). Students who wish to pursue their Ph.D. with me can apply through either department depending on their background and goals. More details about Mines' Geophysics graduate programs can be found [here](https://geophysics.mines.edu/graduate-program/), and about Mines' AMS graduate programs can be found [here](https://ams.mines.edu/graduate-programs/). In addition to the specific openings currently listed below, I also have some postdoctoral researcher funding, and often recruit students for upcoming projects that are not yet listed below, so please get in touch to discuss opportunities. 
 
 ### Specific Openings Currently
 
-* I am looking to recruit a graduate student research assistant interested in large-scale fiber optic vibration data analysis, both for seismology and industrial monitoring. This student will collaborate with multiple leading research universities and national labs. This is basic science research (i.e. students can discuss, present, and publish their research), but the funding source is restricted to supporting US citizens only. This position could begin as soon as spring 2022, but will remain posted until filled. The students' home department can be in either geophysics or AMS at Colorado School of Mines.
+* I am looking to recruit a graduate student research assistant interested in large-scale fiber optic vibration data analysis, both for seismology and industrial monitoring. This student will collaborate with multiple leading research universities and national labs. This is basic science research (i.e. students can discuss, present, and publish their research), but the funding source is restricted to supporting US citizens only. The students' home department can be in either geophysics or AMS at Colorado School of Mines.
+
+* I am looking to recruit a graduate student research assistant interested in large-scale scientific data analysis on cloud computing resources. The students' home department can be in either AMS or geophysics at Colorado School of Mines.
 
 
 
@@ -40,8 +42,8 @@ I also encourage prospective postdocs who are interested in applying for a grant
 #### Graduate Students
 * Sarah Morgan, Mathematics M.S. student (Virginia Tech), Fall '20-present
 * Brandon Pearl, Computer Science M.Eng. student (Virginia Tech), Summer '21-present
-* Hafiz Issah, Mathematics M.S. student (Virginia Tech), Fall '21-present
-* Ahmad Tourei, Geosciences Ph.D. student (Virginia Tech), Fall '21-present
+* Hafiz Issah, Applied Math and Statistics M.S. student (Colorado School of Mines), Fall '21-presnt
+* Ahmad Tourei, Geosciences Ph.D. student (Virginia Tech), Fall '21-presents
 
 #### Undergraduates
 * Samantha Paulus, CMDA and Nanoscience major (Virginia Tech), Spring '21-present

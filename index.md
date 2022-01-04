@@ -5,36 +5,37 @@
 ## Bio
 
 <img src="https://eileenrmartin.github.io/img/eileen.jpg" alt="photo of Eileen" align="right" style="width: 250px;"/>
-I am an assistant professor at Virginia Tech in the [math department](https://www.math.vt.edu) and program in computational modeling and data analytics ([CMDA](https://www.ais.science.vt.edu/programs/cmda.html)), and a Luther and Alice Hamlett Junior Faculty Fellow in Virginia Tech's Academy of Integrated Science. I earned my PhD from the Institute for Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu)) at Stanford in 2018, where I was a member of the Stanford Exploration Project ([SEP](http://sepwww.stanford.edu)) seismic imaging group and an affiliate in the geophysics department at Lawrence Berkeley National Lab (through 2020). I hold an MS in geophysics from Stanford, and a BS with a double-major in math and computational physics from UT-Austin. Beginning in January 2022 I will work as an assistant professor at Colorado School of Mines with joint appointments in the [Department of Geophysics](https://geophysics.mines.edu/) (60%) and the [Applied Mathematics and Statistics Department](https://ams.mines.edu/) (40%).
+I am an assistant professor at Colorado School of Mines jointly appointed in [geophysics](https://geophysics.mines.edu/) (60%) and [applied math and statistics](https://ams.mines.edu/) (40%). I am also an assistant professor on-leave at Virginia Tech in [math](https://www.math.vt.edu) and [CMDA](https://www.ais.science.vt.edu/programs/cmda.html). I earned my PhD from the Institute for Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu)) at Stanford in 2018, where I was a member of the Stanford Exploration Project ([SEP](http://sepwww.stanford.edu)) group and an affiliate in the geophysics department at Lawrence Berkeley National Lab (through 2020). I hold an MS in geophysics from Stanford, and a BS with a double-major in math and computational physics from UT-Austin. 
 
 ## Contact
 
-Emails: eileenrmartin AT vt DOT edu (for Virginia Tech), eileenrmartin AT mines DOT edu (for Colorado School of Mines)
+Emails: eileenrmartin AT mines DOT edu (primary email at Colorado School of Mines), 
+eileenrmartin AT vt DOT edu (for Virgsnia Tech)
 
-Office: McBryde 474   
-
-Office phone: 540-231-6397 
+Office: Green Center 253 and Chauvenet Hall 234  
+ 
 
 ## Announcements
 
-* I am hiring a postdoctoral research associate: computational scientist focused on environmental and engineering geophysics to begin as soon as January 2022. Application review begins Aug. 31. More info [here](https://jobs.mines.edu/en-us/job/495095/postdoctoral-fellow-computational-environmental-and-engineering-geophysics)
-
 
 * Recent and upcoming presentations from group:
-  * Oct. 20, 2021, NHERI@UTexas DAS Workshop (E.R. Martin presenting)
   * Nov. 12, 2021, Numerical Analysis and Scientific Computing Seminar at NYU (E.R. Martin presenting)
   * Dec. 13, 2021, [AGU Fall Meeting](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/903553) (S. Paulus presenting)
+  * Apr. 22, 2022, Dept. of Earth and Atmospheric Sciences Seminar at University of Houston (E.R. Martin presenting)
 
 
-* Papers recently submitted/published: 
+* Papers recently submitted/published:
+  * J.A. Mjehovich, G. Jin, E.R. Martin, J. Shragge, 2021, Rapid surface deployment of DAS cable for earthquake hazard assessment, under review.
+  * K.M. Yost, A. Yerro, R.A. Green, E.R. Martin, 2021, Harnessing Numerical Tools to Study the Limitations of CPTs for Characterizing Complex Soil Stratgraphies for Liquefaction Assessment, under review.
   * K.M. Yost, J. Cooper, R.A. Green, E.R. Martin, 2021, Correcting measured CPT tip resistance for multiple thin layer effects, under review.
-  * K.M. Yost, A. Yerro, R.A. Green, E.R. Martin, J. Cooper, 2021, MPM Modeling of Cone Penetrometer Testing for Multiple Thin-Layer Effects in Complex Soil Stratigraphy, recently accepted to Journal of Geotechnical and Geoenvironmental Engineering.
+  * Z. Hileman, D. Homa, E.R. Martin, G. Pickrell, A. Wang, 2021, Development of a Fully Distributed Multi-Material Magnetic Sensing Optical Fiber for Distributed Acoustic Sensing Applications, recently accepted by IEEE Sensors Letters.
+  * K.M. Yost, A. Yerro, R.A. Green, E.R. Martin, J. Cooper, 2021, MPM Modeling of Cone Penetrometer Testing for Multiple Thin-Layer Effects in Complex Soil Stratigraphy, recently accepted by Journal of Geotechnical and Geoenvironmental Engineering.
   * J. Cooper, E.R. Martin, K.M. Yost, A. Yerro, R.A. Green, 2021, Robust identification and characterization of thin soil layers in cone penetration data by piecewise layer optimization, Computers and Geotechnics, 141, article no. 104404.
   * J. Kump, E.R. Martin, 2021, Multichannel Analysis of Surface Waves Accelerated (MASWAccelerated): Software for Effcient Surface Wave Inversion Using MPI and GPUs, Computers & Geosciences, 156, article no. 104903.
   * K.M. Yost, R.A. Green, S. Upadhyaya, B.W. Maurer, A. Yerro-Colom, E.R. Martin, J. Cooper, 2021, Assessment of the Efficacies of Correction Procedures for Multiple Thin Layer Effects on Cone Penetration Tests, Soil Dynamics and Earthquake Engineering, 144, 106677.
   * N.J. Lindsey, E.R. Martin, 2021, Fiber-optic Seismology, Annual Review of Earth and Planetary Sciences, 49, pp. 309-336.
-  * E.R. Martin, N.J. Lindsey, B. Biondi, J.B. Ajo-Franklin. "Introduction to Interferometry of Fiber Optic Strain Measurements." Distributed Acoustic Sensing in Geophysics: Methods and Applications, edited by Y. Li, M. Karrenbach, J.B. Ajo-Franklin, American Geophysical Union Geophysical Monograph Series, to be released Nov. 2021.
-  * B. Biondi, S. Yuan, E.R. Martin, F. Huot, R.G. Clapp. "Using telecommunication fiber infrastructure for earthquake monitoring and near-surface characterization." Distributed Acoustic Sensing in Geophysics: Methods and Applications, edited by Y. Li, M. Karrenbach, J.B. Ajo-Franklin, American Geophysical Union Geophysical Monograph Series, to be released Nov. 2021.
+  * E.R. Martin, N.J. Lindsey, B. Biondi, J.B. Ajo-Franklin. "Introduction to Interferometry of Fiber Optic Strain Measurements." Distributed Acoustic Sensing in Geophysics: Methods and Applications, edited by Y. Li, M. Karrenbach, J.B. Ajo-Franklin, American Geophysical Union Geophysical Monograph Series, to be released Jan. 2022.
+  * B. Biondi, S. Yuan, E.R. Martin, F. Huot, R.G. Clapp. "Using telecommunication fiber infrastructure for earthquake monitoring and near-surface characterization." Distributed Acoustic Sensing in Geophysics: Methods and Applications, edited by Y. Li, M. Karrenbach, J.B. Ajo-Franklin, American Geophysical Union Geophysical Monograph Series, to be released Jan. 2022.
 
 
 * Recent research funding:
