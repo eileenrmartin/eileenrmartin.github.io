@@ -10,7 +10,7 @@ I am an assistant professor at Colorado School of Mines jointly appointed in [ge
 ## Contact
 
 Emails: eileenrmartin AT mines DOT edu (primary email at Colorado School of Mines), 
-eileenrmartin AT vt DOT edu (for Virgsnia Tech)
+eileenrmartin AT vt DOT edu (for Virginia Tech)
 
 Office at Mines: Green Center 253 and Chauvenet Hall 234  
  
