@@ -17,11 +17,6 @@ Our group regularly has funded research projects going on that can support resea
 
 I am currently recruiting graduate students at Colorado School of Mines in the Department of Geophysics (60%) and Applied Mathematics and Statistics (40%). Students who wish to pursue their Ph.D. with me can apply through either department depending on their background and goals. More details about Mines' Geophysics graduate programs can be found [here](https://geophysics.mines.edu/graduate-program/), and about Mines' AMS graduate programs can be found [here](https://ams.mines.edu/graduate-programs/). In addition to the specific openings currently listed below, I also have some postdoctoral researcher funding, and often recruit students for upcoming projects that are not yet listed below, so please get in touch to discuss opportunities. 
 
-### Specific Openings Currently
-
-* I am looking to recruit a graduate student research assistant interested in large-scale fiber optic vibration data analysis, both for seismology and industrial monitoring. This student will collaborate with multiple leading research universities and national labs. This is basic science research (i.e. students can discuss, present, and publish their research), but the funding source is restricted to supporting US citizens only. The students' home department can be in either geophysics or AMS at Colorado School of Mines.
-
-* I am looking to recruit a graduate student research assistant interested in large-scale scientific data analysis on cloud computing resources. The students' home department can be in either AMS or geophysics at Colorado School of Mines.
 
 
 
@@ -39,15 +34,17 @@ I also encourage prospective postdocs who are interested in applying for a grant
 
 ## Current Research Group Members
 
+#### Postdoctoral Researcher
+* Frantisek Stanek (co-advised, Colorado School of Mines), Mar. '20-present
+
 #### Graduate Students
 * Sarah Morgan, Mathematics M.S. student (Virginia Tech), Fall '20-present
 * Brandon Pearl, Computer Science M.Eng. student (Virginia Tech), Summer '21-present
-* Hafiz Issah, Applied Math and Statistics M.S. student (Colorado School of Mines), Fall '21-presnt
+* Hafiz Issah, Applied Math and Statistics M.S. student (Colorado School of Mines), Fall '21-present
 * Ahmad Tourei, Geosciences Ph.D. student (Virginia Tech), Fall '21-presents
 
 #### Undergraduates
 * Samantha Paulus, CMDA and Nanoscience major (Virginia Tech), Spring '21-present
-* Firaol Woldemariam, CMDA major (Virginia Tech), Spring '21-present
 * Tony Artis, CMDA major (Virginia Tech), Spring '20-present
 
 
@@ -59,9 +56,10 @@ I also encourage prospective postdocs who are interested in applying for a grant
 * Jon Cooper, Mathematics M.S. Student (Virginia Tech, GRA in group while doing thesis with M. Chung and S. Gugercin), Jan. '20-Dec. '20, next position: NSA
 
 #### Undergraduates
+* Firaol Woldemariam, CMDA major (Virginia Tech), Spring '21-Fall '21, next position: software developer at Capital One
 * Anu Trivedi, Mathematics major (Virginia Tech), Fall '19-Spring '21, next position: Biomedical Engineering Ph.D. student at Georgia Tech
 * Sarah Morgan, Mathematics major (Virginia Tech), Fall '19-Spring '20, next position: Mathematics M.S. student at Virginia Tech
-* Srikanth Jakkampudi, Mathematics and CMDA major (Virginia Tech), Fall '19-Spring '20, next position: Expedition Technology, Inc.
+* Srikanth Jakkampudi, Mathematics and CMDA major (Virginia Tech), Fall '19-Spring '20, next position: member of technical staff at Expedition Technology, Inc.
 * Tarun Nadipalli, CMDA major (Virginia Tech), Spring '19
 
 
