@@ -41,7 +41,7 @@ I also encourage prospective postdocs who are interested in applying for a grant
 * Sarah Morgan, Mathematics M.S. student (Virginia Tech), Fall '20-present
 * Brandon Pearl, Computer Science M.Eng. student (Virginia Tech), Summer '21-present
 * Hafiz Issah, Applied Math and Statistics M.S. student (Colorado School of Mines), Fall '21-present
-* Ahmad Tourei, Geosciences Ph.D. student (Virginia Tech), Fall '21-presents
+* Ahmad Tourei, Geosciences Ph.D. student (co-advised, Virginia Tech), Fall '21-presents
 
 #### Undergraduates
 * Samantha Paulus, CMDA and Nanoscience major (Virginia Tech), Spring '21-present
@@ -53,7 +53,7 @@ I also encourage prospective postdocs who are interested in applying for a grant
 #### Graduate Students
 * Julius Grimm, Applied Geophysics M.S. student (IDEA League at ETH Zurich, co-advised), Fall '20-Summer '21, [link to thesis](http://resolver.tudelft.nl/uuid:b98362cd-ab70-4158-9055-733e86d29b13), next position: Ph.D. student in ISTerre at Universite Grenoble Alpes
 * Joseph Kump, Mathematics M.S. Student (Virginia Tech), Summer '19-Summer '21, [link to thesis](https://vtechworks.lib.vt.edu/handle/10919/103864), next position: Ph.D. student in CSEM at UT-Austin's Oden Institute
-* Jon Cooper, Mathematics M.S. Student (Virginia Tech, GRA in group while doing thesis with M. Chung and S. Gugercin), Jan. '20-Dec. '20, next position: NSA
+* Jon Cooper, Mathematics M.S. Student (Virginia Tech, GRA in Martin group while doing thesis with M. Chung and S. Gugercin), Jan. '20-Dec. '20, next position: NSA
 
 #### Undergraduates
 * Firaol Woldemariam, CMDA major (Virginia Tech), Spring '21-Fall '21, next position: software developer at Capital One
