@@ -21,10 +21,10 @@ Office at Mines: Green Center 253 and Chauvenet Hall 234
 
 
 * Recent and upcoming presentations from group:
-  * Nov. 12, 2021, Numerical Analysis and Scientific Computing Seminar at NYU (E.R. Martin presenting)
-  * Dec. 13, 2021, [AGU Fall Meeting](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/903553) (S. Paulus presenting)
-  * Apr. 12, University of Utah SeismoTea (E.R. Martin presenting)
+  * Mar. 25, 2022, [Virginia Tech Geosciences Student Research Symposium](https://gsrsvtgeos.wixsite.com/home) (A. Tourei presenting)
+  * Apr. 12, 2022, University of Utah SeismoTea (E.R. Martin presenting)
   * Apr. 22, 2022, Dept. of Earth and Atmospheric Sciences Seminar at University of Houston (E.R. Martin presenting)
+  * May 17-18, 2022, Center for Wave Phenomena Sponsors Meeting (E.R. Martin and H. Issah presenting) 
   * May 17, 2022, CSDMS Annual Meeting, clinic on environmental seismology and DAS (Danica Roth and E.R. Martin)
   * Sep. 8, 2022, Dept. of Geosciences Seminar at Colorado State University (E.R. Martin presenting)
 
@@ -33,7 +33,7 @@ Office at Mines: Green Center 253 and Chauvenet Hall 234
   * J.A. Mjehovich, G. Jin, E.R. Martin, J. Shragge, 2021, Rapid surface deployment of DAS cable for earthquake hazard assessment, under review.
   * K.M. Yost, A. Yerro, R.A. Green, E.R. Martin, 2021, Harnessing Numerical Tools to Study the Limitations of CPTs for Characterizing Complex Soil Stratgraphies for Liquefaction Assessment, under review.
   * K.M. Yost, J. Cooper, R.A. Green, E.R. Martin, 2021, Correcting measured CPT tip resistance for multiple thin layer effects, under review.
-  * Z. Hileman, D. Homa, E.R. Martin, G. Pickrell, A. Wang, 2021, Development of a Multimaterial Optical Fiber for Fully Distributed Magnetic Sensing Applications, IEEE Sensors Letters, 6(1), pp. 1-4.
+  * Z. Hileman, D. Homa, E.R. Martin, G. Pickrell, A. Wang, 2022, Development of a Multimaterial Optical Fiber for Fully Distributed Magnetic Sensing Applications, IEEE Sensors Letters, 6(1), pp. 1-4.
   * K.M. Yost, A. Yerro, R.A. Green, E.R. Martin, J. Cooper, 2021, MPM Modeling of Cone Penetrometer Testing for Multiple Thin-Layer Effects in Complex Soil Stratigraphy, Journal of Geotechnical and Geoenvironmental Engineering, 148(2), article no. 04021189.
   * J. Cooper, E.R. Martin, K.M. Yost, A. Yerro, R.A. Green, 2021, Robust identification and characterization of thin soil layers in cone penetration data by piecewise layer optimization, Computers and Geotechnics, 141, article no. 104404.
   * J. Kump, E.R. Martin, 2021, Multichannel Analysis of Surface Waves Accelerated (MASWAccelerated): Software for Effcient Surface Wave Inversion Using MPI and GPUs, Computers & Geosciences, 156, article no. 104903.
