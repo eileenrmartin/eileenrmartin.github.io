@@ -1,11 +1,10 @@
 ### Eileen R. Martin
 
-### [Publications](/publications){: .btn}     [Research](/research){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}       [Teaching](/teaching){: .btn} 	[Prospective Students](/prospectiveStudents){: .btn}	[Outreach](/outreach){: .btn}
 
 ## Bio
 
 <img src="https://eileenrmartin.github.io/img/eileen.jpg" alt="photo of Eileen" align="right" style="width: 250px;"/>
-I am an assistant professor at Colorado School of Mines jointly appointed in [geophysics](https://geophysics.mines.edu/) (60%) and [applied math and statistics](https://ams.mines.edu/) (40%). At Mines I am part of two industry-aligned consortia: [Center for Wave Phenomena ](https://cwp.mines.edu/) and [Center for Advanced Subsurface Earth Resource Models ](https://caserm.mines.edu/). I am also an assistant professor on-leave at Virginia Tech in [math](https://www.math.vt.edu) and [CMDA](https://www.ais.science.vt.edu/programs/cmda.html). I earned my PhD from the Institute for Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu)) at Stanford in 2018, where I was a member of the Stanford Exploration Project ([SEP](http://sepwww.stanford.edu)) group and an affiliate in the geophysics department at Lawrence Berkeley National Lab (through 2020). I hold an MS in geophysics from Stanford, and a BS with a double-major in math and computational physics from UT-Austin. 
+I am an assistant professor at Colorado School of Mines jointly appointed in [geophysics](https://geophysics.mines.edu/)  and [applied math and statistics](https://ams.mines.edu/) 60/40%. At Mines I am part of two industry-aligned consortia: [Center for Wave Phenomena ](https://cwp.mines.edu/) and [Center for Advanced Subsurface Earth Resource Models ](https://caserm.mines.edu/). I am also an assistant professor on-leave at Virginia Tech in [math](https://www.math.vt.edu) and [CMDA](https://www.ais.science.vt.edu/programs/cmda.html). I earned my PhD from the [Institute for Computational and Mathematical Engineering](https://icme.stanford.edu) at Stanford in 2018, where I was a member of the [Stanford Exploration Project](http://sepwww.stanford.edu) group and an affiliate in the geophysics department at Lawrence Berkeley National Lab. I hold an MS in geophysics from Stanford, and a BS with a double-major in math and computational physics from UT-Austin. 
 
 ## Contact
 
@@ -24,8 +23,9 @@ Office at Mines: Green Center 253 and Chauvenet Hall 234
   * Mar. 25, 2022, [Virginia Tech Geosciences Student Research Symposium](https://gsrsvtgeos.wixsite.com/home) (A. Tourei presenting)
   * Apr. 12, 2022, University of Utah SeismoTea (E.R. Martin presenting)
   * Apr. 22, 2022, Dept. of Earth and Atmospheric Sciences Seminar at University of Houston (E.R. Martin presenting)
-  * May 17-18, 2022, Center for Wave Phenomena Sponsors Meeting (E.R. Martin and H. Issah presenting) 
+  * May 17-18, 2022, Center for Wave Phenomena Sponsors Meeting (E.R. Martin, F. Stanek, H. Issah presenting) 
   * May 17, 2022, CSDMS Annual Meeting, clinic on environmental seismology and DAS (Danica Roth and E.R. Martin)
+  * June 15, 2022, SAGE/GAGE Community Science Workshop (H. Issah presenting)
   * Sep. 8, 2022, Dept. of Geosciences Seminar at Colorado State University (E.R. Martin presenting)
 
 
@@ -41,16 +41,3 @@ Office at Mines: Green Center 253 and Chauvenet Hall 234
   * N.J. Lindsey, E.R. Martin, 2021, Fiber-optic Seismology, Annual Review of Earth and Planetary Sciences, 49, pp. 309-336.
   * E.R. Martin, N.J. Lindsey, B. Biosndi, J.B. Ajo-Franklin. "Introduction to Interferometry of Fiber Optic Strain Measurements." Distributed Acoustic Sensing in Geophysics: Methods and Applications, edited by Y. Li, M. Karrenbach, J.B. Ajo-Franklin, American Geophysical Union Geophysical Monograph Series, 2022.
   * B. Biondi, S. Yuan, E.R. Martin, F. Huot, R.G. Clapp. "Using telecommunication fiber infrastructure for earthquake monitoring and near-surface characterization." Distributed Acoustic Sensing in Geophysics: Methods and Applications, edited by Y. Li, M. Karrenbach, J.B. Ajo-Franklin, American Geophysical Union Geophysical Monograph Series, 2022.
-
-
-* Recent research funding:
-  * The project "Catalytic: Distributed Acoustic Sensing Data Analysis Ecosystem (DASDAE)" was recently awarded funding through the NSF Geoinformatics program. This is a collaboration with Ge Jin (Colorado School of Mines, Geophysics).
-  * The project "Cloud-based Management of Large, Complex Distributed Acoustic Sensing Data" was recently awarded funding with Luna Innovations (PI Derek Rountree) through the DOE STTR program.
-  * The project "CAREER: Scalable Computational Seismology for All" was recently awarded funding by the NSF Office of Advanced Cyberinfrastructure.
-  * The project "SitS: Collaborative Research: Understand and Forecast Long-term Variations of In-situ Geophysical and Geomechanical Characteristics of Degrading Permafrost in the Arctic" will begin in January 2021 with M. Xiao and T. Zhu (Penn State), D. Nicolsky and A. Jensen (University of Alaska Fairbanks), funded by the NSF Signals in the Soil program.
-  * The project "Fast Comparative Algorithms for Sensor Array Summaries" is funded through a subcontract with UT-Batelle, LLC (operating Oak Ridge National Laboratory)
-  * The project "EAGER: Exploration of an Interdisciplinary Approach to Resolving a Critical Issue in Evaluating Liquefaction Hazard of Challenging Soil Sites" with A. Yerro Colom and R. Green (Virginia Tech Civil & Environmental Engineering) is ongoing, funded by the NSF Engineering for Civil Infrastructure program.
-  * The project "Fully Distributed Acoustic and Magnetic Field Monitoring via a Single Fiber Line for Optimized Production of Unconventional Resource Plays," is ongoing, [funded by the DOE Office of Fossil Energy](https://www.energy.gov/fe/project-selections-advanced-technologies-recovery-unconventional-oil-gas-resources). This is a collaboration with Virginia Tech's [Center for Photonics Technology](https://photonics.ece.vt.edu/) and [Sentek Instrument LLC](http://www.sentekinstrument.com/).
-
-  
-
