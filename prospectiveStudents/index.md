@@ -1,8 +1,8 @@
-### Eileen R. Martin
+### The Martin Group
 
 ### [Home](https://eileenrmartin.github.io){: .btn}     [Publications](/publications){: .btn}     [Research](/research){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}    [Teaching](/teaching){: .btn}     [Outreach](/outreach){: .btn}
 
-## Prospective Students, Postdocs
+## Prospective Students and Postdocs in the Martin Group
 
 Our group regularly has funded research projects going on that can support research assistants. Email me if you're a motivated, curious prospective postdoctoral researcher, graduate student or undergrad student interested in doing research on: 
 * imaging science 
@@ -17,7 +17,7 @@ Our group regularly has funded research projects going on that can support resea
 
 I am currently recruiting graduate students at Colorado School of Mines in the Department of Geophysics, the Department of Applied Mathematics and Statistics, and the interdisciplinary Hydrologic Sciences and Engineering Program. Students who wish to pursue their Ph.D. with me can apply through either department depending on their background and goals. Here are links with more details about Mines' graduate programs in: [Geophysics]](https://geophysics.mines.edu/graduate-program/), [AMS](https://ams.mines.edu/graduate-programs/), and [HSE](https://hydrology.mines.edu/graduate-program/). I
 
-n addition to the specific openings currently listed below, I also have some postdoctoral researcher funding, and often recruit graduate and undergraduate students for upcoming projects that are not yet listed below, so please get in touch to discuss opportunities. 
+In addition to the specific openings currently listed below, I also recruit motivated postdocs, graduate students and undergraduate students for upcoming projects that are not yet listed below, so please get in touch to discuss opportunities.  
 
 ### Open Positions
 * I will be recruiting a post-doctoral researcher soon. If you are interested in end-to-end workflows with data compression in scientific computing, applied data science, high-throughput/large-scale seismology, parallel computing and open-source software, please contact me! 
