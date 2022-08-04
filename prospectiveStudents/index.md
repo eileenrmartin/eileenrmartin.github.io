@@ -15,10 +15,13 @@ Our group regularly has funded research projects going on that can support resea
 * fiber-optic sensing (or other large-scale geophysical sensing methods)
 * signal processing
 
-I am currently recruiting graduate students at Colorado School of Mines in the Department of Geophysics (60%) and Applied Mathematics and Statistics (40%). Students who wish to pursue their Ph.D. with me can apply through either department depending on their background and goals. More details about Mines' Geophysics graduate programs can be found [here](https://geophysics.mines.edu/graduate-program/), and about Mines' AMS graduate programs can be found [here](https://ams.mines.edu/graduate-programs/). In addition to the specific openings currently listed below, I also have some postdoctoral researcher funding, and often recruit students for upcoming projects that are not yet listed below, so please get in touch to discuss opportunities. 
+I am currently recruiting graduate students at Colorado School of Mines in the Department of Geophysics, the Department of Applied Mathematics and Statistics, and the interdisciplinary Hydrologic Sciences and Engineering Program. Students who wish to pursue their Ph.D. with me can apply through either department depending on their background and goals. Here are links with more details about Mines' graduate programs in: [Geophysics]](https://geophysics.mines.edu/graduate-program/), [AMS](https://ams.mines.edu/graduate-programs/), and [HSE](https://hydrology.mines.edu/graduate-program/). I
 
+n addition to the specific openings currently listed below, I also have some postdoctoral researcher funding, and often recruit graduate and undergraduate students for upcoming projects that are not yet listed below, so please get in touch to discuss opportunities. 
 
-
+### Open Positions
+* I will be recruiting a post-doctoral researcher soon. If you are interested in end-to-end workflows with data compression in scientific computing, applied data science, high-throughput/large-scale seismology, parallel computing and open-source software, please contact me! 
+* The Distributed Fiber Optic Sensing Laboratory (Martin, Jin, Shragge, Singha) is posting an undergraduate work-study position this fall for an undergraduate laboratory assistant. 
 
 ### Graduate and Postdoctoral Fellowships
 
@@ -38,29 +41,25 @@ I also encourage prospective postdocs who are interested in applying for a grant
 * Frantisek Stanek (co-advised, Colorado School of Mines), Mar. '20-present
 
 #### Graduate Students
-* Sarah Morgan, Mathematics M.S. student (Virginia Tech), Fall '20-present
-* Brandon Pearl, Computer Science M.Eng. student (Virginia Tech), Summer '21-present
-* Hafiz Issah, Applied Math and Statistics M.S. student (Colorado School of Mines), Fall '21-present
-* Ahmad Tourei, Geosciences Ph.D. student (co-advised, Virginia Tech), Fall '21-presents
-
-#### Undergraduates
-* Samantha Paulus, CMDA and Nanoscience major (Virginia Tech), Spring '21-present
-* Tony Artis, CMDA major (Virginia Tech), Spring '20-present
+* Hafiz Issah, Applied Math and Statistics M.S. student (current Colorado School of Mines, previous Virginia Tech), Fall '21-present
+* Ahmad Tourei, Geosciences Ph.D. student (co-advised, Virginia Tech), Fall '21-present
 
 
 ## Alumni of Research Group
 
 #### Graduate Students
-* Julius Grimm, Applied Geophysics M.S. student (IDEA League at ETH Zurich, co-advised), Fall '20-Summer '21, [link to thesis](http://resolver.tudelft.nl/uuid:b98362cd-ab70-4158-9055-733e86d29b13), next position: Ph.D. student in ISTerre at Universite Grenoble Alpes
+* Sarah Morgan, Mathematics M.S. student (Virginia Tech), Fall '20- Spring '22, [link to thesis](https://vtechworks.lib.vt.edu/handle/10919/110376), next position: Johns Hopkins Applied Physics Laboratory (APL)
+* Brandon Pearl, Computer Science M.Eng. student (Virginia Tech, GRA in Martin group during non-thesis masters), Summer '21-Spring '22
+* Jon Cooper, Mathematics M.S. Student (Virginia Tech, GRA in Martin group while doing thesis with M. Chung and S. Gugercin), Jan. '20-Dec. '20, next position: National Security Agency
 * Joseph Kump, Mathematics M.S. Student (Virginia Tech), Summer '19-Summer '21, [link to thesis](https://vtechworks.lib.vt.edu/handle/10919/103864), next position: Ph.D. student in CSEM at UT-Austin's Oden Institute
-* Jon Cooper, Mathematics M.S. Student (Virginia Tech, GRA in Martin group while doing thesis with M. Chung and S. Gugercin), Jan. '20-Dec. '20, next position: NSA
+* Julius Grimm, Applied Geophysics M.S. student (IDEA League at ETH Zurich, co-advised), Fall '20-Summer '21, [link to thesis](http://resolver.tudelft.nl/uuid:b98362cd-ab70-4158-9055-733e86d29b13), next position: Ph.D. student in ISTerre at Universite Grenoble Alpes
+
 
 #### Undergraduates
+* Samantha Paulus, CMDA and Nanoscience major (Virginia Tech), Spring '21- Spring '22, next positions: pathway systems engineer at Northrop Grumman and Computer Science M.Eng. student at Virginia Tech
+* Tony Artis, CMDA major (Virginia Tech), Spring '20- Spring '22, next position: Innovative Reasoning, LLC
 * Firaol Woldemariam, CMDA major (Virginia Tech), Spring '21-Fall '21, next position: software developer at Capital One
 * Anu Trivedi, Mathematics major (Virginia Tech), Fall '19-Spring '21, next position: Biomedical Engineering Ph.D. student at Georgia Tech
 * Sarah Morgan, Mathematics major (Virginia Tech), Fall '19-Spring '20, next position: Mathematics M.S. student at Virginia Tech
 * Srikanth Jakkampudi, Mathematics and CMDA major (Virginia Tech), Fall '19-Spring '20, next position: member of technical staff at Expedition Technology, Inc.
 * Tarun Nadipalli, CMDA major (Virginia Tech), Spring '19
-
-
-
