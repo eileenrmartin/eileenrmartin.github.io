@@ -1,13 +1,15 @@
-### High-Performance Computing: What Does the Future Look Like? 
-## SEG Post-convention Workshop W-4
+## High-Performance Computing: What Does the Future Look Like? 
+### SEG Post-convention Workshop W-4
 
-## Details:
+#### Details:
 *Location:* George R Brown Convention Center in Houston
+
 *Time:* 8:30 am - 12 pm Thursday September 1
+
 *Registration:* Register for [post-convention workshops](https://www.imageevent.org/workshops) at the AAPG/SEG IMAGE conference
 
 
-## Presentations
+#### Presentations
 * Welcome message, goals and agenda overview,	Madhav Vyas
 * HPC and subsurface technical disciplines: The end of a long and amorous relationship?,	John Etgen
 * three perspectives on how organizations are making decisions about on-premise HPC versus cloud tools	
@@ -25,6 +27,6 @@
 * HPC in Oil and Gas – which direction?,	Keith Gray
 
 
-## Organizers: 
+#### Organizers: 
 Madhav Vyas (BP), Eileen Martin (Colorado School of Mines), Keith Gray (Intel), Vadim Dyadechko (ExxonMobil)
 
