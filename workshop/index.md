@@ -10,21 +10,22 @@
 
 
 #### Presentations
-* Welcome message, goals and agenda overview,	Madhav Vyas
-* HPC and subsurface technical disciplines: The end of a long and amorous relationship?,	John Etgen
-* three perspectives on how organizations are making decisions about on-premise HPC versus cloud tools	
-  * service company perspective on HPC and cloud strategies,	JJ Heyd
-  * energy company perspective on HPC and cloud strategies,	Alex Loddoch
-  * academic perspective on HPC and cloud strategies,	Dan Stanzione
-* TBD (perspectives on HPC on the cloud from a cloud provider),	Mik Isernia
-* panel for Q&A with previous speakers	
-* Custom HPC HW, from simulation to ML,	Mauricio Araya-Polo
-* two perspectives on how organizations are training for HPC and cloud skills, and matching skills to projects	
-  * energy company perspective on HPC/cloud training and skills,	Elizabeth L'Heureux
-  * academic perspective on HPC/cloud training and skills,	Eileen Martin
-* panel style discussion with two previous speakers	
-* brainstorming an HPC/cloud challenge activity for future workshop (moderated small group activity)
-* HPC in Oil and Gas – which direction?,	Keith Gray
+* 8:30, _Welcome message, goals and agenda overview_	Madhav Vyas
+* 8:40, _HPC and subsurface technical disciplines: The end of a long and amorous relationship?_	John Etgen
+* 9:00, Three perspectives on how organizations are making decisions about on-premise HPC versus cloud tools	
+  * _service company perspective on HPC and cloud strategies_,	JJ Heyd
+  * _energy company perspective on HPC and cloud strategies_,	Alex Loddoch
+  * _academic perspective on HPC and cloud strategies_,	Dan Stanzione
+* 9:36, _TBD (perspectives on HPC on the cloud from a cloud provider)_,	Mik Isernia
+* 9:56, panel for Q&A with previous speakers
+* 10:11-10:25, break	
+* 10:25, _Custom HPC hardware, from simulation to ML_,	Mauricio Araya-Polo
+* 10:45, Two perspectives on how organizations are training for HPC and cloud skills, and matching skills to projects	
+  * _energy company perspective on HPC/cloud training and skills_,	Elizabeth L'Heureux
+  * _academic perspective on HPC/cloud training and skills_,	Eileen Martin
+* 10:55, panel style discussion with two previous speakers	
+* 11:05, brainstorming an HPC/cloud challenge activity for future workshop (moderated small group activity)
+* 11:35, _HPC in Oil and Gas – which direction?_	Keith Gray
 
 
 #### Organizers: 
