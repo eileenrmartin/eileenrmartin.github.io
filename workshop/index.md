@@ -16,7 +16,7 @@
   * _service company perspective on HPC and cloud strategies_,	JJ Heyd
   * _energy company perspective on HPC and cloud strategies_,	Alex Loddoch
   * _academic perspective on HPC and cloud strategies_,	Dan Stanzione
-* 9:36, _TBD (perspectives on HPC on the cloud from a cloud provider)_,	Mik Isernia
+* 9:36, _TBD (perspectives on HPC on the cloud from a cloud provider)_,	Kun Jiao
 * 9:56, panel for Q&A with previous speakers
 * 10:11-10:25, break	
 * 10:25, _Custom HPC hardware, from simulation to ML_,	Mauricio Araya-Polo
