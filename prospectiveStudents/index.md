@@ -15,14 +15,14 @@ Our group regularly has funded research projects going on that can support resea
 * fiber-optic sensing (or other large-scale geophysical sensing methods)
 * signal processing
 
-I am currently recruiting graduate students at Colorado School of Mines in the Department of Geophysics, the Department of Applied Mathematics and Statistics, and the interdisciplinary Hydrologic Sciences and Engineering Program. Students who wish to pursue their M.S. or Ph.D. with me can apply through any of these programs depending on their background and goals. 
+I am currently recruiting graduate students at Colorado School of Mines in the Department of Geophysics, the Department of Applied Mathematics and Statistics, and the interdisciplinary Hydrologic Science and Engineering Program. Students who wish to pursue their thesis with me can apply through any of these programs depending on their background and goals. F
 
-Here are links with more details about Mines' graduate programs in: 
-* [Geophysics]](https://geophysics.mines.edu/graduate-program/)
+Here are links with more details about Mines' M.S. and Ph.D. programs in: 
+* [Geophysics](https://geophysics.mines.edu/graduate-program/)
 * [Applied Math and Statistics](https://ams.mines.edu/graduate-programs/)
 * [Hydrologic Science and Engineering](https://hydrology.mines.edu/graduate-program/)
 
-The specific requirements vary by program, but all students in the group must work with an interdisciplinary team. To ensure some common knowledge that facilitates student-to-student collaboration across programs, applicants should have prior coursework or self-study including: programming, differential equations, linear algebra, probability & statistics, mechanics, and electricity & magnetism.
+The specific requirements vary by program, but all students in the group must work with an interdisciplinary team. To ensure some common knowledge that facilitates student-to-student collaboration across programs, applicants should have prior coursework or self-study including: programming, differential equations, linear algebra, probability & statistics, mechanics, and electricity & magnetism. 
  
 
 ### Specific Open Positions
@@ -39,3 +39,7 @@ For prospective Ph.D. students who are US citizens or permanent residents, I enc
 I also encourage prospective postdocs who are interested in applying for a grant together, or for a postdoctoral fellowship to contact me if you would like to develop a proposal to collaborate. Here are just a couple of opportunities:
 * [NSF MPS-Ascend Posdoctoral Fellowship](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505879)
 * [NSF EAR Postdoctoral Fellowship](https://nsf.gov/funding/pgm_summ.jsp?pims_id=503144&org=OMA)
+
+### Undergraduate Research Funding
+
+Get in touch with me if you are interested in doing paid undergraduate research through [MURF](https://www.mines.edu/undergraduate-research/undergraduate-research-opportunities/undergraduate-research-fellowship/) or [SURF](https://www.mines.edu/undergraduate-research/undergraduate-research-opportunities/surf/), both of which are open to undergrads at Mines. If you are interested in doing paid summer undergraduate research with me related to an NSF-funded project list below, please contact me at least 9 months in advance so we can apply for an undergrad research supplement (not restricted to Mines undergrads). Current projects elligible to apply for undergrad research supplements: [mine seismicity](https://caserm.mines.edu/research-projects/), [permafrost thaw monitoring and remote large-scale seismic data mananagement](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2034366&HistoricalAwards=false), [scalable algorithms for passive seismic data](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2046387&HistoricalAwards=false), and the [Distributed Acoustic Sensing Data Analysis Ecosystem](https://nsf.gov/awardsearch/showAward?AWD_ID=2148614).
