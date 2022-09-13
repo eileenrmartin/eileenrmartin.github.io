@@ -1,6 +1,5 @@
-### [Home](https://eileenrmartin.github.io){: .btn}     [Publications](/publications){: .btn}       [CV](/docs/ermartin_CV.pdf){: .btn}       [Teaching](/teaching){: .btn}	 [Prospective Students](/prospectiveStudents){: .btn} [Outreach](/outreach){: .btn}
-
-## Current and recent research
+### [Home](https://eileenrmartin.github.io){: .btn}     [Research Team](/team){: .btn}       [CV](/docs/ermartin_CV.pdf){: .btn}       [Teaching](/teaching){: .btn}	 [Prospective Students](/prospectiveStudents){: .btn} 
+## Current and past research
 
 <p>
 	<img src="https://eileenrmartin.github.io/research/img/FORESEE_music.png" alt="FORESEE map" align="left" width="300">

@@ -1,8 +1,16 @@
 ### Eileen R. Martin
 
-### [Home](https://eileenrmartin.github.io){: .btn}     [Publications](/publications){: .btn}     [Research](/research){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}    [Prospective Students](/prospectiveStudents){: .btn}   [Outreach](/outreach){: btn}
+### [Home](https://eileenrmartin.github.io){: .btn}      [Research Team](/team){: .btn}     [Research](/research){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}     [Outreach](/outreach){: btn}		[Prospective Students](/prospectiveStudents){: .btn}
 
 ## Teaching
+
+Spring 2023 (tentative), MATH 440/540, Parallel Scientific Computing
+
+Spring 2023 (tentative), GPGN 229, Mathematical Geophysics
+
+Summer 2022, GPGN 486, Geophysics Field Camp (supported hammerr seismic, DAS and data analysis)
+
+Spring 2022, GPGN 229, Mathematical Geophysics
 
 Fall 2021, MATH 2984, [BEPUR: Broadening Engagement and Participation in Undergraduate Research](https://sites.google.com/vt.edu/bepur-math-2984) (lead instructor, team taught, supported by MAA Tensor Women and Mathematics Grant)
 

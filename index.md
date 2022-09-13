@@ -1,6 +1,6 @@
 ### Eileen R. Martin
 
-###   [Research Team](/prospectiveStudents){: .btn}     [Research](/research){: .btn}       [CV](/docs/ermartin_CV.pdf){: .btn}       [Teaching](/teaching){: .btn}   [Outreach](/outreach){: .btn}
+###   [Research Team](/team){: .btn}     [Research](/research){: .btn}       [CV](/docs/ermartin_CV.pdf){: .btn}       [Teaching](/teaching){: .btn}     [Prospective Students](/prospectiveStudents)
 
 ## Bio
 
@@ -31,14 +31,15 @@ Office at Mines: Green Center 253 and Chauvenet Hall 234
 
 
 * Papers recently submitted/published:
+  * Z. Spica, J. Ajo-Franklin, G. Beroza, B. Biondi, F. Cheng, B. Gaite, B. Luo, E.R. Martin, J. Shen, C. Thurbber, L. Viens, H. Wang, A. Wuestefeld, H. Xiao, T. Zhu, 2022, PubDAS: a PUBlic Distributed Acoustic Sensing datasets repository for geosciences, under review, [preprint](https://eartharxiv.org/repository/view/3574/).
   * J.A. Mjehovich, G. Jin, E.R. Martin, J. Shragge, 2021, Rapid surface deployment of DAS cable for earthquake hazard assessment, under review.
   * K.M. Yost, A. Yerro, R.A. Green, E.R. Martin, 2021, Harnessing Numerical Tools to Study the Limitations of CPTs for Characterizing Complex Soil Stratgraphies for Liquefaction Assessment, under review.
   * K.M. Yost, J. Cooper, R.A. Green, E.R. Martin, 2021, Correcting measured CPT tip resistance for multiple thin layer effects, under review.
   * Z. Hileman, D. Homa, E.R. Martin, G. Pickrell, A. Wang, 2022, Development of a Multimaterial Optical Fiber for Fully Distributed Magnetic Sensing Applications, IEEE Sensors Letters, 6(1), pp. 1-4.
   * K.M. Yost, A. Yerro, R.A. Green, E.R. Martin, J. Cooper, 2021, MPM Modeling of Cone Penetrometer Testing for Multiple Thin-Layer Effects in Complex Soil Stratigraphy, Journal of Geotechnical and Geoenvironmental Engineering, 148(2), article no. 04021189.
-  * J. Cooper, E.R. Martin, K.M. Yost, A. Yerro, R.A. Green, 2021, Robust identification and characterization of thin soil layers in cone penetration data by piecewise layer optimization, Computers and Geotechnics, 141, article no. 104404.
+  * J. Cooper, E.R. Martin, K.M. Yost, A. Yerro, R.A. Green, 2022, Robust identification and characterization of thin soil layers in cone penetration data by piecewise layer optimization, Computers and Geotechnics, 141, article no. 104404.
+  * E.R. Martin, N.J. Lindsey, B. Biondi, J.B. Ajo-Franklin. "Introduction to Interferometry of Fiber Optic Strain Measurements." Distributed Acoustic Sensing in Geophysics: Methods and Applications, edited by Y. Li, M. Karrenbach, J.B. Ajo-Franklin, American Geophysical Union Geophysical Monograph Series, 2022.
+  * B. Biondi, S. Yuan, E.R. Martin, F. Huot, R.G. Clapp. "Using telecommunication fiber infrastructure for earthquake monitoring and near-surface characterization." Distributed Acoustic Sensing in Geophysics: Methods and Applications, edited by Y. Li, M. Karrenbach, J.B. Ajo-Franklin, American Geophysical Union Geophysical Monograph Series, 2022.
   * J. Kump, E.R. Martin, 2021, Multichannel Analysis of Surface Waves Accelerated (MASWAccelerated): Software for Effcient Surface Wave Inversion Using MPI and GPUs, Computers & Geosciences, 156, article no. 104903.
   * K.M. Yost, R.A. Green, S. Upadhyaya, B.W. Maurer, A. Yerro-Colom, E.R. Martin, J. Cooper, 2021, Assessment of the Efficacies of Correction Procedures for Multiple Thin Layer Effects on Cone Penetration Tests, Soil Dynamics and Earthquake Engineering, 144, 106677.
   * N.J. Lindsey, E.R. Martin, 2021, Fiber-optic Seismology, Annual Review of Earth and Planetary Sciences, 49, pp. 309-336.
-  * E.R. Martin, N.J. Lindsey, B. Biosndi, J.B. Ajo-Franklin. "Introduction to Interferometry of Fiber Optic Strain Measurements." Distributed Acoustic Sensing in Geophysics: Methods and Applications, edited by Y. Li, M. Karrenbach, J.B. Ajo-Franklin, American Geophysical Union Geophysical Monograph Series, 2022.
-  * B. Biondi, S. Yuan, E.R. Martin, F. Huot, R.G. Clapp. "Using telecommunication fiber infrastructure for earthquake monitoring and near-surface characterization." Distributed Acoustic Sensing in Geophysics: Methods and Applications, edited by Y. Li, M. Karrenbach, J.B. Ajo-Franklin, American Geophysical Union Geophysical Monograph Series, 2022.
