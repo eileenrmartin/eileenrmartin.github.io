@@ -9,7 +9,7 @@ The Martin Group meets weekly for collaboration, discussion, and to learn from e
 
 
 #### Postdoctoral Researcher
-* Frantisek Stanek (Colorado School of Mines), Mar. '20-present
+* Shihao Yuan (Colorado School of Mines), Dec. '22-present
 
 #### Graduate Students
 * Hafiz Issah, Applied Math and Statistics Ph.D. student (previously Mathematics at Virginia Tech), Fall '21-present
@@ -20,6 +20,9 @@ The Martin Group meets weekly for collaboration, discussion, and to learn from e
 
 
 ## Alumni of Martin Group and Thesis Links
+
+#### Postdoctoral Researcher
+* Frantisek Stanek (Colorado School of Mines), Mar.-Nov. '22
 
 #### Graduate Students
 * Sarah Morgan, Mathematics M.S. student (Virginia Tech), Fall '20- Spring '22, [link to thesis](https://vtechworks.lib.vt.edu/handle/10919/110376), next position: Johns Hopkins Applied Physics Laboratory (APL)
