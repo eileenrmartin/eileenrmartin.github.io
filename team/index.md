@@ -2,10 +2,10 @@
 
 ### [Home](https://eileenrmartin.github.io){: .btn}        [Research](/research){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}    [Teaching](/teaching){: .btn} 	[Prospective Students](/prospectiveStudents){: .btn} 
 
-The Martin Group meets weekly for collaboration, discussion, and to learn from each other. Some mebers of the Martin Group work with industry-supported consortia, including CASERM and CWP. Within CWP, members of the Martin Group are considered to also be part of the CWP D-Team.
+The Martin Group meets weekly for collaboration, discussion, and to learn from each other. Some members of the group work with industry-supported consortia, including CASERM and CWP. 
 
 
-## Current Members of Martin Group
+## Current Group Members
 
 
 #### Postdoctoral Researchers / Research Associates
@@ -15,14 +15,13 @@ The Martin Group meets weekly for collaboration, discussion, and to learn from e
 * Hafiz Issah, Applied Math and Statistics Ph.D. student (previously Mathematics at Virginia Tech), Fall '21-present
 * Tomas Snyder, Hydrologic Science and Engineering M.S. student, Spring '23-present
 * Ahmad Tourei, Hydrologic Science and Engineering Ph.D. student (co-advised, previously Geosciences at Virginia Tech), Fall '21-present
-* Tomas Snyder, Hydrologic Science and Engineering M.S. student, Spring '23-present
 
 #### Undergraduate Students
 * Seunghoo Kim, Geophysics B.S. student, Fall '22-present
 * Mia Jungman, Geophysics B.S. student, Spring '23-present
 
 
-## Alumni of Martin Group and Thesis Links
+## Alumni of the Group and Thesis Links
 
 #### Postdoctoral Researchers / Research Associates
 * Dr. Frantisek Stanek, Geophysics postdoctoral researcher, Mar.-Nov. '22
