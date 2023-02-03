@@ -14,32 +14,30 @@ Emails:
 eileenrmartin AT mines DOT edu (primary email at Colorado School of Mines), 
 eileenrmartin AT vt DOT edu (for Virginia Tech)
 
-Office at Mines: Green Center 253 and Chauvenet Hall 234  
+Offices at Mines: Green Center 253 and Chauvenet Hall 234  
  
 
 ## Martin Group Announcements
 
 
 * Recent and upcoming presentations from group:
-  * Mar. 25, 2022, [Virginia Tech Geosciences Student Research Symposium](https://gsrsvtgeos.wixsite.com/home) (A. Tourei presenting)
-  * Apr. 12, 2022, University of Utah SeismoTea (E.R. Martin presenting)
-  * Apr. 22, 2022, Dept. of Earth and Atmospheric Sciences Seminar at University of Houston (E.R. Martin presenting)
-  * May 17-18, 2022, Center for Wave Phenomena Sponsors Meeting (E.R. Martin, F. Stanek, H. Issah presenting) 
-  * May 17, 2022, CSDMS Annual Meeting, clinic on environmental seismology and DAS (Danica Roth and E.R. Martin)
-  * June 15, 2022, SAGE/GAGE Community Science Workshop (H. Issah presenting)
-  * Sep. 8, 2022, Dept. of Geosciences Seminar at Colorado State University (E.R. Martin presenting)
+  * Feb. 2, 2023, E.R. Martin and A.H. Issah presenting at AFRL Technology Interchange Meeting
+  * Feb. 9, 2023, E.R. Martin presenting in computational math seminar at CU Boulder
+  * Mar. 7-9, 2023, A.H. Issah and E.R. Martin presenting at CoDA conference
+  * Mar. 29-30, 2023, A. Tourei, S. Yuan and E.R. Martin presenting at CASERM sponsors meeting
+  * Apr. 17-20, 2023, E.R. Martin presenting at SSA Annual Meeting
+  * May. 16-17, 2023, A.H. Issah, S. Yuan and E.R. Martin presenting at CWP sponsors meeting
 
 
 * Papers recently submitted/published:
-  * Z. Spica, J. Ajo-Franklin, G. Beroza, B. Biondi, F. Cheng, B. Gaite, B. Luo, E.R. Martin, J. Shen, C. Thurbber, L. Viens, H. Wang, A. Wuestefeld, H. Xiao, T. Zhu, 2022, PubDAS: a PUBlic Distributed Acoustic Sensing datasets repository for geosciences, under review, [preprint](https://eartharxiv.org/repository/view/3574/).
-  * J.A. Mjehovich, G. Jin, E.R. Martin, J. Shragge, 2021, Rapid surface deployment of DAS cable for earthquake hazard assessment, under review.
-  * K.M. Yost, A. Yerro, R.A. Green, E.R. Martin, 2021, Harnessing Numerical Tools to Study the Limitations of CPTs for Characterizing Complex Soil Stratgraphies for Liquefaction Assessment, under review.
-  * K.M. Yost, J. Cooper, R.A. Green, E.R. Martin, 2021, Correcting measured CPT tip resistance for multiple thin layer effects, under review.
+  * X. Ji, M. Xiao, E.R. Martin, T. Zhu, 2023, Statistical Evaluation of Seismic Wave Velocity Models of Permafrost, under review.
+  * Z. Spica, J. Ajo-Franklin, G. Beroza, B. Biondi, F. Cheng, B. Gaite, B. Luo, E.R. Martin, J. Shen, C. Thurbber, L. Viens, H. Wang, A. Wuestefeld, H. Xiao, T. Zhu, 2023, PubDAS: a PUBlic Distributed Acoustic Sensing datasets repository for geosciences, recently accepted to Seismological Research Letters, [preprint](https://eartharxiv.org/repository/view/3574/).
+  * J.A. Mjehovich, G. Jin, E.R. Martin, J. Shragge, 2023, Rapid surface deployment of DAS cable for earthquake hazard assessment, recently accepted to Journal of Geotechnical and Geoenvironmental Engineering.
+  * K.M. Yost, A. Yerro, R.A. Green, E.R. Martin, 2021, Harnessing Numerical Tools to Study the Limitations of CPTs for Characterizing Complex Soil Stratgraphies for Liquefaction Assessment, 12th National Conference on Earthquake Engineering, Salt Lake City, UT, 27 June - 1 July, 2022.
+  * K.M. Yost, J. Cooper, R.A. Green, E.R. Martin, 2021, Correcting measured CPT tip resistance for multiple thin layer effects, 5th International Symposium on Cone Penetration Testing, CPT '22, Bologna, Italy, 8 June - 10 June, 2022.
   * Z. Hileman, D. Homa, E.R. Martin, G. Pickrell, A. Wang, 2022, Development of a Multimaterial Optical Fiber for Fully Distributed Magnetic Sensing Applications, IEEE Sensors Letters, 6(1), pp. 1-4.
-  * K.M. Yost, A. Yerro, R.A. Green, E.R. Martin, J. Cooper, 2021, MPM Modeling of Cone Penetrometer Testing for Multiple Thin-Layer Effects in Complex Soil Stratigraphy, Journal of Geotechnical and Geoenvironmental Engineering, 148(2), article no. 04021189.
+  * K.M. Yost, A. Yerro, R.A. Green, E.R. Martin, J. Cooper, 2022, MPM Modeling of Cone Penetrometer Testing for Multiple Thin-Layer Effects in Complex Soil Stratigraphy, Journal of Geotechnical and Geoenvironmental Engineering, 148(2), article no. 04021189.
   * J. Cooper, E.R. Martin, K.M. Yost, A. Yerro, R.A. Green, 2022, Robust identification and characterization of thin soil layers in cone penetration data by piecewise layer optimization, Computers and Geotechnics, 141, article no. 104404.
   * E.R. Martin, N.J. Lindsey, B. Biondi, J.B. Ajo-Franklin. "Introduction to Interferometry of Fiber Optic Strain Measurements." Distributed Acoustic Sensing in Geophysics: Methods and Applications, edited by Y. Li, M. Karrenbach, J.B. Ajo-Franklin, American Geophysical Union Geophysical Monograph Series, 2022.
   * B. Biondi, S. Yuan, E.R. Martin, F. Huot, R.G. Clapp. "Using telecommunication fiber infrastructure for earthquake monitoring and near-surface characterization." Distributed Acoustic Sensing in Geophysics: Methods and Applications, edited by Y. Li, M. Karrenbach, J.B. Ajo-Franklin, American Geophysical Union Geophysical Monograph Series, 2022.
-  * J. Kump, E.R. Martin, 2021, Multichannel Analysis of Surface Waves Accelerated (MASWAccelerated): Software for Effcient Surface Wave Inversion Using MPI and GPUs, Computers & Geosciences, 156, article no. 104903.
-  * K.M. Yost, R.A. Green, S. Upadhyaya, B.W. Maurer, A. Yerro-Colom, E.R. Martin, J. Cooper, 2021, Assessment of the Efficacies of Correction Procedures for Multiple Thin Layer Effects on Cone Penetration Tests, Soil Dynamics and Earthquake Engineering, 144, 106677.
-  * N.J. Lindsey, E.R. Martin, 2021, Fiber-optic Seismology, Annual Review of Earth and Planetary Sciences, 49, pp. 309-336.
+

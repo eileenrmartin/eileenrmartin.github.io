@@ -8,15 +8,17 @@ The Martin Group meets weekly for collaboration, discussion, and to learn from e
 ## Current Members of Martin Group
 
 
-#### Postdoctoral Researcher
+#### Research Associate
 * Shihao Yuan (Colorado School of Mines), Dec. '22-present
 
 #### Graduate Students
 * Hafiz Issah, Applied Math and Statistics Ph.D. student (previously Mathematics at Virginia Tech), Fall '21-present
+* Tomas Snyder, Hydrologic Science and Engineering M.S. student, Spring '23-present
 * Ahmad Tourei, Hydrologic Science and Engineering Ph.D. student (co-advised, previously Geosciences at Virginia Tech), Fall '21-present
 
-#### Undergraduate Student
+#### Undergraduate Students
 * Seunghoo Kim, Geophysics B.S. student, Fall '22-present
+* Mia Jungman, Geophysics B.S. student, Spring '23-present
 
 
 ## Alumni of Martin Group and Thesis Links

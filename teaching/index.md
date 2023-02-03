@@ -4,11 +4,11 @@
 
 ## Teaching
 
-Spring 2023 (tentative), MATH 440/540, Parallel Scientific Computing
+Spring 2023, MATH 440/540, Parallel Scientific Computing
 
-Spring 2023 (tentative), GPGN 229, Mathematical Geophysics
+Spring 2023, GPGN 229, Mathematical Geophysics
 
-Summer 2022, GPGN 486, Geophysics Field Camp (supported hammerr seismic, DAS and data analysis)
+Summer 2022, GPGN 486, Geophysics Field Camp (supported hammer seismic, DAS and data analysis)
 
 Spring 2022, GPGN 229, Mathematical Geophysics
 
@@ -20,13 +20,13 @@ Fall 2020, CMDA 3634, CS Foundations for CMDA (2 sections)
 
 Spring 2020, CMDA 3634, CS Foundations for CMDA
 
-Fall 2019, CMDA 2005, Integrated Quantitative Modeling I, co-taught with Morgan Russell
+Fall 2019, CMDA 2005, Integrated Quantitative Modeling I, 6 credit hours, co-taught with Morgan Russell
 
 Fall 2019, MATH 5984, [Extreme-scale Inverse Problems](https://sites.google.com/vt.edu/extreme), one-credit graduate topics course,  co-taught with Russell Hewett
 
 Spring 2019, CMDA 3634 CS Foundations for CMDA
 
-Fall 2018, CMDA 2005 Integrated Quantitative Modeling I, co-teaching with Christian Lucero
+Fall 2018, CMDA 2005 Integrated Quantitative Modeling I, 6 credit hours, co-teaching with Christian Lucero
 
 Winter 2018, EARTH 310 Computational Geosciences Seminar (co-organizer)
 
