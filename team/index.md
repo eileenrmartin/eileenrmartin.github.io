@@ -13,12 +13,15 @@ The Martin Group meets weekly for collaboration, discussion, and to learn from e
 
 #### Graduate Students
 * Hafiz Issah, Applied Math and Statistics Ph.D. student (previously Mathematics at Virginia Tech), Fall '21-present
+* Nikhil Punithan, Geophysics M.S. student, Fall '23-present
 * Tomas Snyder, Hydrologic Science and Engineering M.S. student, Spring '23-present
+* Yida Song, Geophysics Ph.D. student, Fall '23-present
 * Ahmad Tourei, Hydrologic Science and Engineering Ph.D. student (co-advised, previously Geosciences at Virginia Tech), Fall '21-present
 
 #### Undergraduate Students
-* Seunghoo Kim, Geophysics B.S. student, Fall '22-present
-* Mia Jungman, Geophysics B.S. student, Spring '23-present
+* Cash Cherry, Geophysics B.S. and AMS M.S. (combined undergrad/grad program), Fall '23 - present
+* Pablo Chang Huang, Geophysics B.S. student, Summer '23 - present
+* Mia Jungman, Geophysics B.S. student, Spring '23 - present
 
 
 ## Alumni of the Group and Thesis Links
@@ -35,6 +38,7 @@ The Martin Group meets weekly for collaboration, discussion, and to learn from e
 
 
 #### Undergraduates
+* Seunghoo Kim, Geophysics major (Mines), Fall '22 - Spring '23, next position: Geophysics Ph.D. student at Stanford University
 * Samantha Paulus, CMDA and Nanoscience major (Virginia Tech), Spring '21- Spring '22, next positions: pathway systems engineer at Northrop Grumman and Computer Science M.Eng. student at Virginia Tech
 * Tony Artis, CMDA major (Virginia Tech), Spring '20- Spring '22, next position: Innovative Reasoning, LLC
 * Firaol Woldemariam, CMDA major (Virginia Tech), Spring '21-Fall '21, next position: software developer at Capital One
