@@ -12,6 +12,7 @@ The Martin Group meets weekly for collaboration, discussion, and to learn from e
 * Dr. Shihao Yuan, Geophysics research associate, Dec. '22-present
 
 #### Graduate Students
+* Georgia Brooks, Applied Math and Statistics M.S. student, Spring '24-present
 * Hafiz Issah, Applied Math and Statistics Ph.D. student (previously Mathematics at Virginia Tech), Fall '21-present
 * Nikhil Punithan, Geophysics M.S. student, Fall '23-present
 * Tomas Snyder, Hydrologic Science and Engineering M.S. student, Spring '23-present
@@ -32,9 +33,9 @@ The Martin Group meets weekly for collaboration, discussion, and to learn from e
 #### Graduate Student Researchers
 * Sarah Morgan, Mathematics M.S. student (Virginia Tech, primary advisor), Fall '20- Spring '22, [link to thesis](https://vtechworks.lib.vt.edu/handle/10919/110376), next position: Johns Hopkins Applied Physics Laboratory (APL)
 * Brandon Pearl, Computer Science M.Eng. student (Virginia Tech, GRA in Martin group during non-thesis masters), Summer '21-Spring '22
-* Jon Cooper, Mathematics M.S. Student (Virginia Tech, GRA in Martin group while doing thesis with M. Chung and S. Gugercin), Jan. '20-Dec. '20, next position: National Security Agency
 * Joseph Kump, Mathematics M.S. Student (Virginia Tech, primary advisor), Summer '19-Summer '21, [link to thesis](https://vtechworks.lib.vt.edu/handle/10919/103864), next position: Ph.D. student in CSEM at UT-Austin's Oden Institute
 * Julius Grimm, Applied Geophysics M.S. student (IDEA League at ETH Zurich, co-advised), Fall '20-Summer '21, [link to thesis](http://resolver.tudelft.nl/uuid:b98362cd-ab70-4158-9055-733e86d29b13), next position: Ph.D. student in ISTerre at Universite Grenoble Alpes
+* Jon Cooper, Mathematics M.S. Student (Virginia Tech, GRA in Martin group while doing thesis with M. Chung and S. Gugercin), Jan. '20-Dec. '20, next position: National Security Agency
 
 
 #### Undergraduates

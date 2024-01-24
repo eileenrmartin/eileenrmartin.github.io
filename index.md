@@ -18,21 +18,15 @@ Offices: Green Center 253 and Chauvenet Hall 234
 ## Martin Group Announcements
 
 
-* Recent and upcoming presentations from group:
-  * T. Snyder presenting at GSA in Pittsburgh, PA
-  * CTEMPs DAS and DTS tutorial - Sat. and Sun. before AGU in Stanford, CA
-  * A. Tourei, S. Yuan, E.R. Martin presenting at AGU in San Francisco, CA
-
 
 * Papers recently submitted or published:
+  * A.H. Issah, E.R. Martin, 2024, “Impact of Lossy Compression Errors on Passive Seismic Data Analyses,” recently accepted to Seismological Research Letters, [preprint:](https://repository.mines.edu/handle/11124/177939), [code link:](https://github.com/aissah/Issah-SRL-compression-2023/) 
+  * K.M. Yost, A. Yerro, E.R. Martin, R.A. Green, 2024, "A CPT Database for Multiple Thin-Layer Correction Procedure Development," recently accepted to Earthquake Spectra, [database and code link.](https://data.lib.vt.edu/articles/dataset/Data_Associated_with_A_CPT_Database_for_Multiple_Thin-Layer_Correction_Procedure_Development/21408450) 
+  * X. Ji, M. Xiao, E.R. Martin, T. Zhu, 2024, "Statistical Evaluation of Seismic Wave Velocity Models of Permafrost," recently accepted to Journal of Cold Regions Engineering, [preprint.](https://eartharxiv.org/repository/view/5601/)
   * K.M. Yost, R.A. Green, A. Yerro, E.R. Martin, 2023, "Utilizing CPT Databases to Better Inform Liquefaction Evaluations," conference paper under review.
   * Z. Dejneka, D. Homa, J. Buontempo, G. Crawford, E.R. Martin, L. Theis, A. Wang, G. Pickrell, 2023, "Magnetic Field Sensing via Acoustic Sensing Fiber with Metglas 2605SC Cladding Wires," under review.
-  * A.H. Issah, E.R. Martin, 2023, “Impact of Lossy Compression Errors on Passive Seismic Data Analyses,” under review, [preprint:](https://repository.mines.edu/handle/11124/177939), [code link:](https://github.com/aissah/Issah-SRL-compression-2023/) 
   * A. Tourei, X. Ji, G.F. Rocha dos Santos, R. Czarny, S. Rybakov, Z. Wang, M. Hallissey, E.R. Martin, M. Xiao, T. Zhu, D. Nicolsky, A. Jensen, 2023, Mapping Permafrost Variability and Degradation Using Seismic Surface Waves, Electrical Resistivity and Temperature Sensing: A Case Study in Arctic Alaska, under review, [preprint.](https://eartharxiv.org/repository/view/5706/)
-  * K.M. Yost, A. Yerro, E.R. Martin, R.A. Green, A CPT Database for Multiple Thin-Layer Correction Procedure Development, under review, [database and code link.](https://data.lib.vt.edu/articles/dataset/Data_Associated_with_A_CPT_Database_for_Multiple_Thin-Layer_Correction_Procedure_Development/21408450) 
-  * X. Ji, M. Xiao, E.R. Martin, T. Zhu, 2023, Statistical Evaluation of Seismic Wave Velocity Models of Permafrost, under review, [preprint.](https://eartharxiv.org/repository/view/5601/)
-  * Z. Spica, J. Ajo-Franklin, G. Beroza, B. Biondi, F. Cheng, B. Gaite, B. Luo, E.R. Martin, J. Shen, C. Thurbber, L. Viens, H. Wang, A. Wuestefeld, H. Xiao, T. Zhu, 2023, PubDAS: a PUBlic Distributed Acoustic Sensing datasets repository for geosciences, Seismological Research Letters, 94(2A), pp. 983-998, [preprint](https://eartharxiv.org/repository/view/3574/).
-  * J.A. Mjehovich, G. Jin, E.R. Martin, J. Shragge, 2023, Rapid surface deployment of DAS cable for earthquake hazard assessment, Journal of Geotechnical and Geoenvironmental Engineering, 149(5), 04023027.
+
 
 
 
