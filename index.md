@@ -20,13 +20,19 @@ Offices: Green Center 253 and Chauvenet Hall 234
 
 
 * Papers recently submitted or published:
+  * J.M. Manos, D. Graff, E.R. Martin, P. Paitz, F. Walter, A. Fichtner, B.P. Lipovsky, 2024, “DAS to Discharge: Using Distributed Acoustic Sensing (DAS) to infer glacier runoff,” under review, [preprint.](https://eartharxiv.org/repository/view/6680/)
+  * D. Chambers, G. Jin, A. Tourei, A.H.S. Issah, A. Lellouch, E.R. Martin, D. Zhu, A. Girard, S. Yuan, T. Cullison, T. Snyder, S. Kim, N. Danes, N. Punithan, S. Boltz, M.M. Mendoza, 2024, “DASCore: a Python Library for Distributed Fiber Optic Sensing,” under review, [preprint.](https://eartharxiv.org/repository/view/6571/)   
   * A.H. Issah, E.R. Martin, 2024, “Impact of Lossy Compression Errors on Passive Seismic Data Analyses,” recently accepted to Seismological Research Letters, [preprint:](https://repository.mines.edu/handle/11124/177939), [code link:](https://github.com/aissah/Issah-SRL-compression-2023/) 
   * K.M. Yost, A. Yerro, E.R. Martin, R.A. Green, 2024, "A CPT Database for Multiple Thin-Layer Correction Procedure Development," recently accepted to Earthquake Spectra, [database and code link.](https://data.lib.vt.edu/articles/dataset/Data_Associated_with_A_CPT_Database_for_Multiple_Thin-Layer_Correction_Procedure_Development/21408450) 
   * X. Ji, M. Xiao, E.R. Martin, T. Zhu, 2024, "Statistical Evaluation of Seismic Wave Velocity Models of Permafrost," recently accepted to Journal of Cold Regions Engineering, [preprint.](https://eartharxiv.org/repository/view/5601/)
-  * K.M. Yost, R.A. Green, A. Yerro, E.R. Martin, 2023, "Utilizing CPT Databases to Better Inform Liquefaction Evaluations," conference paper under review.
+  * K.M. Yost, R.A. Green, A. Yerro, E.R. Martin, 2023, "Utilizing CPT Databases to Better Inform Liquefaction Evaluations," conference paper under review
   * Z. Dejneka, D. Homa, J. Buontempo, G. Crawford, E.R. Martin, L. Theis, A. Wang, G. Pickrell, 2023, "Magnetic Field Sensing via Acoustic Sensing Fiber with Metglas 2605SC Cladding Wires," under review.
-  * A. Tourei, X. Ji, G.F. Rocha dos Santos, R. Czarny, S. Rybakov, Z. Wang, M. Hallissey, E.R. Martin, M. Xiao, T. Zhu, D. Nicolsky, A. Jensen, 2023, Mapping Permafrost Variability and Degradation Using Seismic Surface Waves, Electrical Resistivity and Temperature Sensing: A Case Study in Arctic Alaska, under review, [preprint.](https://eartharxiv.org/repository/view/5706/)
+  * A. Tourei, X. Ji, G.F. Rocha dos Santos, R. Czarny, S. Rybakov, Z. Wang, M. Hallissey, E.R. Martin, M. Xiao, T. Zhu, D. Nicolsky, A. Jensen, 2023, "Mapping Permafrost Variability and Degradation Using Seismic Surface Waves, Electrical Resistivity and Temperature Sensing: A Case Study in Arctic Alaska," under review, [preprint.](https://eartharxiv.org/repository/view/5706/)
 
 
+* New group members who joined the Martin Group in the '23-'24 academic year:
+  * Yida Song (geophysics PhD student)
+  * Nikhil Punithan (geophysics MS student)
+  * Georgia Brooks (applied math and statistics MS student)
 
 
