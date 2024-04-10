@@ -19,7 +19,7 @@ Offices: Green Center 253 and Chauvenet Hall 234
 
 
 * Papers recently submitted or published:
-  * Z. Dejneka, D. Homa, J. Buontempo, G. Crawford, E.R. Martin, L. Theis, A. Wang, G. Pickrell, 2023, "Magnetic Field Sensing via Acoustic Sensing Fiber with Metglas 2605SC Cladding Wires," recently accepted to Photonics.
+  * Z. Dejneka, D. Homa, J. Buontempo, G. Crawford, E.R. Martin, L. Theis, A. Wang, G. Pickrell, 2024, "Magnetic Field Sensing via Acoustic Sensing Fiber with Metglas 2605SC Cladding Wires," Photonics, 11(4), article no. 348.
   * A. Tourei, X. Ji, G.F. Rocha dos Santos, R. Czarny, S. Rybakov, Z. Wang, M. Hallissey, E.R. Martin, M. Xiao, T. Zhu, D. Nicolsky, A. Jensen, 2023, "Mapping Permafrost Variability and Degradation Using Seismic Surface Waves, Electrical Resistivity and Temperature Sensing: A Case Study in Arctic Alaska," recently accepted to JGR: Earth Surface, [preprint.](https://eartharxiv.org/repository/view/5706/)
   * J.M. Manos, D. Graff, E.R. Martin, P. Paitz, F. Walter, A. Fichtner, B.P. Lipovsky, 2024, “DAS to Discharge: Using Distributed Acoustic Sensing (DAS) to infer glacier runoff,” under review, [preprint.](https://eartharxiv.org/repository/view/6680/)
   * D. Chambers, G. Jin, A. Tourei, A.H.S. Issah, A. Lellouch, E.R. Martin, D. Zhu, A. Girard, S. Yuan, T. Cullison, T. Snyder, S. Kim, N. Danes, N. Punithan, S. Boltz, M.M. Mendoza, 2024, “DASCore: a Python Library for Distributed Fiber Optic Sensing,” under review, [preprint.](https://eartharxiv.org/repository/view/6571/)   
