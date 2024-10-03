@@ -15,8 +15,6 @@ Our group regularly has funded research projects going on that can support resea
 * fiber-optic sensing (or other large-scale geophysical sensing methods)
 * signal processing
 
-I am currently recruiting graduate students at Colorado School of Mines in the Department of Geophysics, the Department of Applied Mathematics and Statistics, and the interdisciplinary Hydrologic Science and Engineering Program. Students who wish to pursue their thesis with me can apply through any of these programs depending on their background and goals. F
-
 Here are links with more details about Mines' M.S. and Ph.D. programs in: 
 * [Geophysics](https://geophysics.mines.edu/graduate-program/)
 * [Applied Math and Statistics](https://ams.mines.edu/graduate-programs/)
@@ -24,11 +22,6 @@ Here are links with more details about Mines' M.S. and Ph.D. programs in:
 
 The specific requirements vary by program, but all students in the group must work with an interdisciplinary team. To ensure some common knowledge that facilitates student-to-student collaboration across programs, applicants should have prior coursework or self-study including: programming, differential equations, linear algebra, probability & statistics, mechanics, and electricity & magnetism. 
  
-
-### Specific Open Positions
-In addition to the specific openings currently listed here, I also recruit motivated postdocs, graduate students and undergraduate students for upcoming projects that are not yet listed below, so please get in touch to discuss opportunities!
-* I will be recruiting a post-doctoral researcher soon. If you are interested in end-to-end workflows with data compression in scientific computing, applied data science, high-throughput/large-scale seismology, parallel computing and open-source software, please contact me! 
-* The Distributed Fiber Optic Sensing Laboratory (Martin, Jin, Shragge, Singha) is posting an undergraduate work-study position this fall for an undergraduate laboratory assistant. 
 
 ### Graduate and Postdoctoral Fellowships
 

@@ -12,17 +12,14 @@ The Martin Group meets weekly for collaboration, discussion, and to learn from e
 * Dr. Shihao Yuan, Geophysics research associate, Dec. '22-present
 
 #### Graduate Students
+* Badr Badghaish, Geophysics M.S. student, Fall '24-present
+* Reynaldo Vite Sánchez, Geophysics Ph.D. student, Summer '24-present
 * Georgia Brooks, Applied Math and Statistics M.S. student, Spring '24-present
-* Hafiz Issah, Applied Math and Statistics Ph.D. student (previously Mathematics at Virginia Tech), Fall '21-present
+* A. Hafiz Issah, Applied Math and Statistics Ph.D. student (previously Mathematics at Virginia Tech), Fall '21-present
 * Nikhil Punithan, Geophysics M.S. student, Fall '23-present
 * Tomas Snyder, Hydrologic Science and Engineering M.S. student, Spring '23-present
 * Yida Song, Geophysics Ph.D. student, Fall '23-present
 * Ahmad Tourei, Hydrologic Science and Engineering Ph.D. student (co-advised, previously Geosciences at Virginia Tech), Fall '21-present
-
-#### Undergraduate Students
-* Cash Cherry, Geophysics B.S. and AMS M.S. (combined undergrad/grad program), Fall '23 - present
-* Pablo Chang Huang, Geophysics B.S. student, Summer '23 - present
-* Mia Jungman, Geophysics B.S. student, Spring '23 - present
 
 
 ## Alumni of the Group and Thesis Links
@@ -39,6 +36,10 @@ The Martin Group meets weekly for collaboration, discussion, and to learn from e
 
 
 #### Undergraduates
+* Melissa Unlu, Computer Science B.S. (Univ. of Houston), Summer '24, continuing studies
+* Cash Cherry, Geophysics B.S. and AMS M.S. (combined undergrad/grad program), Fall '23 - Spring '24, continuing studies
+* Pablo Chang Huang, Geophysics B.S. student, Summer '23 - Spring '24, next position: Geophysics M.S. student at UBC
+* Mia Jungman, Geophysics B.S. student, Spring '23 - Spring '24, continuing studies
 * Seunghoo Kim, Geophysics major (Mines), Fall '22 - Spring '23, next position: Geophysics Ph.D. student at Stanford University
 * Samantha Paulus, CMDA and Nanoscience major (Virginia Tech), Spring '21- Spring '22, next positions: pathway systems engineer at Northrop Grumman and Computer Science M.Eng. student at Virginia Tech
 * Tony Artis, CMDA major (Virginia Tech), Spring '20- Spring '22, next position: Innovative Reasoning, LLC
