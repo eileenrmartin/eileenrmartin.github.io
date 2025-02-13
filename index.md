@@ -11,8 +11,6 @@ I am an associate professor at Colorado School of Mines jointly appointed in [ge
 
 
 Email: eileenrmartin AT mines DOT edu
-
-Offices: Green Center 253 and Chauvenet Hall 234  
  
 
 ## Martin Group Announcements
