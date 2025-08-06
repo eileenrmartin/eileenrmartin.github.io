@@ -1,6 +1,6 @@
 ### Eileen R. Martin
 
-###   [Research Team](/team){: .btn}     [Research](/research){: .btn}       [CV](/docs/ermartin_CV.pdf){: .btn}       [Teaching](/teaching){: .btn}     [Prospective Students](/prospectiveStudents){: .btn}
+###   [Research Team](/team){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}       [Teaching](/teaching){: .btn}     [Prospective Students](/prospectiveStudents){: .btn}
 
 ## Bio
 
