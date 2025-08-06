@@ -1,6 +1,6 @@
 ### The Martin Group
 
-### [Home](https://eileenrmartin.github.io){: .btn}     [Research Team](/team){: .btn}     [Research](/research){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}    [Teaching](/teaching){: .btn}    
+### [Home](https://eileenrmartin.github.io){: .btn}     [Research Team](/team){: .btn}     [CV](/docs/ermartin_CV.pdf){: .btn}    [Teaching](/teaching){: .btn}    
 
 ## Prospective Students and Postdocs in the Martin Group
 
