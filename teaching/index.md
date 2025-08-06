@@ -1,8 +1,26 @@
 ### Eileen R. Martin
 
-### [Home](https://eileenrmartin.github.io){: .btn}      [Research Team](/team){: .btn}     [Research](/research){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}     [Outreach](/outreach){: btn}		[Prospective Students](/prospectiveStudents){: .btn}
+### [Home](https://eileenrmartin.github.io){: .btn}      [Research Team](/team){: .btn}     [CV](/docs/ermartin_CV.pdf){: .btn}     [Prospective Students](/prospectiveStudents){: .btn}
 
 ## Teaching
+
+Fall 2025, MATH 440/540, Parallel Scientific Computing
+
+Spring 2025, GPGN 404, Digital Signal Processing
+
+Spring 2025, GPGN 229, Mathematical Geophysics
+
+Fall 2024, MATH 514, Applied Mathematics I
+
+Summer 2024, GPGN 486, Geophysics Field Camp (supported hammer seismic, DAS, DTS, and data analysis)
+
+Spring 2024, GPGN 229, Mathematical Geophysics
+
+Fall 2023, MATH 514, Applied Mathematics I
+
+Fall 2023, GPGN 583, Graduate Reading Seminar
+
+Summer 2023, GPGN 486, Geophysics Field Camp (supported hammer seismic, DAS and data analysis)
 
 Spring 2023, MATH 440/540, Parallel Scientific Computing
 
