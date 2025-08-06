@@ -1,6 +1,6 @@
 ### The Martin Group
 
-### [Home](https://eileenrmartin.github.io){: .btn}        [Research](/research){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}    [Teaching](/teaching){: .btn} 	[Prospective Students](/prospectiveStudents){: .btn} 
+### [Home](https://eileenrmartin.github.io){: .btn}      [CV](/docs/ermartin_CV.pdf){: .btn}    [Teaching](/teaching){: .btn} 	[Prospective Students](/prospectiveStudents){: .btn} 
 
 The Martin Group meets weekly for collaboration, discussion, and to learn from each other. Some members of the group work with industry-supported consortia, including CASERM and CWP. 
 
