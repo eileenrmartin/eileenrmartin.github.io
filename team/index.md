@@ -28,7 +28,7 @@ The Martin Group meets weekly for collaboration, discussion, and to learn from e
 #### Graduate Student Researchers
 * Georgia Brooks, Applied Math and Statistics M.S. student, Spring '24- Summer '25, thesis to be posted by Mines library
 * Nikhil Punithan, Geophysics M.S. student, Fall '23 - Spring '25, thesis to be posted by Mines library, next position: continuing as Ph.D. student in geophysics at Mines 
-* Tomas Snyder, Hydrologic Science and Engineering M.S. student, Spring '23- Fall '24, [link to thesis], next position: Itasca
+* Tomas Snyder, Hydrologic Science and Engineering M.S. student, Spring '23- Fall '24, [link to thesis](https://hdl.handle.net/11124/180389), next position: Itasca
 * Sarah Morgan, Mathematics M.S. student (Virginia Tech, primary advisor), Fall '20- Spring '22, [link to thesis](https://vtechworks.lib.vt.edu/handle/10919/110376), next position: Johns Hopkins Applied Physics Laboratory (APL)
 * Brandon Pearl, Computer Science M.Eng. student (Virginia Tech, GRA in Martin group during non-thesis masters), Summer '21-Spring '22
 * Joseph Kump, Mathematics M.S. Student (Virginia Tech, primary advisor), Summer '19-Summer '21, [link to thesis](https://vtechworks.lib.vt.edu/handle/10919/103864), next position: Ph.D. student in CSEM at UT-Austin's Oden Institute
