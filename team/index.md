@@ -15,7 +15,7 @@ The Martin Group meets weekly for collaboration, discussion, and to learn from e
 * Badr Badghaish, Geophysics M.S. student, Fall '24-present
 * Reynaldo Vite Sánchez, Geophysics Ph.D. student, Summer '24-present
 * A. Hafiz Issah, Applied Math and Statistics Ph.D. student (previously Mathematics at Virginia Tech), Fall '21-present
-* Nikhil Punithan, Geophysics Ph.D. student, Summer '25-present
+* Nikhil Punithan, Geophysics Ph.D. student (co-advised), Summer '25-present
 * Yida Song, Geophysics Ph.D. student, Fall '23-present
 * Ahmad Tourei, Hydrologic Science and Engineering Ph.D. student (co-advised, previously Geosciences at Virginia Tech), Fall '21-present
 
@@ -26,9 +26,9 @@ The Martin Group meets weekly for collaboration, discussion, and to learn from e
 * Dr. Frantisek Stanek, Geophysics postdoctoral researcher, Mar.-Nov. '22
 
 #### Graduate Student Researchers
-* Georgia Brooks, Applied Math and Statistics M.S. student, Spring '24- Summer '25, thesis to be posted by Mines library
-* Nikhil Punithan, Geophysics M.S. student, Fall '23 - Spring '25, thesis to be posted by Mines library, next position: continuing as Ph.D. student in geophysics at Mines 
-* Tomas Snyder, Hydrologic Science and Engineering M.S. student, Spring '23- Fall '24, [link to thesis](https://hdl.handle.net/11124/180389), next position: Itasca
+* Georgia Brooks, Applied Math and Statistics M.S. student (Mines, primary advisor), Spring '24- Summer '25, thesis to be posted by Mines library
+* Nikhil Punithan, Geophysics M.S. student (Mines, co-advised), Fall '23 - Spring '25, thesis to be posted by Mines library, next position: continuing as Ph.D. student in geophysics at Mines 
+* Tomas Snyder, Hydrologic Science and Engineering M.S. student (Mines, primary advisor), Spring '23- Fall '24, [link to thesis](https://hdl.handle.net/11124/180389), next position: Itasca
 * Sarah Morgan, Mathematics M.S. student (Virginia Tech, primary advisor), Fall '20- Spring '22, [link to thesis](https://vtechworks.lib.vt.edu/handle/10919/110376), next position: Johns Hopkins Applied Physics Laboratory (APL)
 * Brandon Pearl, Computer Science M.Eng. student (Virginia Tech, GRA in Martin group during non-thesis masters), Summer '21-Spring '22
 * Joseph Kump, Mathematics M.S. Student (Virginia Tech, primary advisor), Summer '19-Summer '21, [link to thesis](https://vtechworks.lib.vt.edu/handle/10919/103864), next position: Ph.D. student in CSEM at UT-Austin's Oden Institute
@@ -37,6 +37,7 @@ The Martin Group meets weekly for collaboration, discussion, and to learn from e
 
 
 #### Undergraduates
+* Ryan Zaff, Geoscience B.S. (Penn State), Summer '25, continuing studies
 * Melissa Unlu, Computer Science B.S. (Univ. of Houston), Summer '24, continuing studies
 * Cash Cherry, Geophysics B.S. and AMS M.S. (combined undergrad/grad program), Fall '23 - Spring '24, continuing studies
 * Pablo Chang Huang, Geophysics B.S. student, Summer '23 - Spring '24, next position: Geophysics M.S. student at UBC
