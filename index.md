@@ -17,11 +17,11 @@ Email: eileenrmartin AT mines DOT edu
 * Congratulations to the group's recent graduates! Their theses:
   * G. Brooks, "Singular Value Decomposition of Large Scale Ambient Seismic Noise Data for Estimation of Wave Equation Responses," M.S. Thesis, Computational and Applied Math, Colorado School of Mines, Aug. 2025. 
   * N. Punithan, "Automating Near-surface Characterization Using Ambient Noise Distributed Acoustic Sensing Data," M.S. Thesis, Geophysics, Colorado School of Mines, May 2025.
-  * T. Snyder, "On the Potential for Fiber-optic Distributed Magnetic Sensing in Near-surface Geophysics," M.S. Thesis, Hydrologic Science and Engineering, Colorado School of Mines, Dec. 2024. 
+  * T. Snyder, "On the Potential for Fiber-optic Distributed Magnetic Sensing in Near-surface Geophysics," M.S. Thesis, Hydrologic Science and Engineering, Colorado School of Mines, Dec. 2024, [link.](https://hdl.handle.net/11124/180389) 
 
 * Papers recently submitted or published:
 
-  * R. Willis, J. Grimm, F. Stanek, P. Edme, A. Fichtner, B. Lipovsky, P. Paitz, F. Water, M.R. Siegfried, E.R. Martin, 2025, “Creating a Comprehensive Cryoseismic Catalog at Rhonegletscher: A Scalable Approach Using Distributed Acoustic Sensing and Machine Learning,” recently submitted, preprint currently in moderation (to be posted ESS Open Archive).
+  * R. Willis, J. Grimm, F. Stanek, P. Edme, A. Fichtner, B. Lipovsky, P. Paitz, F. Water, M.R. Siegfried, E.R. Martin, 2025, “Creating a Comprehensive Cryoseismic Catalog at Rhonegletscher: A Scalable Approach Using Distributed Acoustic Sensing and Machine Learning,” recently submitted, [preprint.](https://essopenarchive.org/doi/full/10.22541/essoar.175455823.39542543/v1)
   * L. Gou, M. Xiao, T. Zhu, E.R. Martin, Z. Wang, G. Rocha dos Santos, D. Nicolsky, X. Ji, 2025, “A Digital Twin Based on Differentiable Modeling for Predicting Permafrost Thermodynamic Characteristics Under an Embankment Road in Utqiagvik, Alaska,” recently submitted. 
   * J.J. McGuire, A.J. Barbour, Z.J. Spica, V. Rodríguez Tribaldos, Z. Zhan, B.P. Lipovsky, R.J. Mellors, E. Biondi, C. Yoon, M. Karrenbach, A.T. Ringler, J. Atterholt, A. Nayak, T. Sawi, L. Viens, E.R. Martin, A.L. Husker, P. Bodin, M.P. Moschetti, Q. Shi, N.C. Miller, P. Puri, 2025, “Fiber Optic Sensing for Earthquake Hazards Research, Monitoring and Early Warning,” recently submitted.
   * S. Yuan, F. Bernauer, C.M. Liao, E. Niederleithinger, E.R. Martin, C. Hadziioannou, J. Wassermann, H. Igel, 2024, “Bridge monitoring using six-component ground motion measurements,” recently submitted, [preprint.](https://engrxiv.org/preprint/view/4004) 
