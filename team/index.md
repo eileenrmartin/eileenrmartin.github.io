@@ -7,27 +7,23 @@ The Martin Group meets weekly for collaboration, discussion, and to learn from e
 
 ## Current Group Members
 
-
-#### Postdoctoral Researchers / Research Associates
-* Dr. Shihao Yuan, Geophysics research associate, Dec. '22-present
-
 #### Graduate Students
 * Badr Badghaish, Geophysics M.S. student, Fall '24-present
 * Reynaldo Vite Sánchez, Geophysics Ph.D. student, Summer '24-present
 * A. Hafiz Issah, Applied Math and Statistics Ph.D. student (previously Mathematics at Virginia Tech), Fall '21-present
 * Nikhil Punithan, Geophysics Ph.D. student (co-advised), Summer '25-present
 * Yida Song, Geophysics Ph.D. student, Fall '23-present
-* Ahmad Tourei, Hydrologic Science and Engineering Ph.D. student (co-advised, previously Geosciences at Virginia Tech), Fall '21-present
-
 
 ## Alumni of the Group and Thesis Links
 
 #### Postdoctoral Researchers / Research Associates
-* Dr. Frantisek Stanek, Geophysics postdoctoral researcher, Mar.-Nov. '22
-
+* Dr. Frantisek Stanek, Geophysics postdoctoral researcher, Mar.-Nov. '22, next position: senior geophysicist, Silixa
+* Dr. Shihao Yuan, Geophysics research associate, Dec. '22-Feb. '26, next position: Chaire de professeur junior in geophysics at ISTerre
+  
 #### Graduate Student Researchers
-* Georgia Brooks, Applied Math and Statistics M.S. student (Mines, primary advisor), Spring '24- Summer '25, thesis to be posted by Mines library
-* Nikhil Punithan, Geophysics M.S. student (Mines, co-advised), Fall '23 - Spring '25, thesis to be posted by Mines library, next position: continuing as Ph.D. student in geophysics at Mines 
+* Ahmad Tourei, Hydrologic Science and Engineering Ph.D. student (Mines, co-advised with J. Hole), Fall '21 - Fall '25, thesis to be postred by Mines library, next position: engineering associate at Geocomp, Inc.
+* Georgia Brooks, Applied Math and Statistics M.S. student (Mines, primary advisor), Spring '24- Summer '25, thesis to be posted by Mines library, next position: Cadmus
+* Nikhil Punithan, Geophysics M.S. student (Mines, co-advised with J. Shragge), Fall '23 - Spring '25, [link to thesis](https://mines.primo.exlibrisgroup.com/permalink/01COLSCHL_INST/apnnk1/cdi_proquest_journals_3271203697), next position: continuing as Ph.D. student in geophysics at Mines 
 * Tomas Snyder, Hydrologic Science and Engineering M.S. student (Mines, primary advisor), Spring '23- Fall '24, [link to thesis](https://hdl.handle.net/11124/180389), next position: Itasca
 * Sarah Morgan, Mathematics M.S. student (Virginia Tech, primary advisor), Fall '20- Spring '22, [link to thesis](https://vtechworks.lib.vt.edu/handle/10919/110376), next position: Johns Hopkins Applied Physics Laboratory (APL)
 * Brandon Pearl, Computer Science M.Eng. student (Virginia Tech, GRA in Martin group during non-thesis masters), Summer '21-Spring '22
@@ -42,7 +38,7 @@ The Martin Group meets weekly for collaboration, discussion, and to learn from e
 * Cash Cherry, Geophysics B.S. and AMS M.S. (combined undergrad/grad program), Fall '23 - Spring '24, continuing studies
 * Pablo Chang Huang, Geophysics B.S. student, Summer '23 - Spring '24, next position: Geophysics M.S. student at UBC
 * Mia Jungman, Geophysics B.S. student, Spring '23 - Spring '24, continuing studies
-* Seunghoo Kim, Geophysics major (Mines), Fall '22 - Spring '23, next position: Geophysics Ph.D. student at Stanford University
+* Seunghoo Kim, Geophysics major (Mines), Fall '22 - Spring '23, next position: Geophysics graduate student at Stanford University
 * Samantha Paulus, CMDA and Nanoscience major (Virginia Tech), Spring '21- Spring '22, next positions: pathway systems engineer at Northrop Grumman and Computer Science M.Eng. student at Virginia Tech
 * Tony Artis, CMDA major (Virginia Tech), Spring '20- Spring '22, next position: Innovative Reasoning, LLC
 * Firaol Woldemariam, CMDA major (Virginia Tech), Spring '21-Fall '21, next position: software developer at Capital One
