@@ -8,11 +8,12 @@ The Martin Group meets weekly for collaboration, discussion, and to learn from e
 ## Current Group Members
 
 #### Graduate Students
+* Byron Selvage, Applied Math and Statistics M.S. student, Spring '26-present
+* Nikhil Punithan, Geophysics Ph.D. student (co-advised), Summer '25-present
 * Badr Badghaish, Geophysics M.S. student, Fall '24-present
 * Reynaldo Vite Sánchez, Geophysics Ph.D. student, Summer '24-present
-* A. Hafiz Issah, Applied Math and Statistics Ph.D. student (previously Mathematics at Virginia Tech), Fall '21-present
-* Nikhil Punithan, Geophysics Ph.D. student (co-advised), Summer '25-present
 * Yida Song, Geophysics Ph.D. student, Fall '23-present
+* * A. Hafiz Issah, Applied Math and Statistics Ph.D. student (previously Mathematics at Virginia Tech), Fall '21-present
 
 ## Alumni of the Group and Thesis Links
 
